@@ -1,0 +1,1001 @@
+ID,Food,Calories,Price,Category,Restaurant,Location,Date,Rating,Discount,Delivery_Time,Notes,Fast_Delivery,Final_Price
+1,Cake,150.0,400.0,Fast Food,Mcdonald,Abuja,2024-04-07,4.0,20.0,30.0,Excellent,True,380.0
+2,Salad,500.0,450.0,Grain,Mcdonald,Ibadan,2025-03-18,5.0,10.0,20.0,Excellent,True,440.0
+3,Sushi,300.0,500.0,Seafood,Mcdonald,Kano,2023-07-06,5.0,15.0,20.0,Late,True,485.0
+4,Burger,300.0,1200.0,Vegetable,Mcdonald,Port Harcourt,2025-01-01,3.0,0.0,45.0,Delayed,False,1200.0
+5,Cake,350.0,200.0,Dessert,Kfc,Lagos,2024-03-04,1.0,0.0,25.0,Excellent,True,200.0
+6,Sandwich,500.0,500.0,Seafood,Subway,Abuja,2025-05-07,5.0,0.0,25.0,Late,True,500.0
+7,Pizza,350.0,550.0,Fast Food,Pizza Hut,Abuja,2023-08-25,5.0,15.0,20.0,Excellent,True,535.0
+8,Cake,500.0,300.0,Bakery,Pizza Hut,Lagos,2025-02-09,2.0,5.0,45.0,Late,False,295.0
+9,Sushi,350.0,350.0,Vegetable,Burger King,Ibadan,2025-01-27,5.0,20.0,45.0,Poor,False,330.0
+10,Burger,150.0,400.0,Fast Food,Subway,Lagos,2023-05-16,2.0,15.0,60.0,Average,False,385.0
+11,Salad,350.0,450.0,Dessert,Mcdonald,Lagos,2025-03-02,1.0,5.0,25.0,Average,True,445.0
+12,Sushi,8000.0,400.0,Dessert,Kfc,Port Harcourt,2023-06-20,5.0,5.0,15.0,Good,True,395.0
+13,Sushi,400.0,500.0,Grain,Subway,Abuja,2023-06-08,4.0,10.0,25.0,Delayed,True,490.0
+14,Pizza,250.0,350.0,Dessert,Mcdonald,Lagos,2023-07-20,5.0,15.0,25.0,Late,True,335.0
+15,Pasta,500.0,550.0,Seafood,Kfc,Lagos,2025-08-19,4.0,15.0,20.0,No Notes,True,535.0
+16,Burger,8000.0,400.0,Bakery,Subway,Abuja,2024-08-05,5.0,5.0,60.0,Good,False,395.0
+17,Bread,400.0,200.0,Seafood,Pizza Hut,Abuja,2025-05-25,2.0,5.0,30.0,Good,True,195.0
+18,Sushi,450.0,350.0,Vegetable,Pizza Hut,Port Harcourt,2024-01-06,3.0,5.0,25.0,Late,True,345.0
+19,Pasta,150.0,300.0,Vegetable,Subway,Abuja,2023-04-13,5.0,10.0,15.0,Late,True,290.0
+20,Bread,350.0,1200.0,Bakery,Mcdonald,Ibadan,2025-09-28,3.0,15.0,45.0,Good,False,1185.0
+21,Burger,350.0,550.0,Fast Food,Subway,Port Harcourt,2025-09-02,5.0,5.0,20.0,Good,True,545.0
+22,Rice,350.0,200.0,Fast Food,Domino's,Port Harcourt,2025-03-08,5.0,0.0,25.0,Average,True,200.0
+23,Sandwich,300.0,450.0,Fast Food,Subway,Lagos,2024-10-19,2.0,15.0,30.0,No Notes,True,435.0
+24,Pasta,400.0,1200.0,Vegetable,Mcdonald,Port Harcourt,2025-05-31,1.0,10.0,15.0,Good,True,1190.0
+25,Rice,450.0,500.0,Vegetable,Burger King,Abuja,2025-01-02,1.0,0.0,15.0,Average,True,500.0
+26,Rice,8000.0,350.0,Dessert,Subway,Lagos,2024-02-27,1.0,10.0,60.0,Good,False,340.0
+27,Sandwich,150.0,200.0,Grain,Burger King,Ibadan,2024-07-25,5.0,15.0,25.0,Excellent,True,185.0
+28,Pizza,400.0,250.0,Dessert,Mcdonald,Lagos,2023-06-20,5.0,10.0,30.0,Good,True,240.0
+29,Cake,450.0,400.0,Dessert,Domino's,Abuja,2023-06-22,3.0,5.0,15.0,Late,True,395.0
+30,Salad,250.0,400.0,Fast Food,Subway,Abuja,2024-10-24,2.0,10.0,20.0,Delayed,True,390.0
+31,Rice,500.0,550.0,Fast Food,Kfc,Ibadan,2024-03-28,5.0,5.0,15.0,Delayed,True,545.0
+32,Pizza,350.0,450.0,Fast Food,Mcdonald,Ibadan,2023-12-16,2.0,10.0,30.0,Good,True,440.0
+33,Burger,8000.0,550.0,Fast Food,Domino's,Abuja,2024-05-08,3.0,20.0,45.0,Poor,False,530.0
+34,Pizza,350.0,250.0,Bakery,Pizza Hut,Kano,2024-09-11,5.0,5.0,45.0,Excellent,False,245.0
+35,Cake,8000.0,300.0,Fast Food,Mcdonald,Lagos,2025-10-24,1.0,10.0,60.0,No Notes,False,290.0
+36,Burger,350.0,450.0,Grain,Domino's,Ibadan,2025-07-07,1.0,10.0,25.0,Good,True,440.0
+37,Rice,300.0,400.0,Seafood,Mcdonald,Port Harcourt,2023-01-06,5.0,5.0,30.0,No Notes,True,395.0
+38,Cake,8000.0,300.0,Vegetable,Subway,Abuja,2023-10-15,4.0,15.0,60.0,Excellent,False,285.0
+39,Bread,350.0,450.0,Vegetable,Domino's,Abuja,2024-08-30,4.0,10.0,25.0,Good,True,440.0
+40,Salad,350.0,450.0,Grain,Subway,Abuja,2024-04-01,4.0,10.0,15.0,Poor,True,440.0
+41,Rice,8000.0,250.0,Fast Food,Mcdonald,Abuja,2025-10-26,5.0,5.0,25.0,Average,True,245.0
+42,Bread,250.0,500.0,Dessert,Pizza Hut,Abuja,2024-09-15,2.0,20.0,15.0,Poor,True,480.0
+43,Sandwich,300.0,250.0,Bakery,Subway,Lagos,2024-01-11,5.0,5.0,45.0,Late,False,245.0
+44,Rice,8000.0,450.0,Fast Food,Kfc,Abuja,2024-03-22,2.0,10.0,60.0,Poor,False,440.0
+45,Sandwich,350.0,200.0,Vegetable,Pizza Hut,Abuja,2025-04-14,2.0,10.0,45.0,Average,False,190.0
+46,Burger,400.0,300.0,Dessert,Subway,Kano,2025-03-21,4.0,10.0,20.0,Late,True,290.0
+47,Bread,200.0,250.0,Dessert,Subway,Abuja,2025-08-16,4.0,10.0,25.0,Average,True,240.0
+48,Salad,450.0,500.0,Vegetable,Kfc,Abuja,2025-04-28,5.0,5.0,25.0,Delayed,True,495.0
+49,Cake,200.0,350.0,Dessert,Subway,Lagos,2025-03-19,4.0,10.0,45.0,Average,False,340.0
+50,Sushi,200.0,550.0,Fast Food,Domino's,Ibadan,2025-09-05,4.0,10.0,20.0,Good,True,540.0
+51,Pizza,150.0,450.0,Grain,Kfc,Lagos,2024-02-20,1.0,20.0,15.0,No Notes,True,430.0
+52,Rice,250.0,400.0,Grain,Mcdonald,Abuja,2024-12-26,1.0,15.0,60.0,Delayed,False,385.0
+53,Salad,400.0,350.0,Dessert,Mcdonald,Ibadan,2024-03-29,2.0,20.0,20.0,Delayed,True,330.0
+54,Bread,500.0,400.0,Vegetable,Mcdonald,Abuja,2023-05-30,3.0,0.0,60.0,No Notes,False,400.0
+55,Sushi,8000.0,1200.0,Fast Food,Pizza Hut,Abuja,2025-01-28,5.0,20.0,25.0,Delayed,True,1180.0
+56,Salad,450.0,500.0,Dessert,Subway,Abuja,2025-02-17,5.0,5.0,60.0,Average,False,495.0
+57,Bread,300.0,400.0,Bakery,Subway,Abuja,2025-08-30,2.0,15.0,25.0,Poor,True,385.0
+58,Pasta,400.0,1200.0,Vegetable,Mcdonald,Kano,2025-02-01,3.0,5.0,20.0,Excellent,True,1195.0
+59,Pasta,350.0,500.0,Bakery,Pizza Hut,Lagos,2025-09-28,4.0,0.0,25.0,Average,True,500.0
+60,Sandwich,500.0,200.0,Vegetable,Pizza Hut,Abuja,2023-03-17,1.0,15.0,25.0,Late,True,185.0
+61,Salad,150.0,550.0,Fast Food,Mcdonald,Ibadan,2024-08-21,5.0,10.0,25.0,Late,True,540.0
+62,Pasta,150.0,350.0,Fast Food,Burger King,Abuja,2023-08-13,4.0,10.0,45.0,Poor,False,340.0
+63,Bread,400.0,300.0,Dessert,Pizza Hut,Abuja,2023-04-23,3.0,20.0,20.0,Poor,True,280.0
+64,Sandwich,350.0,500.0,Dessert,Burger King,Abuja,2023-09-08,4.0,5.0,15.0,Delayed,True,495.0
+65,Bread,200.0,300.0,Fast Food,Mcdonald,Kano,2025-04-20,1.0,0.0,60.0,Good,False,300.0
+66,Sandwich,350.0,550.0,Seafood,Mcdonald,Port Harcourt,2024-12-14,4.0,10.0,30.0,Good,True,540.0
+67,Salad,150.0,450.0,Fast Food,Pizza Hut,Port Harcourt,2023-05-05,3.0,20.0,20.0,Delayed,True,430.0
+68,Sushi,450.0,400.0,Grain,Mcdonald,Kano,2025-12-28,2.0,10.0,45.0,Delayed,False,390.0
+69,Cake,150.0,350.0,Grain,Subway,Ibadan,2025-12-06,2.0,20.0,25.0,No Notes,True,330.0
+70,Rice,300.0,550.0,Seafood,Burger King,Lagos,2025-06-02,2.0,10.0,60.0,No Notes,False,540.0
+71,Sushi,8000.0,550.0,Fast Food,Burger King,Kano,2023-01-30,5.0,15.0,25.0,Excellent,True,535.0
+72,Burger,150.0,200.0,Dessert,Pizza Hut,Abuja,2023-10-08,4.0,10.0,15.0,Excellent,True,190.0
+73,Bread,300.0,1200.0,Fast Food,Mcdonald,Ibadan,2025-07-12,2.0,10.0,25.0,Excellent,True,1190.0
+74,Burger,400.0,400.0,Bakery,Kfc,Abuja,2024-01-03,5.0,10.0,30.0,Excellent,True,390.0
+75,Sushi,400.0,350.0,Fast Food,Subway,Kano,2024-05-09,5.0,15.0,20.0,Poor,True,335.0
+76,Sandwich,500.0,450.0,Vegetable,Mcdonald,Ibadan,2025-11-14,5.0,0.0,60.0,Poor,False,450.0
+77,Rice,150.0,450.0,Fast Food,Mcdonald,Kano,2024-12-18,1.0,20.0,20.0,No Notes,True,430.0
+78,Rice,450.0,250.0,Vegetable,Burger King,Kano,2025-10-13,5.0,10.0,45.0,Good,False,240.0
+79,Rice,150.0,550.0,Seafood,Pizza Hut,Lagos,2024-08-28,4.0,10.0,20.0,Delayed,True,540.0
+80,Rice,450.0,500.0,Grain,Pizza Hut,Lagos,2024-01-10,4.0,15.0,15.0,Late,True,485.0
+81,Cake,250.0,200.0,Dessert,Subway,Abuja,2024-09-30,5.0,0.0,30.0,Good,True,200.0
+82,Rice,500.0,400.0,Vegetable,Domino's,Ibadan,2025-11-14,2.0,20.0,25.0,Average,True,380.0
+83,Sushi,250.0,450.0,Grain,Subway,Ibadan,2023-04-26,1.0,15.0,30.0,Poor,True,435.0
+84,Rice,150.0,350.0,Dessert,Domino's,Lagos,2023-02-17,3.0,10.0,60.0,Excellent,False,340.0
+85,Sushi,500.0,250.0,Bakery,Burger King,Kano,2023-04-09,2.0,10.0,20.0,Excellent,True,240.0
+86,Sushi,250.0,350.0,Dessert,Mcdonald,Port Harcourt,2024-02-09,1.0,20.0,60.0,Average,False,330.0
+87,Pizza,200.0,200.0,Seafood,Subway,Kano,2024-11-15,5.0,10.0,25.0,Good,True,190.0
+88,Rice,150.0,500.0,Fast Food,Subway,Kano,2025-06-21,3.0,10.0,60.0,Excellent,False,490.0
+89,Sushi,250.0,250.0,Fast Food,Subway,Ibadan,2024-05-17,5.0,0.0,45.0,Good,False,250.0
+90,Pizza,200.0,250.0,Fast Food,Burger King,Kano,2025-06-12,4.0,15.0,30.0,Delayed,True,235.0
+91,Pizza,200.0,1200.0,Fast Food,Domino's,Abuja,2023-09-15,1.0,0.0,25.0,Average,True,1200.0
+92,Rice,400.0,400.0,Fast Food,Mcdonald,Kano,2025-04-23,5.0,10.0,25.0,Late,True,390.0
+93,Burger,150.0,250.0,Dessert,Subway,Abuja,2023-05-01,4.0,0.0,25.0,Good,True,250.0
+94,Sandwich,200.0,1200.0,Vegetable,Mcdonald,Lagos,2025-03-20,1.0,0.0,25.0,Delayed,True,1200.0
+95,Cake,400.0,1200.0,Bakery,Mcdonald,Port Harcourt,2025-09-04,1.0,5.0,25.0,Good,True,1195.0
+96,Sandwich,250.0,200.0,Fast Food,Pizza Hut,Abuja,2023-02-23,5.0,0.0,15.0,Good,True,200.0
+97,Rice,300.0,300.0,Seafood,Pizza Hut,Ibadan,2025-10-15,1.0,20.0,25.0,Excellent,True,280.0
+98,Cake,150.0,350.0,Seafood,Mcdonald,Kano,2025-02-22,2.0,15.0,30.0,No Notes,True,335.0
+99,Rice,500.0,500.0,Fast Food,Kfc,Abuja,2023-08-29,1.0,5.0,60.0,Poor,False,495.0
+100,Sushi,450.0,400.0,Fast Food,Kfc,Abuja,2024-04-27,4.0,15.0,25.0,Good,True,385.0
+101,Bread,450.0,350.0,Fast Food,Burger King,Lagos,2025-10-09,4.0,15.0,25.0,Good,True,335.0
+102,Rice,250.0,250.0,Bakery,Burger King,Abuja,2023-07-06,1.0,10.0,30.0,Good,True,240.0
+103,Cake,350.0,500.0,Fast Food,Pizza Hut,Abuja,2024-10-17,4.0,10.0,25.0,No Notes,True,490.0
+104,Cake,350.0,450.0,Bakery,Mcdonald,Abuja,2023-09-19,1.0,5.0,25.0,Delayed,True,445.0
+105,Sushi,250.0,300.0,Seafood,Subway,Lagos,2025-08-10,1.0,10.0,25.0,Late,True,290.0
+106,Burger,200.0,450.0,Fast Food,Domino's,Abuja,2024-05-05,5.0,10.0,45.0,Late,False,440.0
+107,Pizza,150.0,450.0,Dessert,Domino's,Port Harcourt,2024-03-06,2.0,10.0,45.0,Average,False,440.0
+108,Sushi,450.0,400.0,Dessert,Burger King,Abuja,2023-08-27,4.0,10.0,25.0,Excellent,True,390.0
+109,Pasta,450.0,350.0,Dessert,Mcdonald,Lagos,2023-10-31,2.0,15.0,45.0,No Notes,False,335.0
+110,Pizza,200.0,400.0,Seafood,Burger King,Lagos,2023-10-25,3.0,5.0,20.0,Delayed,True,395.0
+111,Rice,450.0,200.0,Bakery,Subway,Abuja,2023-03-17,5.0,15.0,25.0,Good,True,185.0
+112,Pizza,500.0,400.0,Dessert,Domino's,Kano,2025-09-25,5.0,20.0,20.0,Delayed,True,380.0
+113,Burger,150.0,450.0,Bakery,Mcdonald,Abuja,2024-10-03,2.0,15.0,30.0,No Notes,True,435.0
+114,Pizza,8000.0,250.0,Dessert,Burger King,Kano,2025-04-06,5.0,20.0,20.0,No Notes,True,230.0
+115,Rice,450.0,300.0,Dessert,Subway,Kano,2023-10-10,5.0,0.0,30.0,No Notes,True,300.0
+116,Burger,250.0,550.0,Bakery,Mcdonald,Abuja,2024-08-13,2.0,0.0,25.0,Average,True,550.0
+117,Sandwich,500.0,400.0,Vegetable,Subway,Ibadan,2023-03-13,5.0,20.0,30.0,Poor,True,380.0
+118,Cake,450.0,450.0,Dessert,Subway,Ibadan,2024-12-03,1.0,20.0,30.0,Excellent,True,430.0
+119,Cake,500.0,300.0,Fast Food,Burger King,Ibadan,2024-07-28,2.0,15.0,60.0,Average,False,285.0
+120,Rice,400.0,500.0,Dessert,Pizza Hut,Abuja,2025-09-26,2.0,20.0,20.0,Average,True,480.0
+121,Sandwich,8000.0,350.0,Seafood,Burger King,Kano,2025-06-10,4.0,5.0,60.0,Poor,False,345.0
+122,Sandwich,350.0,1200.0,Vegetable,Pizza Hut,Lagos,2023-01-12,5.0,0.0,25.0,Average,True,1200.0
+123,Pizza,250.0,400.0,Bakery,Subway,Port Harcourt,2023-05-21,5.0,0.0,25.0,No Notes,True,400.0
+124,Cake,250.0,300.0,Vegetable,Mcdonald,Ibadan,2023-01-17,2.0,10.0,20.0,No Notes,True,290.0
+125,Rice,150.0,250.0,Grain,Subway,Ibadan,2025-12-22,1.0,20.0,25.0,Delayed,True,230.0
+126,Salad,500.0,250.0,Grain,Domino's,Lagos,2023-09-10,1.0,10.0,25.0,Good,True,240.0
+127,Salad,200.0,300.0,Dessert,Mcdonald,Kano,2024-04-09,4.0,10.0,30.0,Average,True,290.0
+128,Burger,250.0,250.0,Dessert,Mcdonald,Kano,2024-01-11,1.0,20.0,20.0,Good,True,230.0
+129,Cake,500.0,350.0,Fast Food,Kfc,Abuja,2025-09-07,5.0,5.0,25.0,Excellent,True,345.0
+130,Cake,500.0,250.0,Dessert,Kfc,Abuja,2024-06-03,5.0,10.0,45.0,Late,False,240.0
+131,Salad,300.0,400.0,Seafood,Subway,Ibadan,2023-03-31,4.0,10.0,25.0,No Notes,True,390.0
+132,Cake,300.0,1200.0,Vegetable,Domino's,Kano,2024-12-20,2.0,20.0,45.0,Delayed,False,1180.0
+133,Pizza,350.0,250.0,Grain,Kfc,Lagos,2025-03-14,3.0,5.0,20.0,Excellent,True,245.0
+134,Pasta,400.0,1200.0,Dessert,Mcdonald,Port Harcourt,2025-03-06,4.0,5.0,25.0,Delayed,True,1195.0
+135,Bread,350.0,450.0,Fast Food,Burger King,Abuja,2024-09-21,5.0,15.0,60.0,Late,False,435.0
+136,Sandwich,450.0,200.0,Fast Food,Mcdonald,Kano,2023-03-17,3.0,5.0,20.0,Late,True,195.0
+137,Rice,200.0,350.0,Seafood,Mcdonald,Lagos,2025-07-14,4.0,10.0,60.0,Poor,False,340.0
+138,Burger,450.0,200.0,Vegetable,Domino's,Abuja,2024-02-04,1.0,10.0,60.0,No Notes,False,190.0
+139,Pasta,350.0,450.0,Dessert,Subway,Kano,2025-08-27,5.0,20.0,20.0,Excellent,True,430.0
+140,Salad,450.0,350.0,Dessert,Kfc,Abuja,2025-12-30,5.0,20.0,25.0,Poor,True,330.0
+141,Sandwich,150.0,300.0,Grain,Burger King,Abuja,2025-03-07,3.0,5.0,15.0,Late,True,295.0
+142,Cake,450.0,300.0,Grain,Mcdonald,Lagos,2023-07-14,5.0,10.0,25.0,Excellent,True,290.0
+143,Rice,350.0,1200.0,Dessert,Mcdonald,Port Harcourt,2023-08-16,4.0,0.0,25.0,Delayed,True,1200.0
+144,Cake,250.0,450.0,Bakery,Subway,Ibadan,2024-04-05,5.0,15.0,25.0,Poor,True,435.0
+145,Rice,250.0,1200.0,Dessert,Subway,Lagos,2024-09-09,5.0,0.0,30.0,Poor,True,1200.0
+146,Rice,300.0,400.0,Seafood,Subway,Kano,2025-11-10,3.0,5.0,30.0,No Notes,True,395.0
+147,Rice,200.0,250.0,Dessert,Mcdonald,Ibadan,2023-03-05,2.0,5.0,25.0,Good,True,245.0
+148,Rice,200.0,550.0,Fast Food,Mcdonald,Kano,2023-06-14,4.0,0.0,45.0,Delayed,False,550.0
+149,Salad,150.0,400.0,Dessert,Domino's,Ibadan,2023-01-27,2.0,15.0,25.0,Delayed,True,385.0
+150,Rice,350.0,250.0,Fast Food,Pizza Hut,Port Harcourt,2025-10-08,1.0,0.0,60.0,Poor,False,250.0
+151,Pizza,300.0,350.0,Fast Food,Pizza Hut,Abuja,2023-10-12,2.0,20.0,30.0,Poor,True,330.0
+152,Cake,350.0,1200.0,Bakery,Burger King,Port Harcourt,2023-10-08,2.0,10.0,25.0,No Notes,True,1190.0
+153,Pasta,200.0,350.0,Bakery,Mcdonald,Abuja,2025-04-17,4.0,10.0,25.0,Good,True,340.0
+154,Sushi,250.0,350.0,Fast Food,Mcdonald,Lagos,2025-04-10,4.0,20.0,15.0,Delayed,True,330.0
+155,Rice,450.0,250.0,Dessert,Mcdonald,Abuja,2025-07-06,1.0,10.0,45.0,Late,False,240.0
+156,Burger,450.0,450.0,Fast Food,Mcdonald,Port Harcourt,2023-08-12,2.0,10.0,20.0,Average,True,440.0
+157,Rice,300.0,250.0,Bakery,Domino's,Abuja,2025-02-22,5.0,10.0,25.0,Average,True,240.0
+158,Pizza,350.0,500.0,Grain,Subway,Lagos,2025-08-22,3.0,10.0,25.0,Good,True,490.0
+159,Sandwich,350.0,300.0,Dessert,Mcdonald,Abuja,2025-08-07,2.0,5.0,25.0,Excellent,True,295.0
+160,Sushi,400.0,300.0,Seafood,Mcdonald,Kano,2025-11-19,1.0,10.0,60.0,No Notes,False,290.0
+161,Pasta,8000.0,400.0,Dessert,Mcdonald,Abuja,2023-02-14,2.0,15.0,45.0,Good,False,385.0
+162,Sushi,200.0,300.0,Vegetable,Subway,Kano,2024-04-15,3.0,0.0,30.0,Average,True,300.0
+163,Rice,350.0,250.0,Dessert,Kfc,Ibadan,2023-02-03,1.0,15.0,30.0,Poor,True,235.0
+164,Salad,250.0,400.0,Vegetable,Subway,Abuja,2024-10-14,4.0,0.0,30.0,Average,True,400.0
+165,Rice,300.0,1200.0,Fast Food,Mcdonald,Kano,2025-04-09,1.0,20.0,20.0,Poor,True,1180.0
+166,Rice,350.0,250.0,Dessert,Subway,Lagos,2023-08-09,4.0,20.0,25.0,No Notes,True,230.0
+167,Sandwich,400.0,250.0,Vegetable,Mcdonald,Abuja,2024-06-17,1.0,0.0,45.0,Poor,False,250.0
+168,Salad,500.0,550.0,Fast Food,Domino's,Abuja,2024-11-22,5.0,15.0,45.0,Good,False,535.0
+169,Cake,150.0,1200.0,Grain,Burger King,Abuja,2025-07-20,3.0,0.0,30.0,Poor,True,1200.0
+170,Bread,350.0,500.0,Vegetable,Mcdonald,Lagos,2025-04-20,3.0,10.0,30.0,Excellent,True,490.0
+171,Pizza,500.0,300.0,Dessert,Mcdonald,Kano,2025-10-07,1.0,5.0,60.0,Good,False,295.0
+172,Rice,450.0,1200.0,Fast Food,Mcdonald,Ibadan,2024-08-04,5.0,20.0,15.0,No Notes,True,1180.0
+173,Burger,150.0,300.0,Dessert,Kfc,Port Harcourt,2023-08-27,2.0,5.0,15.0,Good,True,295.0
+174,Rice,200.0,400.0,Fast Food,Mcdonald,Ibadan,2024-03-16,3.0,10.0,25.0,Excellent,True,390.0
+175,Sushi,250.0,1200.0,Dessert,Pizza Hut,Lagos,2023-05-28,4.0,10.0,25.0,No Notes,True,1190.0
+176,Rice,150.0,300.0,Dessert,Burger King,Lagos,2025-10-29,4.0,20.0,45.0,Average,False,280.0
+177,Rice,8000.0,500.0,Bakery,Mcdonald,Kano,2024-01-23,5.0,20.0,45.0,Excellent,False,480.0
+178,Bread,500.0,200.0,Fast Food,Mcdonald,Lagos,2025-12-09,4.0,10.0,20.0,No Notes,True,190.0
+179,Bread,200.0,350.0,Vegetable,Kfc,Lagos,2025-07-04,5.0,10.0,20.0,Late,True,340.0
+180,Pasta,8000.0,350.0,Fast Food,Domino's,Lagos,2024-09-29,4.0,5.0,15.0,Poor,True,345.0
+181,Cake,450.0,500.0,Dessert,Mcdonald,Abuja,2023-10-05,4.0,5.0,25.0,Good,True,495.0
+182,Burger,8000.0,550.0,Grain,Pizza Hut,Abuja,2025-09-15,4.0,10.0,15.0,No Notes,True,540.0
+183,Rice,400.0,200.0,Fast Food,Mcdonald,Abuja,2024-08-11,5.0,15.0,15.0,Good,True,185.0
+184,Rice,400.0,400.0,Vegetable,Pizza Hut,Kano,2024-10-10,4.0,5.0,25.0,Poor,True,395.0
+185,Pizza,300.0,500.0,Bakery,Burger King,Lagos,2024-09-09,4.0,0.0,25.0,No Notes,True,500.0
+186,Bread,350.0,350.0,Fast Food,Burger King,Abuja,2023-05-15,1.0,10.0,20.0,Average,True,340.0
+187,Burger,350.0,350.0,Seafood,Subway,Lagos,2024-08-02,1.0,10.0,60.0,Late,False,340.0
+188,Sandwich,200.0,350.0,Grain,Subway,Port Harcourt,2024-05-04,1.0,10.0,60.0,Late,False,340.0
+189,Pasta,450.0,450.0,Fast Food,Pizza Hut,Lagos,2024-04-22,2.0,5.0,60.0,Excellent,False,445.0
+190,Cake,350.0,500.0,Bakery,Domino's,Lagos,2024-01-19,4.0,15.0,25.0,No Notes,True,485.0
+191,Salad,400.0,250.0,Fast Food,Mcdonald,Abuja,2023-06-12,2.0,5.0,30.0,Poor,True,245.0
+192,Cake,200.0,400.0,Dessert,Mcdonald,Port Harcourt,2024-03-16,5.0,10.0,30.0,No Notes,True,390.0
+193,Sushi,350.0,350.0,Dessert,Mcdonald,Abuja,2024-02-19,5.0,20.0,30.0,Good,True,330.0
+194,Rice,350.0,300.0,Dessert,Subway,Abuja,2023-10-15,4.0,0.0,45.0,Delayed,False,300.0
+195,Pasta,300.0,500.0,Fast Food,Subway,Abuja,2023-07-06,4.0,10.0,20.0,No Notes,True,490.0
+196,Sushi,8000.0,450.0,Vegetable,Mcdonald,Lagos,2023-05-10,4.0,20.0,20.0,Late,True,430.0
+197,Burger,400.0,500.0,Dessert,Pizza Hut,Lagos,2023-07-13,5.0,15.0,25.0,Late,True,485.0
+198,Salad,200.0,400.0,Grain,Mcdonald,Ibadan,2023-11-12,1.0,20.0,25.0,Late,True,380.0
+199,Bread,150.0,450.0,Dessert,Subway,Abuja,2023-05-24,4.0,20.0,45.0,Average,False,430.0
+200,Pasta,350.0,400.0,Vegetable,Mcdonald,Abuja,2023-01-16,3.0,15.0,15.0,No Notes,True,385.0
+201,Pasta,8000.0,500.0,Seafood,Mcdonald,Abuja,2024-02-27,2.0,20.0,25.0,Excellent,True,480.0
+202,Rice,400.0,250.0,Fast Food,Domino's,Port Harcourt,2023-09-02,2.0,10.0,60.0,No Notes,False,240.0
+203,Rice,350.0,400.0,Dessert,Kfc,Abuja,2025-07-15,4.0,10.0,30.0,Delayed,True,390.0
+204,Pasta,450.0,450.0,Fast Food,Mcdonald,Abuja,2023-05-09,5.0,5.0,60.0,Late,False,445.0
+205,Pizza,350.0,450.0,Fast Food,Subway,Lagos,2025-06-25,1.0,20.0,30.0,Good,True,430.0
+206,Salad,350.0,400.0,Dessert,Subway,Lagos,2025-06-05,2.0,10.0,60.0,Late,False,390.0
+207,Salad,400.0,400.0,Bakery,Subway,Kano,2023-12-07,1.0,5.0,15.0,No Notes,True,395.0
+208,Pizza,350.0,500.0,Fast Food,Subway,Kano,2023-01-04,5.0,5.0,60.0,Average,False,495.0
+209,Sandwich,8000.0,400.0,Seafood,Subway,Lagos,2023-11-02,4.0,20.0,60.0,Poor,False,380.0
+210,Pizza,400.0,550.0,Dessert,Kfc,Port Harcourt,2025-06-26,5.0,10.0,25.0,No Notes,True,540.0
+211,Pizza,500.0,500.0,Dessert,Mcdonald,Abuja,2024-08-29,3.0,10.0,60.0,No Notes,False,490.0
+212,Salad,200.0,400.0,Vegetable,Domino's,Abuja,2025-09-18,4.0,20.0,25.0,Excellent,True,380.0
+213,Cake,8000.0,200.0,Seafood,Domino's,Port Harcourt,2023-11-17,4.0,15.0,20.0,Average,True,185.0
+214,Salad,350.0,400.0,Dessert,Subway,Abuja,2024-07-12,5.0,5.0,45.0,Delayed,False,395.0
+215,Rice,450.0,400.0,Seafood,Domino's,Abuja,2024-09-09,2.0,20.0,60.0,Poor,False,380.0
+216,Rice,350.0,250.0,Fast Food,Subway,Kano,2024-12-11,3.0,5.0,20.0,Late,True,245.0
+217,Sushi,150.0,400.0,Dessert,Burger King,Port Harcourt,2024-06-14,2.0,10.0,25.0,Good,True,390.0
+218,Cake,350.0,400.0,Vegetable,Kfc,Abuja,2024-02-14,4.0,0.0,25.0,No Notes,True,400.0
+219,Bread,350.0,250.0,Dessert,Mcdonald,Abuja,2025-03-28,4.0,20.0,25.0,Delayed,True,230.0
+220,Sushi,350.0,400.0,Grain,Burger King,Abuja,2024-05-07,4.0,10.0,60.0,Poor,False,390.0
+221,Rice,200.0,350.0,Fast Food,Kfc,Ibadan,2023-01-12,1.0,20.0,60.0,Good,False,330.0
+222,Rice,400.0,200.0,Vegetable,Pizza Hut,Ibadan,2023-07-14,4.0,5.0,15.0,Delayed,True,195.0
+223,Rice,150.0,300.0,Grain,Mcdonald,Abuja,2024-05-04,2.0,10.0,20.0,Average,True,290.0
+224,Bread,250.0,200.0,Seafood,Subway,Ibadan,2025-03-05,4.0,15.0,30.0,Average,True,185.0
+225,Cake,350.0,400.0,Bakery,Subway,Lagos,2025-05-30,1.0,10.0,30.0,Poor,True,390.0
+226,Sandwich,300.0,350.0,Vegetable,Domino's,Abuja,2023-07-01,5.0,10.0,15.0,Late,True,340.0
+227,Pizza,250.0,500.0,Seafood,Pizza Hut,Abuja,2025-08-19,4.0,20.0,25.0,Good,True,480.0
+228,Cake,350.0,400.0,Grain,Domino's,Port Harcourt,2024-10-17,4.0,15.0,30.0,Average,True,385.0
+229,Sandwich,350.0,400.0,Fast Food,Burger King,Abuja,2024-11-24,2.0,10.0,30.0,Poor,True,390.0
+230,Rice,500.0,350.0,Fast Food,Mcdonald,Abuja,2023-01-30,4.0,0.0,25.0,Average,True,350.0
+231,Salad,300.0,250.0,Bakery,Mcdonald,Kano,2025-02-16,2.0,10.0,25.0,Average,True,240.0
+232,Rice,150.0,350.0,Fast Food,Mcdonald,Abuja,2024-03-19,5.0,5.0,45.0,Delayed,False,345.0
+233,Bread,450.0,250.0,Vegetable,Subway,Port Harcourt,2023-10-25,4.0,10.0,20.0,Delayed,True,240.0
+234,Rice,500.0,550.0,Vegetable,Domino's,Abuja,2025-03-18,4.0,10.0,25.0,Average,True,540.0
+235,Burger,250.0,300.0,Vegetable,Pizza Hut,Kano,2025-04-24,2.0,0.0,60.0,Excellent,False,300.0
+236,Burger,400.0,1200.0,Fast Food,Mcdonald,Abuja,2025-10-12,2.0,20.0,20.0,Delayed,True,1180.0
+237,Cake,200.0,350.0,Seafood,Pizza Hut,Port Harcourt,2024-07-07,1.0,10.0,25.0,Good,True,340.0
+238,Rice,450.0,450.0,Dessert,Domino's,Abuja,2023-10-30,5.0,10.0,30.0,Poor,True,440.0
+239,Rice,500.0,400.0,Dessert,Subway,Ibadan,2024-02-25,5.0,5.0,45.0,Poor,False,395.0
+240,Pizza,400.0,400.0,Bakery,Burger King,Abuja,2023-07-04,5.0,10.0,20.0,Late,True,390.0
+241,Pizza,400.0,400.0,Vegetable,Subway,Abuja,2024-04-12,5.0,15.0,30.0,Good,True,385.0
+242,Pizza,350.0,200.0,Seafood,Pizza Hut,Abuja,2025-01-23,1.0,10.0,25.0,Good,True,190.0
+243,Salad,500.0,1200.0,Fast Food,Subway,Lagos,2023-12-29,4.0,5.0,20.0,Good,True,1195.0
+244,Sushi,150.0,200.0,Grain,Subway,Abuja,2023-12-02,4.0,10.0,60.0,Late,False,190.0
+245,Pasta,350.0,550.0,Seafood,Burger King,Port Harcourt,2023-06-11,2.0,0.0,20.0,Good,True,550.0
+246,Sushi,300.0,1200.0,Fast Food,Domino's,Port Harcourt,2023-01-12,4.0,10.0,30.0,No Notes,True,1190.0
+247,Rice,300.0,1200.0,Dessert,Domino's,Lagos,2024-08-10,4.0,10.0,20.0,Late,True,1190.0
+248,Sushi,250.0,200.0,Dessert,Subway,Abuja,2023-07-20,3.0,15.0,60.0,Poor,False,185.0
+249,Salad,250.0,250.0,Fast Food,Subway,Abuja,2024-06-05,4.0,0.0,45.0,No Notes,False,250.0
+250,Rice,300.0,200.0,Fast Food,Domino's,Abuja,2024-05-19,3.0,0.0,45.0,Late,False,200.0
+251,Sushi,150.0,400.0,Fast Food,Domino's,Kano,2025-02-26,5.0,10.0,30.0,Average,True,390.0
+252,Salad,200.0,250.0,Grain,Kfc,Lagos,2025-11-28,4.0,10.0,25.0,Average,True,240.0
+253,Pasta,8000.0,400.0,Fast Food,Mcdonald,Abuja,2023-03-01,2.0,15.0,30.0,Poor,True,385.0
+254,Sushi,350.0,550.0,Bakery,Subway,Ibadan,2024-07-31,4.0,10.0,45.0,Average,False,540.0
+255,Salad,200.0,400.0,Grain,Mcdonald,Kano,2023-11-17,4.0,10.0,15.0,Good,True,390.0
+256,Pizza,350.0,500.0,Fast Food,Subway,Lagos,2025-07-11,3.0,5.0,15.0,Late,True,495.0
+257,Rice,8000.0,250.0,Dessert,Subway,Abuja,2024-07-22,2.0,5.0,20.0,No Notes,True,245.0
+258,Pizza,8000.0,550.0,Seafood,Mcdonald,Abuja,2024-06-10,4.0,10.0,60.0,Good,False,540.0
+259,Rice,500.0,450.0,Fast Food,Kfc,Kano,2024-06-07,5.0,15.0,25.0,Average,True,435.0
+260,Bread,150.0,550.0,Bakery,Subway,Ibadan,2024-09-04,4.0,20.0,25.0,Delayed,True,530.0
+261,Bread,150.0,200.0,Vegetable,Burger King,Lagos,2023-05-05,4.0,5.0,25.0,No Notes,True,195.0
+262,Bread,8000.0,200.0,Fast Food,Domino's,Abuja,2025-05-20,5.0,20.0,20.0,Good,True,180.0
+263,Pasta,500.0,500.0,Dessert,Mcdonald,Abuja,2023-10-07,4.0,0.0,15.0,Late,True,500.0
+264,Pizza,350.0,550.0,Dessert,Pizza Hut,Lagos,2025-07-05,4.0,5.0,45.0,Poor,False,545.0
+265,Rice,8000.0,300.0,Dessert,Subway,Lagos,2024-09-13,2.0,5.0,20.0,Good,True,295.0
+266,Salad,450.0,400.0,Vegetable,Mcdonald,Kano,2025-04-25,4.0,15.0,25.0,Delayed,True,385.0
+267,Rice,250.0,200.0,Dessert,Burger King,Kano,2024-11-04,4.0,10.0,25.0,Average,True,190.0
+268,Salad,250.0,500.0,Dessert,Subway,Port Harcourt,2023-11-10,3.0,20.0,30.0,No Notes,True,480.0
+269,Rice,200.0,400.0,Fast Food,Mcdonald,Ibadan,2023-11-28,4.0,5.0,25.0,Poor,True,395.0
+270,Burger,350.0,550.0,Fast Food,Domino's,Abuja,2023-02-05,4.0,5.0,60.0,No Notes,False,545.0
+271,Salad,250.0,550.0,Dessert,Kfc,Lagos,2025-11-11,5.0,15.0,25.0,Poor,True,535.0
+272,Sushi,400.0,1200.0,Grain,Subway,Lagos,2023-07-25,3.0,15.0,30.0,Late,True,1185.0
+273,Sushi,200.0,500.0,Fast Food,Mcdonald,Lagos,2024-09-30,5.0,10.0,25.0,No Notes,True,490.0
+274,Cake,250.0,200.0,Vegetable,Domino's,Lagos,2025-04-27,3.0,20.0,60.0,Average,False,180.0
+275,Pizza,350.0,300.0,Dessert,Domino's,Lagos,2024-03-15,4.0,0.0,45.0,Late,False,300.0
+276,Rice,150.0,550.0,Grain,Kfc,Abuja,2024-12-29,4.0,10.0,20.0,Late,True,540.0
+277,Rice,150.0,300.0,Grain,Subway,Lagos,2025-07-29,3.0,0.0,60.0,Poor,False,300.0
+278,Pizza,350.0,550.0,Grain,Subway,Lagos,2023-06-13,5.0,10.0,30.0,Excellent,True,540.0
+279,Pasta,8000.0,200.0,Grain,Subway,Ibadan,2023-05-28,3.0,5.0,20.0,No Notes,True,195.0
+280,Cake,450.0,400.0,Fast Food,Subway,Abuja,2023-10-21,5.0,20.0,20.0,No Notes,True,380.0
+281,Pasta,150.0,350.0,Fast Food,Mcdonald,Abuja,2023-07-14,5.0,10.0,30.0,Good,True,340.0
+282,Pasta,500.0,400.0,Fast Food,Mcdonald,Port Harcourt,2024-10-24,3.0,5.0,15.0,Poor,True,395.0
+283,Pasta,250.0,550.0,Dessert,Subway,Port Harcourt,2024-04-24,5.0,20.0,25.0,Delayed,True,530.0
+284,Pizza,500.0,400.0,Seafood,Burger King,Lagos,2023-05-03,3.0,20.0,60.0,Excellent,False,380.0
+285,Pasta,350.0,350.0,Fast Food,Pizza Hut,Ibadan,2024-11-29,5.0,20.0,30.0,Average,True,330.0
+286,Sushi,150.0,350.0,Fast Food,Domino's,Lagos,2025-08-22,3.0,5.0,45.0,Good,False,345.0
+287,Bread,450.0,300.0,Dessert,Pizza Hut,Port Harcourt,2024-10-22,2.0,10.0,25.0,Excellent,True,290.0
+288,Burger,350.0,500.0,Dessert,Domino's,Lagos,2024-12-10,5.0,15.0,30.0,Poor,True,485.0
+289,Rice,400.0,300.0,Dessert,Subway,Lagos,2024-01-31,5.0,5.0,25.0,Excellent,True,295.0
+290,Rice,400.0,300.0,Seafood,Mcdonald,Abuja,2025-06-30,5.0,20.0,25.0,Late,True,280.0
+291,Burger,500.0,400.0,Dessert,Burger King,Abuja,2025-10-01,5.0,10.0,20.0,No Notes,True,390.0
+292,Pizza,8000.0,400.0,Dessert,Mcdonald,Abuja,2023-11-13,1.0,10.0,20.0,Late,True,390.0
+293,Salad,200.0,400.0,Dessert,Pizza Hut,Ibadan,2024-11-11,5.0,0.0,30.0,No Notes,True,400.0
+294,Pizza,8000.0,450.0,Fast Food,Mcdonald,Kano,2024-05-09,3.0,20.0,25.0,Good,True,430.0
+295,Rice,350.0,550.0,Bakery,Subway,Abuja,2024-07-09,5.0,10.0,30.0,Poor,True,540.0
+296,Rice,8000.0,400.0,Fast Food,Burger King,Kano,2024-09-01,4.0,15.0,25.0,Poor,True,385.0
+297,Burger,350.0,450.0,Seafood,Pizza Hut,Abuja,2023-04-19,1.0,20.0,25.0,Excellent,True,430.0
+298,Pasta,350.0,200.0,Dessert,Burger King,Abuja,2024-01-07,2.0,10.0,25.0,Good,True,190.0
+299,Pizza,450.0,550.0,Seafood,Subway,Lagos,2025-05-04,5.0,20.0,25.0,Poor,True,530.0
+300,Rice,150.0,550.0,Fast Food,Domino's,Port Harcourt,2024-09-07,5.0,5.0,25.0,Delayed,True,545.0
+301,Burger,450.0,1200.0,Fast Food,Mcdonald,Abuja,2025-02-06,1.0,10.0,45.0,Delayed,False,1190.0
+302,Sushi,350.0,1200.0,Seafood,Burger King,Abuja,2023-07-25,3.0,10.0,25.0,Late,True,1190.0
+303,Rice,350.0,250.0,Bakery,Kfc,Kano,2025-04-26,4.0,10.0,60.0,No Notes,False,240.0
+304,Burger,400.0,250.0,Bakery,Subway,Port Harcourt,2023-02-12,2.0,5.0,20.0,Excellent,True,245.0
+305,Pizza,350.0,300.0,Fast Food,Mcdonald,Abuja,2025-05-14,5.0,5.0,20.0,Average,True,295.0
+306,Rice,450.0,200.0,Seafood,Domino's,Abuja,2025-02-23,3.0,10.0,25.0,No Notes,True,190.0
+307,Salad,350.0,350.0,Dessert,Burger King,Abuja,2024-04-20,5.0,10.0,20.0,Good,True,340.0
+308,Burger,450.0,350.0,Fast Food,Pizza Hut,Abuja,2023-03-24,4.0,10.0,15.0,Poor,True,340.0
+309,Cake,8000.0,1200.0,Vegetable,Domino's,Abuja,2023-07-09,5.0,10.0,25.0,No Notes,True,1190.0
+310,Rice,250.0,1200.0,Bakery,Kfc,Port Harcourt,2025-03-10,4.0,0.0,20.0,Average,True,1200.0
+311,Pizza,500.0,1200.0,Grain,Burger King,Lagos,2025-07-24,2.0,10.0,15.0,Average,True,1190.0
+312,Bread,200.0,400.0,Fast Food,Mcdonald,Ibadan,2023-09-08,4.0,0.0,45.0,Delayed,False,400.0
+313,Rice,450.0,500.0,Fast Food,Mcdonald,Port Harcourt,2023-10-18,4.0,20.0,20.0,Good,True,480.0
+314,Sandwich,200.0,250.0,Fast Food,Subway,Kano,2023-11-22,4.0,10.0,15.0,No Notes,True,240.0
+315,Pasta,300.0,400.0,Seafood,Mcdonald,Ibadan,2025-04-16,5.0,20.0,30.0,Excellent,True,380.0
+316,Sandwich,450.0,400.0,Grain,Pizza Hut,Abuja,2024-05-22,4.0,10.0,60.0,No Notes,False,390.0
+317,Pizza,250.0,350.0,Seafood,Subway,Lagos,2024-12-31,2.0,10.0,30.0,Delayed,True,340.0
+318,Sushi,200.0,550.0,Dessert,Burger King,Abuja,2023-03-13,1.0,20.0,15.0,Late,True,530.0
+319,Sushi,350.0,250.0,Fast Food,Mcdonald,Abuja,2024-10-02,2.0,15.0,25.0,Average,True,235.0
+320,Bread,450.0,450.0,Fast Food,Mcdonald,Abuja,2025-07-28,2.0,5.0,25.0,Good,True,445.0
+321,Pasta,150.0,400.0,Bakery,Mcdonald,Port Harcourt,2024-08-30,1.0,10.0,25.0,Good,True,390.0
+322,Cake,500.0,250.0,Fast Food,Burger King,Abuja,2024-07-19,1.0,5.0,25.0,Excellent,True,245.0
+323,Bread,250.0,400.0,Bakery,Mcdonald,Lagos,2023-02-23,3.0,0.0,25.0,Good,True,400.0
+324,Sandwich,200.0,200.0,Grain,Domino's,Abuja,2024-06-11,4.0,20.0,20.0,Delayed,True,180.0
+325,Bread,250.0,550.0,Fast Food,Subway,Kano,2024-09-02,5.0,0.0,25.0,Delayed,True,550.0
+326,Sandwich,350.0,250.0,Dessert,Burger King,Abuja,2023-07-12,3.0,10.0,30.0,Delayed,True,240.0
+327,Rice,500.0,500.0,Seafood,Pizza Hut,Abuja,2023-02-27,1.0,5.0,25.0,Good,True,495.0
+328,Sushi,350.0,1200.0,Dessert,Subway,Abuja,2023-05-09,4.0,5.0,25.0,Good,True,1195.0
+329,Rice,450.0,1200.0,Fast Food,Subway,Ibadan,2024-12-06,5.0,20.0,25.0,Delayed,True,1180.0
+330,Rice,450.0,550.0,Grain,Pizza Hut,Abuja,2025-05-01,4.0,10.0,30.0,Good,True,540.0
+331,Pasta,450.0,400.0,Vegetable,Subway,Abuja,2023-01-08,2.0,15.0,45.0,Good,False,385.0
+332,Cake,500.0,1200.0,Grain,Kfc,Port Harcourt,2023-01-29,5.0,15.0,25.0,Average,True,1185.0
+333,Sandwich,150.0,250.0,Dessert,Mcdonald,Abuja,2025-08-04,2.0,20.0,25.0,No Notes,True,230.0
+334,Cake,300.0,450.0,Grain,Kfc,Lagos,2023-05-11,2.0,10.0,60.0,Poor,False,440.0
+335,Sandwich,400.0,350.0,Dessert,Mcdonald,Port Harcourt,2023-07-07,5.0,20.0,15.0,Good,True,330.0
+336,Pizza,8000.0,350.0,Dessert,Mcdonald,Lagos,2024-12-09,4.0,10.0,20.0,Poor,True,340.0
+337,Bread,200.0,400.0,Dessert,Subway,Port Harcourt,2023-07-31,1.0,0.0,25.0,Late,True,400.0
+338,Rice,150.0,300.0,Fast Food,Kfc,Ibadan,2023-10-03,4.0,20.0,60.0,Poor,False,280.0
+339,Sushi,350.0,200.0,Fast Food,Burger King,Ibadan,2023-08-31,2.0,10.0,60.0,Average,False,190.0
+340,Sandwich,200.0,550.0,Dessert,Pizza Hut,Abuja,2025-09-13,5.0,15.0,25.0,Good,True,535.0
+341,Cake,450.0,400.0,Vegetable,Kfc,Port Harcourt,2024-11-15,3.0,10.0,45.0,Delayed,False,390.0
+342,Rice,250.0,300.0,Fast Food,Mcdonald,Ibadan,2023-06-20,2.0,10.0,15.0,Poor,True,290.0
+343,Salad,350.0,400.0,Grain,Kfc,Abuja,2024-10-14,4.0,20.0,20.0,Good,True,380.0
+344,Salad,200.0,500.0,Dessert,Burger King,Abuja,2023-07-07,1.0,0.0,25.0,Excellent,True,500.0
+345,Rice,450.0,500.0,Grain,Kfc,Port Harcourt,2023-02-21,2.0,0.0,20.0,Late,True,500.0
+346,Sushi,200.0,200.0,Vegetable,Pizza Hut,Lagos,2023-04-21,2.0,0.0,30.0,Delayed,True,200.0
+347,Pizza,250.0,1200.0,Fast Food,Subway,Abuja,2025-05-26,4.0,0.0,60.0,Excellent,False,1200.0
+348,Cake,450.0,250.0,Bakery,Burger King,Abuja,2025-12-02,5.0,10.0,60.0,Excellent,False,240.0
+349,Bread,300.0,400.0,Dessert,Mcdonald,Abuja,2023-07-30,3.0,20.0,25.0,Poor,True,380.0
+350,Bread,150.0,400.0,Fast Food,Pizza Hut,Lagos,2025-05-07,3.0,5.0,25.0,Excellent,True,395.0
+351,Cake,350.0,550.0,Dessert,Kfc,Abuja,2024-09-18,5.0,20.0,30.0,Average,True,530.0
+352,Pasta,8000.0,550.0,Grain,Kfc,Lagos,2025-11-15,1.0,10.0,45.0,Average,False,540.0
+353,Pizza,500.0,500.0,Bakery,Subway,Abuja,2023-10-26,5.0,0.0,25.0,Poor,True,500.0
+354,Rice,8000.0,500.0,Seafood,Mcdonald,Lagos,2025-07-12,4.0,10.0,60.0,Good,False,490.0
+355,Sandwich,350.0,450.0,Seafood,Mcdonald,Abuja,2023-05-17,1.0,15.0,20.0,No Notes,True,435.0
+356,Pasta,8000.0,450.0,Fast Food,Domino's,Abuja,2025-11-09,2.0,15.0,15.0,Good,True,435.0
+357,Sandwich,450.0,1200.0,Vegetable,Mcdonald,Lagos,2024-03-15,2.0,20.0,25.0,Good,True,1180.0
+358,Sandwich,300.0,450.0,Seafood,Subway,Lagos,2023-07-30,3.0,20.0,20.0,Good,True,430.0
+359,Pasta,350.0,250.0,Dessert,Mcdonald,Kano,2025-01-21,4.0,5.0,45.0,Good,False,245.0
+360,Rice,150.0,250.0,Seafood,Domino's,Port Harcourt,2024-03-10,5.0,5.0,15.0,Delayed,True,245.0
+361,Salad,150.0,400.0,Fast Food,Domino's,Abuja,2025-02-18,4.0,15.0,20.0,No Notes,True,385.0
+362,Sandwich,250.0,350.0,Fast Food,Kfc,Abuja,2024-03-14,2.0,0.0,20.0,Delayed,True,350.0
+363,Pasta,500.0,250.0,Fast Food,Kfc,Abuja,2024-10-27,5.0,10.0,30.0,Excellent,True,240.0
+364,Pasta,200.0,300.0,Fast Food,Mcdonald,Ibadan,2025-12-01,4.0,5.0,25.0,Late,True,295.0
+365,Burger,300.0,500.0,Seafood,Domino's,Abuja,2024-02-15,4.0,10.0,45.0,Good,False,490.0
+366,Rice,200.0,550.0,Vegetable,Subway,Abuja,2025-03-16,5.0,5.0,60.0,Late,False,545.0
+367,Sushi,350.0,450.0,Dessert,Kfc,Abuja,2024-09-01,2.0,0.0,30.0,Average,True,450.0
+368,Burger,8000.0,400.0,Dessert,Subway,Abuja,2024-03-02,4.0,0.0,15.0,Poor,True,400.0
+369,Burger,150.0,200.0,Fast Food,Subway,Abuja,2025-06-20,5.0,20.0,25.0,Poor,True,180.0
+370,Cake,350.0,550.0,Bakery,Kfc,Abuja,2025-07-30,4.0,10.0,60.0,Delayed,False,540.0
+371,Salad,8000.0,300.0,Dessert,Burger King,Abuja,2025-01-11,4.0,0.0,30.0,Delayed,True,300.0
+372,Pasta,150.0,450.0,Dessert,Burger King,Kano,2023-11-24,2.0,5.0,25.0,Average,True,445.0
+373,Salad,8000.0,300.0,Fast Food,Kfc,Port Harcourt,2023-02-21,5.0,5.0,45.0,Good,False,295.0
+374,Pizza,500.0,500.0,Fast Food,Domino's,Abuja,2024-01-11,4.0,15.0,25.0,Late,True,485.0
+375,Cake,300.0,500.0,Seafood,Mcdonald,Port Harcourt,2023-09-20,5.0,0.0,25.0,Late,True,500.0
+376,Sushi,350.0,1200.0,Fast Food,Mcdonald,Abuja,2023-09-24,4.0,10.0,15.0,No Notes,True,1190.0
+377,Salad,350.0,400.0,Bakery,Domino's,Lagos,2023-12-25,2.0,20.0,25.0,Excellent,True,380.0
+378,Bread,350.0,550.0,Fast Food,Pizza Hut,Lagos,2024-10-13,4.0,10.0,30.0,Poor,True,540.0
+379,Sandwich,400.0,400.0,Grain,Mcdonald,Lagos,2023-02-15,5.0,10.0,15.0,Excellent,True,390.0
+380,Pizza,450.0,400.0,Dessert,Burger King,Lagos,2024-08-22,4.0,20.0,60.0,No Notes,False,380.0
+381,Rice,500.0,550.0,Bakery,Subway,Lagos,2024-12-20,5.0,5.0,45.0,Delayed,False,545.0
+382,Sushi,500.0,200.0,Bakery,Domino's,Lagos,2024-08-23,5.0,10.0,15.0,Late,True,190.0
+383,Pizza,200.0,400.0,Vegetable,Mcdonald,Abuja,2024-01-16,1.0,20.0,60.0,Poor,False,380.0
+384,Sandwich,8000.0,300.0,Fast Food,Burger King,Lagos,2023-04-28,1.0,5.0,15.0,Excellent,True,295.0
+385,Cake,450.0,200.0,Seafood,Subway,Lagos,2023-04-26,2.0,5.0,20.0,Delayed,True,195.0
+386,Sandwich,300.0,350.0,Vegetable,Subway,Abuja,2023-09-17,4.0,5.0,20.0,No Notes,True,345.0
+387,Burger,300.0,550.0,Bakery,Domino's,Ibadan,2023-11-01,4.0,5.0,15.0,Excellent,True,545.0
+388,Sandwich,500.0,300.0,Bakery,Subway,Abuja,2023-01-07,4.0,5.0,25.0,Late,True,295.0
+389,Burger,300.0,400.0,Bakery,Domino's,Abuja,2024-01-01,5.0,15.0,25.0,Good,True,385.0
+390,Cake,400.0,250.0,Dessert,Mcdonald,Lagos,2024-06-06,4.0,10.0,20.0,Delayed,True,240.0
+391,Rice,350.0,1200.0,Fast Food,Kfc,Abuja,2024-03-04,4.0,20.0,25.0,No Notes,True,1180.0
+392,Burger,250.0,400.0,Dessert,Burger King,Ibadan,2025-03-01,4.0,15.0,25.0,Excellent,True,385.0
+393,Rice,350.0,400.0,Dessert,Pizza Hut,Lagos,2025-01-16,2.0,15.0,45.0,Late,False,385.0
+394,Sandwich,200.0,500.0,Vegetable,Kfc,Abuja,2024-01-02,5.0,0.0,60.0,Good,False,500.0
+395,Sandwich,8000.0,250.0,Bakery,Burger King,Abuja,2023-11-09,4.0,0.0,30.0,Good,True,250.0
+396,Rice,350.0,1200.0,Dessert,Domino's,Kano,2024-06-21,2.0,0.0,20.0,No Notes,True,1200.0
+397,Bread,8000.0,1200.0,Fast Food,Burger King,Port Harcourt,2025-07-09,4.0,10.0,15.0,Average,True,1190.0
+398,Pasta,150.0,350.0,Fast Food,Mcdonald,Abuja,2025-12-13,1.0,0.0,25.0,Late,True,350.0
+399,Rice,350.0,350.0,Dessert,Domino's,Lagos,2025-05-14,3.0,20.0,30.0,Late,True,330.0
+400,Sushi,250.0,450.0,Seafood,Kfc,Lagos,2025-02-20,2.0,15.0,60.0,Poor,False,435.0
+401,Burger,500.0,400.0,Fast Food,Mcdonald,Abuja,2023-11-30,4.0,20.0,25.0,No Notes,True,380.0
+402,Rice,400.0,400.0,Seafood,Mcdonald,Lagos,2025-03-08,3.0,10.0,60.0,Good,False,390.0
+403,Cake,350.0,400.0,Dessert,Subway,Lagos,2023-12-14,2.0,0.0,20.0,Good,True,400.0
+404,Burger,350.0,450.0,Fast Food,Subway,Lagos,2023-09-30,5.0,10.0,60.0,No Notes,False,440.0
+405,Pasta,400.0,200.0,Seafood,Burger King,Lagos,2025-08-20,4.0,10.0,60.0,Average,False,190.0
+406,Cake,450.0,1200.0,Dessert,Mcdonald,Lagos,2024-12-20,5.0,10.0,25.0,Poor,True,1190.0
+407,Pizza,150.0,250.0,Dessert,Domino's,Ibadan,2024-05-14,1.0,10.0,25.0,Excellent,True,240.0
+408,Sandwich,8000.0,400.0,Dessert,Subway,Lagos,2024-11-15,4.0,15.0,25.0,No Notes,True,385.0
+409,Pizza,250.0,1200.0,Dessert,Domino's,Abuja,2023-03-20,5.0,20.0,25.0,Poor,True,1180.0
+410,Burger,300.0,350.0,Grain,Subway,Lagos,2024-09-13,1.0,5.0,15.0,Late,True,345.0
+411,Pasta,350.0,300.0,Grain,Kfc,Abuja,2025-08-04,3.0,20.0,60.0,Poor,False,280.0
+412,Rice,150.0,500.0,Grain,Pizza Hut,Port Harcourt,2023-12-24,2.0,0.0,60.0,Delayed,False,500.0
+413,Burger,350.0,450.0,Seafood,Subway,Abuja,2024-09-09,4.0,5.0,60.0,Good,False,445.0
+414,Rice,250.0,550.0,Dessert,Mcdonald,Kano,2024-05-21,1.0,10.0,45.0,Excellent,False,540.0
+415,Salad,200.0,300.0,Dessert,Domino's,Ibadan,2024-07-29,4.0,15.0,25.0,No Notes,True,285.0
+416,Burger,200.0,400.0,Dessert,Kfc,Abuja,2023-09-01,4.0,15.0,30.0,Good,True,385.0
+417,Sandwich,150.0,400.0,Fast Food,Mcdonald,Ibadan,2024-05-20,2.0,10.0,20.0,Delayed,True,390.0
+418,Sandwich,500.0,350.0,Dessert,Kfc,Abuja,2024-02-26,3.0,0.0,25.0,Delayed,True,350.0
+419,Burger,250.0,350.0,Fast Food,Pizza Hut,Lagos,2023-08-05,2.0,10.0,30.0,Good,True,340.0
+420,Cake,250.0,350.0,Grain,Mcdonald,Lagos,2025-10-05,4.0,10.0,25.0,Average,True,340.0
+421,Salad,400.0,400.0,Grain,Domino's,Port Harcourt,2023-11-26,1.0,0.0,15.0,Poor,True,400.0
+422,Rice,500.0,550.0,Seafood,Burger King,Port Harcourt,2024-10-11,4.0,5.0,15.0,No Notes,True,545.0
+423,Burger,8000.0,450.0,Dessert,Domino's,Abuja,2024-01-26,2.0,10.0,25.0,No Notes,True,440.0
+424,Cake,8000.0,300.0,Grain,Subway,Kano,2024-01-16,2.0,0.0,60.0,No Notes,False,300.0
+425,Sandwich,300.0,400.0,Dessert,Pizza Hut,Port Harcourt,2025-01-11,2.0,5.0,30.0,Good,True,395.0
+426,Sandwich,350.0,400.0,Dessert,Domino's,Lagos,2025-03-30,1.0,10.0,60.0,Late,False,390.0
+427,Pasta,200.0,450.0,Fast Food,Subway,Lagos,2024-11-03,3.0,15.0,45.0,Average,False,435.0
+428,Burger,8000.0,400.0,Seafood,Burger King,Kano,2024-05-27,5.0,10.0,15.0,Excellent,True,390.0
+429,Salad,500.0,450.0,Bakery,Subway,Abuja,2025-08-06,2.0,20.0,15.0,Delayed,True,430.0
+430,Bread,250.0,550.0,Bakery,Kfc,Abuja,2025-07-18,1.0,10.0,30.0,Good,True,540.0
+431,Salad,8000.0,500.0,Vegetable,Burger King,Abuja,2025-07-01,4.0,20.0,15.0,Late,True,480.0
+432,Sandwich,250.0,400.0,Fast Food,Mcdonald,Lagos,2024-10-05,4.0,5.0,45.0,Excellent,False,395.0
+433,Sandwich,8000.0,400.0,Seafood,Pizza Hut,Lagos,2024-03-02,5.0,10.0,45.0,Delayed,False,390.0
+434,Pizza,200.0,450.0,Vegetable,Subway,Port Harcourt,2024-05-16,5.0,5.0,45.0,Delayed,False,445.0
+435,Sandwich,350.0,350.0,Vegetable,Mcdonald,Kano,2024-12-30,5.0,5.0,20.0,Average,True,345.0
+436,Rice,8000.0,1200.0,Fast Food,Mcdonald,Lagos,2023-03-12,5.0,0.0,45.0,Poor,False,1200.0
+437,Sushi,500.0,350.0,Bakery,Pizza Hut,Abuja,2024-04-22,1.0,5.0,45.0,No Notes,False,345.0
+438,Burger,8000.0,200.0,Seafood,Subway,Abuja,2024-04-01,5.0,5.0,20.0,Excellent,True,195.0
+439,Salad,350.0,500.0,Bakery,Mcdonald,Abuja,2023-07-08,2.0,10.0,60.0,Good,False,490.0
+440,Sushi,200.0,500.0,Vegetable,Mcdonald,Ibadan,2023-10-18,2.0,10.0,25.0,Excellent,True,490.0
+441,Cake,500.0,350.0,Seafood,Mcdonald,Ibadan,2025-07-08,5.0,15.0,15.0,Poor,True,335.0
+442,Bread,400.0,300.0,Vegetable,Subway,Lagos,2023-10-19,1.0,0.0,45.0,No Notes,False,300.0
+443,Rice,500.0,550.0,Dessert,Domino's,Lagos,2025-01-25,5.0,5.0,15.0,Excellent,True,545.0
+444,Salad,350.0,400.0,Fast Food,Mcdonald,Ibadan,2024-01-12,2.0,0.0,30.0,Poor,True,400.0
+445,Sushi,350.0,400.0,Dessert,Kfc,Abuja,2024-05-22,4.0,20.0,15.0,Good,True,380.0
+446,Bread,200.0,500.0,Seafood,Subway,Kano,2024-06-11,3.0,5.0,25.0,Average,True,495.0
+447,Pizza,400.0,350.0,Seafood,Mcdonald,Ibadan,2024-07-12,3.0,0.0,60.0,Late,False,350.0
+448,Rice,350.0,350.0,Dessert,Pizza Hut,Lagos,2025-11-20,2.0,15.0,20.0,Delayed,True,335.0
+449,Rice,350.0,550.0,Vegetable,Burger King,Port Harcourt,2023-09-17,5.0,15.0,15.0,Good,True,535.0
+450,Pizza,150.0,550.0,Dessert,Kfc,Abuja,2024-02-25,4.0,5.0,15.0,No Notes,True,545.0
+451,Burger,200.0,250.0,Fast Food,Subway,Abuja,2023-10-31,2.0,20.0,15.0,Delayed,True,230.0
+452,Pizza,500.0,250.0,Dessert,Subway,Lagos,2025-07-30,4.0,15.0,25.0,Late,True,235.0
+453,Rice,250.0,300.0,Fast Food,Burger King,Abuja,2025-11-28,4.0,15.0,25.0,Good,True,285.0
+454,Rice,350.0,300.0,Bakery,Subway,Port Harcourt,2024-06-25,5.0,20.0,30.0,Good,True,280.0
+455,Sushi,250.0,200.0,Vegetable,Burger King,Port Harcourt,2025-12-25,4.0,0.0,20.0,Good,True,200.0
+456,Sandwich,500.0,300.0,Dessert,Mcdonald,Lagos,2023-04-18,4.0,15.0,15.0,Good,True,285.0
+457,Bread,500.0,450.0,Dessert,Kfc,Abuja,2023-09-25,5.0,10.0,15.0,Delayed,True,440.0
+458,Pizza,200.0,550.0,Seafood,Kfc,Lagos,2023-08-10,2.0,10.0,15.0,No Notes,True,540.0
+459,Bread,500.0,400.0,Bakery,Domino's,Ibadan,2024-11-23,5.0,10.0,15.0,Late,True,390.0
+460,Pizza,150.0,450.0,Bakery,Burger King,Abuja,2023-09-12,4.0,15.0,25.0,Poor,True,435.0
+461,Cake,400.0,400.0,Fast Food,Kfc,Kano,2023-09-10,1.0,0.0,60.0,Excellent,False,400.0
+462,Rice,500.0,350.0,Bakery,Domino's,Abuja,2023-09-14,3.0,0.0,60.0,Average,False,350.0
+463,Sandwich,250.0,300.0,Dessert,Subway,Lagos,2024-01-18,2.0,5.0,30.0,Late,True,295.0
+464,Sushi,500.0,350.0,Fast Food,Domino's,Abuja,2024-03-17,2.0,10.0,25.0,Excellent,True,340.0
+465,Sandwich,150.0,500.0,Grain,Pizza Hut,Abuja,2024-08-21,2.0,0.0,45.0,Excellent,False,500.0
+466,Sandwich,8000.0,200.0,Vegetable,Mcdonald,Port Harcourt,2024-01-25,4.0,20.0,20.0,Average,True,180.0
+467,Sandwich,8000.0,500.0,Grain,Mcdonald,Ibadan,2024-08-04,1.0,10.0,60.0,Late,False,490.0
+468,Bread,350.0,200.0,Dessert,Subway,Abuja,2025-12-03,5.0,10.0,25.0,Delayed,True,190.0
+469,Pizza,350.0,250.0,Grain,Mcdonald,Kano,2024-08-20,5.0,10.0,15.0,No Notes,True,240.0
+470,Rice,300.0,350.0,Dessert,Mcdonald,Port Harcourt,2023-01-19,1.0,20.0,60.0,Average,False,330.0
+471,Cake,400.0,200.0,Grain,Subway,Kano,2024-08-29,4.0,15.0,30.0,No Notes,True,185.0
+472,Salad,450.0,1200.0,Bakery,Pizza Hut,Ibadan,2023-02-02,2.0,20.0,45.0,Delayed,False,1180.0
+473,Sandwich,350.0,450.0,Dessert,Domino's,Abuja,2025-05-11,3.0,20.0,60.0,Excellent,False,430.0
+474,Burger,350.0,200.0,Bakery,Mcdonald,Abuja,2023-06-04,2.0,15.0,30.0,No Notes,True,185.0
+475,Bread,8000.0,200.0,Bakery,Domino's,Abuja,2025-06-23,5.0,15.0,25.0,Delayed,True,185.0
+476,Sushi,250.0,450.0,Fast Food,Kfc,Abuja,2024-02-09,4.0,15.0,45.0,Delayed,False,435.0
+477,Salad,450.0,350.0,Seafood,Domino's,Abuja,2025-04-23,3.0,15.0,30.0,Poor,True,335.0
+478,Rice,350.0,350.0,Seafood,Subway,Ibadan,2025-01-16,2.0,15.0,25.0,Average,True,335.0
+479,Burger,350.0,450.0,Grain,Subway,Abuja,2023-09-28,5.0,20.0,60.0,Poor,False,430.0
+480,Rice,350.0,500.0,Dessert,Mcdonald,Abuja,2025-02-08,3.0,5.0,25.0,Excellent,True,495.0
+481,Salad,450.0,1200.0,Fast Food,Domino's,Lagos,2023-06-21,4.0,5.0,25.0,Average,True,1195.0
+482,Sandwich,200.0,400.0,Bakery,Mcdonald,Abuja,2023-10-01,1.0,0.0,30.0,Excellent,True,400.0
+483,Burger,300.0,400.0,Fast Food,Mcdonald,Abuja,2023-09-16,4.0,5.0,30.0,Poor,True,395.0
+484,Rice,200.0,1200.0,Grain,Kfc,Lagos,2024-02-26,2.0,10.0,25.0,Late,True,1190.0
+485,Sushi,450.0,350.0,Seafood,Kfc,Abuja,2023-12-30,5.0,5.0,60.0,Delayed,False,345.0
+486,Pizza,200.0,400.0,Dessert,Subway,Abuja,2024-01-13,1.0,20.0,45.0,Excellent,False,380.0
+487,Rice,150.0,250.0,Vegetable,Pizza Hut,Abuja,2024-08-02,2.0,15.0,25.0,Average,True,235.0
+488,Pizza,8000.0,300.0,Grain,Subway,Kano,2025-06-09,1.0,15.0,15.0,Average,True,285.0
+489,Salad,150.0,200.0,Fast Food,Mcdonald,Abuja,2024-12-22,5.0,20.0,20.0,Excellent,True,180.0
+490,Bread,500.0,450.0,Dessert,Mcdonald,Kano,2025-05-30,2.0,10.0,45.0,Average,False,440.0
+491,Rice,200.0,450.0,Vegetable,Pizza Hut,Abuja,2024-08-27,4.0,5.0,25.0,Delayed,True,445.0
+492,Cake,500.0,200.0,Fast Food,Mcdonald,Kano,2023-01-22,4.0,20.0,25.0,Late,True,180.0
+493,Sushi,250.0,300.0,Grain,Mcdonald,Port Harcourt,2024-01-18,5.0,0.0,30.0,Delayed,True,300.0
+494,Cake,400.0,400.0,Grain,Subway,Lagos,2023-05-14,3.0,15.0,25.0,Average,True,385.0
+495,Burger,250.0,300.0,Fast Food,Subway,Kano,2025-11-14,5.0,10.0,25.0,Excellent,True,290.0
+496,Rice,450.0,400.0,Fast Food,Mcdonald,Lagos,2024-05-17,3.0,0.0,25.0,Poor,True,400.0
+497,Cake,350.0,300.0,Grain,Subway,Ibadan,2023-05-24,2.0,10.0,25.0,Average,True,290.0
+498,Cake,8000.0,400.0,Fast Food,Mcdonald,Lagos,2023-08-12,3.0,0.0,20.0,Average,True,400.0
+499,Rice,200.0,300.0,Bakery,Mcdonald,Ibadan,2023-08-08,2.0,20.0,60.0,Average,False,280.0
+500,Pizza,350.0,400.0,Vegetable,Mcdonald,Abuja,2023-06-28,2.0,5.0,20.0,Average,True,395.0
+501,Rice,400.0,400.0,Vegetable,Burger King,Port Harcourt,2024-03-08,5.0,15.0,15.0,Excellent,True,385.0
+502,Rice,300.0,350.0,Vegetable,Pizza Hut,Lagos,2023-09-22,4.0,10.0,15.0,Poor,True,340.0
+503,Rice,300.0,200.0,Bakery,Domino's,Lagos,2025-08-11,2.0,10.0,20.0,Poor,True,190.0
+504,Salad,300.0,400.0,Dessert,Subway,Lagos,2024-03-04,3.0,10.0,45.0,No Notes,False,390.0
+505,Rice,200.0,400.0,Fast Food,Kfc,Lagos,2024-02-20,4.0,0.0,45.0,Average,False,400.0
+506,Pasta,300.0,400.0,Dessert,Subway,Abuja,2024-12-27,4.0,10.0,25.0,Average,True,390.0
+507,Pizza,150.0,350.0,Fast Food,Domino's,Ibadan,2023-07-16,2.0,5.0,25.0,No Notes,True,345.0
+508,Rice,400.0,450.0,Grain,Pizza Hut,Abuja,2025-12-12,5.0,5.0,30.0,Poor,True,445.0
+509,Salad,150.0,400.0,Seafood,Kfc,Port Harcourt,2024-04-24,5.0,10.0,15.0,Good,True,390.0
+510,Rice,350.0,350.0,Fast Food,Domino's,Lagos,2025-06-08,4.0,15.0,30.0,Delayed,True,335.0
+511,Pizza,400.0,500.0,Fast Food,Burger King,Lagos,2025-07-13,4.0,5.0,15.0,Good,True,495.0
+512,Rice,150.0,500.0,Vegetable,Kfc,Abuja,2023-05-03,2.0,10.0,20.0,Poor,True,490.0
+513,Cake,400.0,250.0,Fast Food,Mcdonald,Port Harcourt,2025-02-16,5.0,0.0,45.0,Late,False,250.0
+514,Salad,350.0,300.0,Dessert,Domino's,Ibadan,2023-12-14,5.0,10.0,25.0,Average,True,290.0
+515,Pizza,500.0,200.0,Grain,Subway,Ibadan,2023-01-29,5.0,10.0,45.0,Good,False,190.0
+516,Sandwich,200.0,550.0,Bakery,Kfc,Lagos,2025-09-01,2.0,20.0,20.0,Excellent,True,530.0
+517,Burger,200.0,1200.0,Dessert,Burger King,Abuja,2023-02-04,2.0,5.0,30.0,Excellent,True,1195.0
+518,Burger,300.0,350.0,Bakery,Subway,Abuja,2024-09-14,4.0,15.0,30.0,No Notes,True,335.0
+519,Pizza,250.0,450.0,Dessert,Mcdonald,Lagos,2024-08-11,5.0,15.0,25.0,Poor,True,435.0
+520,Rice,300.0,1200.0,Grain,Kfc,Port Harcourt,2025-12-26,4.0,20.0,25.0,Poor,True,1180.0
+521,Salad,450.0,450.0,Vegetable,Kfc,Port Harcourt,2025-06-22,4.0,10.0,25.0,Good,True,440.0
+522,Burger,150.0,1200.0,Fast Food,Burger King,Ibadan,2024-06-03,1.0,15.0,25.0,Average,True,1185.0
+523,Salad,400.0,350.0,Grain,Mcdonald,Lagos,2023-05-02,5.0,10.0,15.0,Poor,True,340.0
+524,Burger,250.0,550.0,Fast Food,Domino's,Abuja,2023-12-06,5.0,20.0,30.0,Good,True,530.0
+525,Cake,350.0,1200.0,Dessert,Subway,Port Harcourt,2023-06-24,5.0,0.0,20.0,Good,True,1200.0
+526,Rice,450.0,350.0,Bakery,Domino's,Lagos,2024-08-19,5.0,5.0,30.0,Delayed,True,345.0
+527,Cake,350.0,400.0,Dessert,Mcdonald,Lagos,2024-03-26,3.0,5.0,45.0,Delayed,False,395.0
+528,Burger,200.0,550.0,Dessert,Pizza Hut,Lagos,2024-07-10,2.0,5.0,15.0,Poor,True,545.0
+529,Sandwich,200.0,400.0,Dessert,Subway,Ibadan,2025-11-05,4.0,10.0,25.0,Good,True,390.0
+530,Sandwich,300.0,450.0,Dessert,Burger King,Lagos,2023-01-09,5.0,0.0,60.0,No Notes,False,450.0
+531,Cake,150.0,500.0,Fast Food,Domino's,Abuja,2023-11-30,1.0,20.0,25.0,No Notes,True,480.0
+532,Sandwich,250.0,300.0,Dessert,Kfc,Abuja,2025-10-13,5.0,20.0,15.0,Delayed,True,280.0
+533,Burger,8000.0,500.0,Dessert,Burger King,Abuja,2023-11-23,4.0,5.0,45.0,Poor,False,495.0
+534,Pizza,450.0,550.0,Grain,Mcdonald,Abuja,2023-01-15,2.0,0.0,25.0,Average,True,550.0
+535,Cake,450.0,400.0,Fast Food,Mcdonald,Kano,2025-04-18,5.0,0.0,45.0,Late,False,400.0
+536,Bread,300.0,450.0,Vegetable,Subway,Ibadan,2023-08-14,2.0,0.0,45.0,No Notes,False,450.0
+537,Rice,200.0,400.0,Fast Food,Domino's,Lagos,2023-04-23,5.0,15.0,25.0,No Notes,True,385.0
+538,Sandwich,300.0,1200.0,Grain,Burger King,Abuja,2023-01-01,5.0,15.0,45.0,Delayed,False,1185.0
+539,Sandwich,400.0,450.0,Vegetable,Subway,Abuja,2023-09-23,4.0,5.0,20.0,Delayed,True,445.0
+540,Rice,250.0,1200.0,Dessert,Domino's,Abuja,2025-08-09,3.0,0.0,25.0,Poor,True,1200.0
+541,Pasta,150.0,350.0,Grain,Burger King,Kano,2023-11-02,5.0,10.0,60.0,Delayed,False,340.0
+542,Cake,500.0,550.0,Seafood,Kfc,Abuja,2023-01-12,5.0,0.0,45.0,Excellent,False,550.0
+543,Sushi,350.0,350.0,Grain,Mcdonald,Lagos,2025-07-25,4.0,20.0,45.0,Late,False,330.0
+544,Sandwich,350.0,250.0,Dessert,Mcdonald,Kano,2024-02-24,5.0,20.0,30.0,Good,True,230.0
+545,Rice,300.0,400.0,Vegetable,Pizza Hut,Ibadan,2025-06-07,4.0,5.0,25.0,No Notes,True,395.0
+546,Bread,400.0,1200.0,Fast Food,Burger King,Lagos,2023-06-20,1.0,10.0,15.0,Excellent,True,1190.0
+547,Sandwich,250.0,400.0,Fast Food,Domino's,Ibadan,2023-05-14,4.0,0.0,25.0,Average,True,400.0
+548,Bread,8000.0,350.0,Vegetable,Mcdonald,Lagos,2025-08-22,3.0,10.0,25.0,Excellent,True,340.0
+549,Burger,350.0,250.0,Dessert,Mcdonald,Port Harcourt,2025-11-14,4.0,5.0,25.0,Poor,True,245.0
+550,Burger,250.0,200.0,Bakery,Mcdonald,Lagos,2024-10-19,2.0,20.0,25.0,Average,True,180.0
+551,Pasta,150.0,500.0,Grain,Subway,Ibadan,2023-06-28,5.0,20.0,25.0,Average,True,480.0
+552,Pizza,350.0,450.0,Dessert,Subway,Abuja,2025-12-15,5.0,15.0,60.0,Delayed,False,435.0
+553,Sushi,400.0,250.0,Seafood,Mcdonald,Lagos,2023-04-21,5.0,5.0,25.0,Excellent,True,245.0
+554,Rice,200.0,550.0,Fast Food,Burger King,Abuja,2023-05-17,5.0,5.0,60.0,Poor,False,545.0
+555,Pasta,250.0,350.0,Dessert,Pizza Hut,Abuja,2023-08-20,5.0,0.0,45.0,No Notes,False,350.0
+556,Salad,150.0,550.0,Vegetable,Mcdonald,Abuja,2025-09-18,5.0,0.0,25.0,Late,True,550.0
+557,Rice,8000.0,500.0,Fast Food,Kfc,Lagos,2024-04-12,5.0,15.0,45.0,Delayed,False,485.0
+558,Cake,500.0,400.0,Grain,Subway,Lagos,2025-01-01,1.0,10.0,25.0,Excellent,True,390.0
+559,Rice,200.0,400.0,Fast Food,Domino's,Abuja,2024-04-25,3.0,10.0,20.0,No Notes,True,390.0
+560,Salad,500.0,400.0,Dessert,Pizza Hut,Lagos,2025-12-27,5.0,10.0,60.0,Excellent,False,390.0
+561,Salad,8000.0,550.0,Fast Food,Kfc,Ibadan,2025-03-24,5.0,10.0,60.0,Delayed,False,540.0
+562,Pasta,150.0,1200.0,Bakery,Pizza Hut,Abuja,2025-09-20,5.0,5.0,15.0,No Notes,True,1195.0
+563,Pizza,350.0,400.0,Fast Food,Kfc,Abuja,2023-11-19,3.0,10.0,30.0,Delayed,True,390.0
+564,Pasta,500.0,400.0,Seafood,Domino's,Ibadan,2025-07-10,4.0,5.0,25.0,Excellent,True,395.0
+565,Cake,200.0,400.0,Fast Food,Domino's,Abuja,2025-06-22,5.0,10.0,15.0,Average,True,390.0
+566,Sandwich,300.0,250.0,Vegetable,Subway,Abuja,2024-08-28,5.0,20.0,60.0,Late,False,230.0
+567,Sandwich,450.0,400.0,Grain,Burger King,Abuja,2024-03-04,4.0,5.0,15.0,Good,True,395.0
+568,Pizza,250.0,300.0,Vegetable,Kfc,Ibadan,2023-05-28,5.0,5.0,20.0,Late,True,295.0
+569,Cake,350.0,500.0,Dessert,Subway,Kano,2025-04-29,5.0,5.0,30.0,Average,True,495.0
+570,Pizza,500.0,400.0,Grain,Subway,Ibadan,2024-01-02,2.0,15.0,60.0,Delayed,False,385.0
+571,Bread,350.0,400.0,Dessert,Kfc,Abuja,2025-04-29,1.0,5.0,60.0,Late,False,395.0
+572,Sandwich,250.0,550.0,Bakery,Subway,Ibadan,2025-12-25,4.0,0.0,25.0,Delayed,True,550.0
+573,Salad,300.0,200.0,Dessert,Domino's,Abuja,2025-03-23,4.0,0.0,25.0,Delayed,True,200.0
+574,Sushi,8000.0,300.0,Dessert,Pizza Hut,Lagos,2023-06-24,2.0,10.0,30.0,No Notes,True,290.0
+575,Rice,450.0,300.0,Vegetable,Mcdonald,Lagos,2024-08-10,5.0,20.0,20.0,Poor,True,280.0
+576,Cake,150.0,1200.0,Dessert,Subway,Abuja,2024-05-09,1.0,15.0,45.0,Delayed,False,1185.0
+577,Rice,300.0,400.0,Bakery,Kfc,Kano,2025-08-30,4.0,10.0,15.0,Late,True,390.0
+578,Pizza,300.0,1200.0,Fast Food,Kfc,Port Harcourt,2023-02-04,1.0,0.0,25.0,Late,True,1200.0
+579,Rice,8000.0,1200.0,Grain,Mcdonald,Lagos,2025-09-25,4.0,15.0,60.0,Late,False,1185.0
+580,Rice,400.0,200.0,Grain,Burger King,Lagos,2024-06-21,5.0,15.0,45.0,Average,False,185.0
+581,Rice,8000.0,250.0,Seafood,Subway,Port Harcourt,2025-01-19,4.0,20.0,20.0,Good,True,230.0
+582,Sushi,400.0,400.0,Fast Food,Domino's,Abuja,2025-11-03,4.0,15.0,30.0,Delayed,True,385.0
+583,Rice,400.0,350.0,Seafood,Kfc,Port Harcourt,2024-01-09,4.0,5.0,15.0,Delayed,True,345.0
+584,Pasta,350.0,400.0,Fast Food,Mcdonald,Lagos,2024-07-10,4.0,15.0,25.0,Delayed,True,385.0
+585,Burger,350.0,1200.0,Seafood,Pizza Hut,Ibadan,2023-08-21,3.0,20.0,60.0,No Notes,False,1180.0
+586,Pasta,200.0,500.0,Grain,Subway,Lagos,2024-12-05,5.0,10.0,60.0,Delayed,False,490.0
+587,Sandwich,500.0,450.0,Vegetable,Burger King,Abuja,2024-07-16,2.0,20.0,45.0,Average,False,430.0
+588,Burger,500.0,500.0,Dessert,Subway,Port Harcourt,2025-07-27,4.0,20.0,45.0,Excellent,False,480.0
+589,Pasta,150.0,200.0,Dessert,Mcdonald,Abuja,2025-06-05,2.0,0.0,15.0,Poor,True,200.0
+590,Burger,500.0,200.0,Dessert,Pizza Hut,Lagos,2024-12-26,5.0,5.0,30.0,Late,True,195.0
+591,Burger,350.0,550.0,Dessert,Domino's,Lagos,2023-03-17,5.0,0.0,20.0,Delayed,True,550.0
+592,Salad,200.0,250.0,Bakery,Burger King,Port Harcourt,2024-03-14,2.0,10.0,25.0,No Notes,True,240.0
+593,Pizza,200.0,400.0,Grain,Subway,Lagos,2024-11-29,5.0,10.0,30.0,Average,True,390.0
+594,Pizza,400.0,1200.0,Fast Food,Subway,Abuja,2025-07-03,2.0,10.0,30.0,Delayed,True,1190.0
+595,Salad,8000.0,500.0,Fast Food,Subway,Lagos,2025-06-09,4.0,5.0,30.0,No Notes,True,495.0
+596,Rice,150.0,450.0,Dessert,Mcdonald,Lagos,2024-11-22,3.0,15.0,25.0,Excellent,True,435.0
+597,Bread,400.0,200.0,Vegetable,Mcdonald,Port Harcourt,2023-09-10,2.0,20.0,15.0,Good,True,180.0
+598,Rice,8000.0,200.0,Bakery,Mcdonald,Kano,2025-11-26,4.0,10.0,25.0,Delayed,True,190.0
+599,Rice,500.0,250.0,Fast Food,Domino's,Kano,2024-02-14,4.0,5.0,15.0,Average,True,245.0
+600,Rice,400.0,450.0,Vegetable,Burger King,Abuja,2023-05-07,5.0,0.0,25.0,No Notes,True,450.0
+601,Burger,250.0,450.0,Seafood,Burger King,Abuja,2024-08-14,1.0,20.0,20.0,No Notes,True,430.0
+602,Pasta,500.0,250.0,Vegetable,Kfc,Lagos,2023-10-21,5.0,10.0,30.0,Delayed,True,240.0
+603,Pasta,8000.0,200.0,Vegetable,Mcdonald,Abuja,2025-10-16,1.0,0.0,15.0,No Notes,True,200.0
+604,Pizza,150.0,400.0,Dessert,Mcdonald,Lagos,2023-11-06,5.0,5.0,25.0,Good,True,395.0
+605,Cake,8000.0,400.0,Vegetable,Burger King,Port Harcourt,2024-10-23,3.0,5.0,20.0,No Notes,True,395.0
+606,Rice,400.0,400.0,Fast Food,Burger King,Lagos,2024-06-11,2.0,10.0,25.0,Late,True,390.0
+607,Sandwich,400.0,250.0,Seafood,Pizza Hut,Ibadan,2024-06-23,3.0,10.0,60.0,Poor,False,240.0
+608,Sushi,300.0,450.0,Seafood,Subway,Abuja,2024-02-23,1.0,10.0,20.0,Late,True,440.0
+609,Pasta,150.0,1200.0,Grain,Pizza Hut,Lagos,2024-03-19,5.0,15.0,30.0,Poor,True,1185.0
+610,Sushi,350.0,250.0,Vegetable,Pizza Hut,Lagos,2024-11-15,4.0,0.0,25.0,No Notes,True,250.0
+611,Burger,500.0,400.0,Dessert,Mcdonald,Abuja,2025-04-19,5.0,10.0,30.0,Delayed,True,390.0
+612,Sushi,200.0,250.0,Vegetable,Kfc,Abuja,2023-08-24,5.0,20.0,25.0,Poor,True,230.0
+613,Sandwich,150.0,300.0,Fast Food,Subway,Kano,2023-08-02,5.0,15.0,20.0,Average,True,285.0
+614,Salad,200.0,500.0,Fast Food,Pizza Hut,Abuja,2023-03-26,3.0,10.0,60.0,Poor,False,490.0
+615,Sandwich,150.0,450.0,Dessert,Kfc,Port Harcourt,2025-03-04,4.0,0.0,60.0,Late,False,450.0
+616,Sushi,150.0,550.0,Grain,Mcdonald,Lagos,2023-03-26,3.0,5.0,15.0,No Notes,True,545.0
+617,Sandwich,8000.0,550.0,Grain,Domino's,Kano,2023-03-06,2.0,20.0,60.0,Delayed,False,530.0
+618,Bread,150.0,450.0,Seafood,Pizza Hut,Abuja,2024-10-24,4.0,10.0,45.0,Excellent,False,440.0
+619,Burger,300.0,400.0,Seafood,Mcdonald,Abuja,2024-09-18,4.0,0.0,20.0,Delayed,True,400.0
+620,Rice,350.0,300.0,Bakery,Subway,Abuja,2023-03-05,4.0,15.0,15.0,Delayed,True,285.0
+621,Salad,400.0,300.0,Dessert,Domino's,Kano,2025-07-27,5.0,15.0,60.0,Delayed,False,285.0
+622,Pasta,450.0,200.0,Vegetable,Domino's,Kano,2025-07-07,2.0,5.0,20.0,Average,True,195.0
+623,Rice,200.0,500.0,Dessert,Subway,Lagos,2024-05-05,4.0,5.0,30.0,Good,True,495.0
+624,Rice,400.0,400.0,Dessert,Pizza Hut,Kano,2023-11-09,1.0,20.0,60.0,Late,False,380.0
+625,Rice,450.0,350.0,Bakery,Mcdonald,Lagos,2024-09-06,5.0,10.0,25.0,No Notes,True,340.0
+626,Burger,350.0,400.0,Seafood,Subway,Lagos,2025-07-07,4.0,20.0,25.0,Good,True,380.0
+627,Salad,350.0,350.0,Dessert,Subway,Lagos,2025-03-23,2.0,5.0,20.0,Excellent,True,345.0
+628,Pizza,200.0,350.0,Dessert,Subway,Abuja,2025-07-28,4.0,5.0,15.0,Good,True,345.0
+629,Pasta,200.0,450.0,Seafood,Domino's,Abuja,2024-11-10,5.0,15.0,30.0,No Notes,True,435.0
+630,Bread,350.0,550.0,Fast Food,Subway,Ibadan,2024-03-10,3.0,5.0,45.0,Late,False,545.0
+631,Pizza,450.0,550.0,Bakery,Kfc,Ibadan,2024-11-12,1.0,10.0,30.0,Late,True,540.0
+632,Burger,150.0,400.0,Seafood,Mcdonald,Ibadan,2025-12-09,5.0,0.0,60.0,No Notes,False,400.0
+633,Rice,500.0,450.0,Grain,Mcdonald,Abuja,2023-12-06,5.0,5.0,25.0,Excellent,True,445.0
+634,Bread,250.0,350.0,Vegetable,Pizza Hut,Lagos,2023-12-13,2.0,20.0,30.0,No Notes,True,330.0
+635,Sandwich,400.0,1200.0,Seafood,Pizza Hut,Abuja,2024-10-07,3.0,10.0,45.0,Excellent,False,1190.0
+636,Sushi,8000.0,550.0,Bakery,Mcdonald,Abuja,2024-10-10,3.0,10.0,25.0,Excellent,True,540.0
+637,Bread,400.0,400.0,Fast Food,Kfc,Abuja,2023-09-02,4.0,10.0,15.0,No Notes,True,390.0
+638,Burger,8000.0,400.0,Grain,Subway,Abuja,2023-04-19,5.0,10.0,20.0,Poor,True,390.0
+639,Cake,450.0,200.0,Fast Food,Subway,Abuja,2024-06-16,1.0,20.0,25.0,Late,True,180.0
+640,Sushi,8000.0,250.0,Dessert,Mcdonald,Ibadan,2023-10-23,5.0,10.0,45.0,Excellent,False,240.0
+641,Rice,200.0,1200.0,Seafood,Pizza Hut,Ibadan,2023-04-22,2.0,5.0,60.0,No Notes,False,1195.0
+642,Pasta,500.0,550.0,Grain,Mcdonald,Abuja,2023-12-09,1.0,0.0,60.0,Poor,False,550.0
+643,Rice,500.0,300.0,Vegetable,Burger King,Kano,2023-04-11,4.0,10.0,60.0,Late,False,290.0
+644,Bread,200.0,550.0,Seafood,Subway,Abuja,2024-09-20,4.0,20.0,25.0,Excellent,True,530.0
+645,Rice,300.0,200.0,Vegetable,Mcdonald,Abuja,2023-01-28,5.0,10.0,30.0,Late,True,190.0
+646,Burger,450.0,400.0,Fast Food,Subway,Lagos,2025-07-25,1.0,10.0,25.0,Poor,True,390.0
+647,Sandwich,300.0,350.0,Dessert,Pizza Hut,Lagos,2023-02-27,5.0,15.0,60.0,Late,False,335.0
+648,Rice,300.0,300.0,Fast Food,Subway,Kano,2023-10-24,5.0,5.0,25.0,Average,True,295.0
+649,Pasta,400.0,450.0,Grain,Burger King,Kano,2023-05-14,2.0,0.0,45.0,Delayed,False,450.0
+650,Rice,350.0,500.0,Vegetable,Kfc,Kano,2023-09-06,5.0,5.0,20.0,Average,True,495.0
+651,Rice,400.0,350.0,Bakery,Mcdonald,Abuja,2025-10-17,4.0,15.0,20.0,Poor,True,335.0
+652,Bread,350.0,500.0,Vegetable,Kfc,Lagos,2024-07-03,2.0,0.0,25.0,Excellent,True,500.0
+653,Rice,250.0,1200.0,Bakery,Kfc,Ibadan,2025-06-20,4.0,15.0,60.0,No Notes,False,1185.0
+654,Pizza,8000.0,250.0,Seafood,Mcdonald,Kano,2025-04-13,4.0,5.0,15.0,Good,True,245.0
+655,Rice,350.0,300.0,Grain,Subway,Abuja,2025-02-09,5.0,10.0,25.0,No Notes,True,290.0
+656,Burger,200.0,400.0,Vegetable,Mcdonald,Lagos,2023-05-26,2.0,5.0,25.0,Late,True,395.0
+657,Cake,400.0,300.0,Dessert,Mcdonald,Abuja,2025-06-11,2.0,5.0,60.0,Good,False,295.0
+658,Pasta,450.0,550.0,Vegetable,Pizza Hut,Kano,2023-12-10,1.0,5.0,30.0,Good,True,545.0
+659,Rice,8000.0,400.0,Fast Food,Pizza Hut,Lagos,2025-11-24,5.0,20.0,20.0,Late,True,380.0
+660,Burger,250.0,550.0,Dessert,Mcdonald,Port Harcourt,2024-12-02,2.0,15.0,20.0,Late,True,535.0
+661,Burger,350.0,550.0,Grain,Burger King,Kano,2023-01-01,1.0,15.0,25.0,Excellent,True,535.0
+662,Pasta,250.0,1200.0,Fast Food,Domino's,Lagos,2023-06-02,3.0,10.0,20.0,Poor,True,1190.0
+663,Pizza,450.0,350.0,Vegetable,Pizza Hut,Abuja,2024-03-04,3.0,15.0,15.0,No Notes,True,335.0
+664,Burger,300.0,400.0,Bakery,Domino's,Kano,2024-05-22,3.0,10.0,60.0,Poor,False,390.0
+665,Cake,500.0,400.0,Vegetable,Mcdonald,Abuja,2024-05-05,4.0,20.0,60.0,Average,False,380.0
+666,Burger,450.0,550.0,Fast Food,Burger King,Abuja,2023-12-11,2.0,10.0,25.0,Excellent,True,540.0
+667,Burger,350.0,500.0,Seafood,Mcdonald,Port Harcourt,2023-08-09,4.0,10.0,60.0,Excellent,False,490.0
+668,Burger,450.0,1200.0,Dessert,Burger King,Abuja,2024-12-23,5.0,5.0,25.0,Average,True,1195.0
+669,Sandwich,250.0,550.0,Bakery,Pizza Hut,Abuja,2025-11-14,2.0,10.0,60.0,No Notes,False,540.0
+670,Sandwich,200.0,250.0,Fast Food,Kfc,Lagos,2024-06-11,1.0,20.0,15.0,Delayed,True,230.0
+671,Pizza,400.0,400.0,Dessert,Mcdonald,Ibadan,2025-04-20,4.0,15.0,45.0,Average,False,385.0
+672,Rice,200.0,350.0,Seafood,Mcdonald,Kano,2025-12-01,4.0,10.0,25.0,No Notes,True,340.0
+673,Burger,250.0,450.0,Grain,Subway,Port Harcourt,2024-04-25,5.0,5.0,25.0,Good,True,445.0
+674,Rice,400.0,250.0,Bakery,Mcdonald,Port Harcourt,2025-07-18,4.0,0.0,60.0,Late,False,250.0
+675,Rice,350.0,500.0,Dessert,Subway,Abuja,2025-05-21,4.0,0.0,30.0,Excellent,True,500.0
+676,Pizza,500.0,300.0,Seafood,Domino's,Abuja,2023-12-11,1.0,10.0,20.0,No Notes,True,290.0
+677,Salad,8000.0,300.0,Dessert,Burger King,Lagos,2023-02-14,3.0,15.0,15.0,Poor,True,285.0
+678,Rice,250.0,250.0,Fast Food,Mcdonald,Kano,2023-01-21,1.0,0.0,30.0,Late,True,250.0
+679,Rice,350.0,550.0,Fast Food,Mcdonald,Port Harcourt,2025-12-29,4.0,10.0,30.0,Poor,True,540.0
+680,Sushi,250.0,450.0,Dessert,Burger King,Abuja,2025-05-22,5.0,20.0,60.0,Late,False,430.0
+681,Bread,250.0,200.0,Grain,Mcdonald,Ibadan,2023-02-17,5.0,10.0,15.0,Excellent,True,190.0
+682,Sushi,400.0,200.0,Grain,Pizza Hut,Port Harcourt,2024-07-04,2.0,10.0,25.0,Average,True,190.0
+683,Cake,150.0,500.0,Dessert,Mcdonald,Abuja,2023-10-14,1.0,10.0,20.0,Delayed,True,490.0
+684,Sandwich,450.0,550.0,Bakery,Pizza Hut,Abuja,2025-09-28,5.0,5.0,25.0,Average,True,545.0
+685,Sandwich,150.0,400.0,Dessert,Mcdonald,Lagos,2025-10-30,4.0,10.0,30.0,No Notes,True,390.0
+686,Bread,350.0,400.0,Vegetable,Pizza Hut,Lagos,2024-06-25,5.0,10.0,20.0,Average,True,390.0
+687,Pasta,350.0,350.0,Grain,Subway,Port Harcourt,2025-01-25,5.0,10.0,45.0,Excellent,False,340.0
+688,Pasta,500.0,450.0,Seafood,Burger King,Lagos,2023-10-01,5.0,5.0,30.0,No Notes,True,445.0
+689,Pizza,300.0,450.0,Vegetable,Subway,Port Harcourt,2025-08-13,5.0,5.0,25.0,Good,True,445.0
+690,Bread,350.0,300.0,Fast Food,Mcdonald,Abuja,2024-08-22,3.0,20.0,25.0,Average,True,280.0
+691,Rice,300.0,1200.0,Fast Food,Subway,Kano,2024-01-16,3.0,15.0,60.0,Average,False,1185.0
+692,Pasta,300.0,500.0,Fast Food,Mcdonald,Abuja,2024-04-23,2.0,0.0,25.0,Delayed,True,500.0
+693,Burger,500.0,200.0,Dessert,Pizza Hut,Port Harcourt,2023-01-15,5.0,0.0,15.0,No Notes,True,200.0
+694,Rice,200.0,500.0,Vegetable,Mcdonald,Kano,2024-05-30,1.0,10.0,30.0,Poor,True,490.0
+695,Rice,150.0,400.0,Dessert,Mcdonald,Abuja,2023-07-10,4.0,20.0,25.0,Average,True,380.0
+696,Cake,250.0,400.0,Dessert,Subway,Abuja,2024-09-12,2.0,10.0,25.0,Excellent,True,390.0
+697,Burger,8000.0,250.0,Vegetable,Pizza Hut,Abuja,2023-06-03,1.0,0.0,20.0,Average,True,250.0
+698,Burger,300.0,350.0,Dessert,Kfc,Kano,2023-09-29,5.0,5.0,25.0,Delayed,True,345.0
+699,Bread,350.0,450.0,Fast Food,Pizza Hut,Port Harcourt,2023-05-23,5.0,15.0,60.0,Good,False,435.0
+700,Pizza,350.0,400.0,Grain,Burger King,Lagos,2025-12-28,5.0,20.0,60.0,Delayed,False,380.0
+701,Cake,200.0,500.0,Fast Food,Subway,Abuja,2023-09-04,3.0,5.0,25.0,Average,True,495.0
+702,Pasta,300.0,400.0,Fast Food,Kfc,Abuja,2025-02-26,4.0,15.0,15.0,Poor,True,385.0
+703,Bread,200.0,1200.0,Fast Food,Burger King,Abuja,2023-03-20,4.0,20.0,60.0,Late,False,1180.0
+704,Pasta,200.0,300.0,Grain,Burger King,Abuja,2024-09-14,4.0,20.0,25.0,Average,True,280.0
+705,Bread,300.0,200.0,Dessert,Burger King,Lagos,2024-06-08,4.0,0.0,20.0,No Notes,True,200.0
+706,Bread,400.0,350.0,Grain,Mcdonald,Lagos,2025-02-10,4.0,5.0,30.0,Average,True,345.0
+707,Bread,450.0,1200.0,Fast Food,Burger King,Port Harcourt,2025-07-26,3.0,20.0,45.0,Poor,False,1180.0
+708,Pizza,350.0,350.0,Fast Food,Mcdonald,Abuja,2024-09-08,4.0,10.0,15.0,No Notes,True,340.0
+709,Bread,250.0,250.0,Dessert,Burger King,Abuja,2025-10-28,1.0,20.0,60.0,Excellent,False,230.0
+710,Salad,250.0,400.0,Seafood,Domino's,Abuja,2023-03-08,4.0,15.0,30.0,No Notes,True,385.0
+711,Rice,350.0,400.0,Fast Food,Subway,Abuja,2023-07-10,2.0,0.0,45.0,Delayed,False,400.0
+712,Pasta,400.0,300.0,Vegetable,Kfc,Port Harcourt,2025-02-06,1.0,10.0,25.0,Good,True,290.0
+713,Rice,250.0,1200.0,Fast Food,Domino's,Abuja,2024-06-04,2.0,0.0,25.0,Delayed,True,1200.0
+714,Sushi,200.0,350.0,Fast Food,Burger King,Port Harcourt,2025-09-16,5.0,10.0,20.0,Late,True,340.0
+715,Cake,500.0,450.0,Dessert,Kfc,Kano,2023-09-24,4.0,5.0,45.0,No Notes,False,445.0
+716,Sandwich,350.0,250.0,Grain,Kfc,Lagos,2024-04-29,1.0,5.0,25.0,Excellent,True,245.0
+717,Pizza,150.0,450.0,Dessert,Mcdonald,Lagos,2024-01-11,4.0,20.0,25.0,Average,True,430.0
+718,Rice,250.0,300.0,Bakery,Subway,Abuja,2024-10-14,5.0,10.0,25.0,No Notes,True,290.0
+719,Burger,350.0,1200.0,Bakery,Domino's,Abuja,2024-07-02,5.0,5.0,60.0,Delayed,False,1195.0
+720,Salad,500.0,250.0,Vegetable,Subway,Port Harcourt,2023-03-14,4.0,20.0,20.0,No Notes,True,230.0
+721,Sandwich,300.0,1200.0,Dessert,Kfc,Lagos,2023-11-04,5.0,0.0,30.0,No Notes,True,1200.0
+722,Sushi,450.0,400.0,Dessert,Mcdonald,Abuja,2023-07-18,4.0,5.0,25.0,No Notes,True,395.0
+723,Rice,350.0,550.0,Vegetable,Kfc,Lagos,2024-07-25,5.0,0.0,25.0,Excellent,True,550.0
+724,Sandwich,200.0,250.0,Dessert,Subway,Abuja,2025-03-01,2.0,0.0,15.0,Poor,True,250.0
+725,Rice,450.0,450.0,Vegetable,Domino's,Ibadan,2023-06-28,5.0,10.0,15.0,Poor,True,440.0
+726,Salad,350.0,300.0,Bakery,Burger King,Lagos,2023-07-16,4.0,5.0,30.0,No Notes,True,295.0
+727,Sushi,350.0,400.0,Vegetable,Mcdonald,Lagos,2025-01-04,5.0,0.0,45.0,Excellent,False,400.0
+728,Burger,400.0,400.0,Bakery,Mcdonald,Abuja,2023-03-30,4.0,10.0,20.0,Excellent,True,390.0
+729,Bread,8000.0,550.0,Fast Food,Mcdonald,Kano,2025-03-09,5.0,10.0,25.0,Late,True,540.0
+730,Pasta,400.0,400.0,Grain,Burger King,Abuja,2025-02-26,5.0,5.0,60.0,No Notes,False,395.0
+731,Burger,500.0,200.0,Dessert,Mcdonald,Abuja,2025-01-17,4.0,10.0,25.0,Delayed,True,190.0
+732,Bread,450.0,400.0,Dessert,Domino's,Abuja,2023-07-28,5.0,5.0,15.0,Delayed,True,395.0
+733,Pizza,8000.0,300.0,Fast Food,Burger King,Abuja,2024-05-07,5.0,5.0,15.0,Good,True,295.0
+734,Rice,300.0,350.0,Fast Food,Mcdonald,Abuja,2024-10-26,5.0,10.0,30.0,No Notes,True,340.0
+735,Cake,200.0,250.0,Vegetable,Burger King,Lagos,2025-11-02,1.0,0.0,45.0,Good,False,250.0
+736,Cake,450.0,1200.0,Bakery,Subway,Abuja,2025-05-20,2.0,15.0,45.0,Delayed,False,1185.0
+737,Pasta,400.0,300.0,Fast Food,Subway,Port Harcourt,2025-01-01,5.0,5.0,30.0,Delayed,True,295.0
+738,Sushi,150.0,250.0,Dessert,Subway,Abuja,2024-11-28,5.0,0.0,25.0,No Notes,True,250.0
+739,Salad,8000.0,400.0,Fast Food,Domino's,Abuja,2024-08-16,3.0,10.0,15.0,Good,True,390.0
+740,Sushi,8000.0,1200.0,Vegetable,Pizza Hut,Abuja,2025-06-04,4.0,20.0,25.0,Good,True,1180.0
+741,Salad,200.0,500.0,Seafood,Mcdonald,Kano,2025-05-01,5.0,5.0,25.0,No Notes,True,495.0
+742,Sushi,250.0,450.0,Grain,Mcdonald,Kano,2023-11-21,2.0,10.0,20.0,Late,True,440.0
+743,Rice,350.0,200.0,Grain,Mcdonald,Abuja,2025-09-05,4.0,10.0,15.0,Good,True,190.0
+744,Pizza,350.0,400.0,Fast Food,Burger King,Ibadan,2025-08-13,4.0,10.0,45.0,Late,False,390.0
+745,Pizza,150.0,300.0,Bakery,Mcdonald,Kano,2025-06-12,4.0,10.0,60.0,Average,False,290.0
+746,Bread,500.0,200.0,Vegetable,Domino's,Abuja,2023-05-24,4.0,10.0,25.0,Delayed,True,190.0
+747,Sandwich,500.0,350.0,Dessert,Domino's,Kano,2024-01-19,4.0,5.0,15.0,Poor,True,345.0
+748,Pizza,300.0,250.0,Bakery,Kfc,Abuja,2023-08-04,4.0,15.0,25.0,Late,True,235.0
+749,Pizza,450.0,250.0,Grain,Subway,Lagos,2023-11-20,3.0,10.0,20.0,Late,True,240.0
+750,Burger,350.0,300.0,Bakery,Mcdonald,Lagos,2025-11-04,5.0,10.0,25.0,Late,True,290.0
+751,Burger,250.0,550.0,Grain,Kfc,Kano,2023-08-05,4.0,10.0,15.0,Excellent,True,540.0
+752,Bread,400.0,550.0,Bakery,Mcdonald,Port Harcourt,2025-08-08,5.0,10.0,30.0,Good,True,540.0
+753,Sandwich,350.0,500.0,Fast Food,Pizza Hut,Lagos,2023-07-02,1.0,5.0,25.0,Good,True,495.0
+754,Pasta,350.0,450.0,Dessert,Kfc,Ibadan,2023-09-27,4.0,0.0,25.0,Excellent,True,450.0
+755,Burger,8000.0,1200.0,Fast Food,Kfc,Port Harcourt,2025-08-02,5.0,20.0,30.0,Good,True,1180.0
+756,Pasta,150.0,350.0,Fast Food,Domino's,Abuja,2025-05-19,4.0,20.0,30.0,Excellent,True,330.0
+757,Rice,350.0,200.0,Dessert,Pizza Hut,Lagos,2024-04-11,3.0,0.0,30.0,Late,True,200.0
+758,Burger,300.0,550.0,Dessert,Burger King,Abuja,2023-11-01,2.0,5.0,15.0,No Notes,True,545.0
+759,Rice,500.0,500.0,Fast Food,Mcdonald,Lagos,2023-04-21,2.0,20.0,45.0,Average,False,480.0
+760,Sandwich,150.0,500.0,Fast Food,Kfc,Lagos,2025-10-10,5.0,10.0,25.0,Late,True,490.0
+761,Bread,8000.0,300.0,Vegetable,Pizza Hut,Abuja,2023-08-20,5.0,0.0,25.0,Average,True,300.0
+762,Rice,400.0,350.0,Dessert,Subway,Port Harcourt,2024-08-17,2.0,15.0,20.0,Delayed,True,335.0
+763,Sandwich,300.0,400.0,Dessert,Mcdonald,Port Harcourt,2023-06-22,2.0,5.0,45.0,Late,False,395.0
+764,Rice,8000.0,1200.0,Vegetable,Pizza Hut,Lagos,2025-08-30,1.0,0.0,25.0,Poor,True,1200.0
+765,Sandwich,350.0,450.0,Fast Food,Subway,Port Harcourt,2025-10-27,5.0,20.0,15.0,Good,True,430.0
+766,Rice,350.0,400.0,Fast Food,Mcdonald,Lagos,2024-06-29,5.0,5.0,30.0,Poor,True,395.0
+767,Rice,350.0,300.0,Grain,Pizza Hut,Abuja,2024-07-01,5.0,10.0,20.0,No Notes,True,290.0
+768,Pasta,150.0,1200.0,Grain,Subway,Lagos,2024-06-01,2.0,5.0,25.0,Average,True,1195.0
+769,Sushi,150.0,400.0,Dessert,Pizza Hut,Abuja,2025-07-02,2.0,5.0,25.0,Late,True,395.0
+770,Rice,500.0,400.0,Vegetable,Pizza Hut,Lagos,2023-08-03,2.0,10.0,25.0,No Notes,True,390.0
+771,Sandwich,500.0,350.0,Seafood,Mcdonald,Abuja,2023-05-14,4.0,10.0,45.0,No Notes,False,340.0
+772,Salad,400.0,350.0,Fast Food,Subway,Lagos,2023-10-12,3.0,10.0,60.0,Good,False,340.0
+773,Rice,300.0,200.0,Seafood,Subway,Abuja,2024-11-16,4.0,5.0,45.0,No Notes,False,195.0
+774,Sushi,200.0,500.0,Vegetable,Kfc,Abuja,2023-11-27,3.0,10.0,25.0,Late,True,490.0
+775,Rice,200.0,1200.0,Grain,Mcdonald,Kano,2025-06-12,5.0,10.0,20.0,Late,True,1190.0
+776,Pizza,8000.0,300.0,Dessert,Mcdonald,Abuja,2025-06-17,1.0,0.0,25.0,Average,True,300.0
+777,Salad,350.0,250.0,Dessert,Pizza Hut,Ibadan,2023-03-19,4.0,10.0,25.0,Late,True,240.0
+778,Sushi,300.0,300.0,Grain,Pizza Hut,Lagos,2025-08-04,1.0,10.0,15.0,Poor,True,290.0
+779,Pasta,350.0,200.0,Seafood,Kfc,Port Harcourt,2024-11-18,5.0,5.0,25.0,Average,True,195.0
+780,Sandwich,150.0,450.0,Bakery,Mcdonald,Lagos,2023-01-21,4.0,0.0,20.0,Good,True,450.0
+781,Cake,450.0,500.0,Bakery,Domino's,Port Harcourt,2024-07-19,5.0,15.0,25.0,Average,True,485.0
+782,Sushi,250.0,250.0,Grain,Mcdonald,Abuja,2025-04-06,4.0,15.0,30.0,Excellent,True,235.0
+783,Bread,400.0,550.0,Bakery,Kfc,Ibadan,2023-06-28,5.0,20.0,25.0,Poor,True,530.0
+784,Sandwich,350.0,450.0,Dessert,Mcdonald,Abuja,2025-12-18,1.0,10.0,45.0,Excellent,False,440.0
+785,Sushi,350.0,350.0,Vegetable,Mcdonald,Ibadan,2025-06-23,1.0,10.0,20.0,Excellent,True,340.0
+786,Pizza,350.0,400.0,Vegetable,Pizza Hut,Lagos,2024-10-30,1.0,0.0,45.0,Delayed,False,400.0
+787,Cake,150.0,550.0,Grain,Mcdonald,Port Harcourt,2023-07-10,5.0,10.0,25.0,Late,True,540.0
+788,Pizza,150.0,300.0,Fast Food,Mcdonald,Abuja,2024-12-08,2.0,15.0,45.0,Good,False,285.0
+789,Cake,250.0,300.0,Fast Food,Burger King,Ibadan,2025-11-24,1.0,20.0,45.0,No Notes,False,280.0
+790,Bread,350.0,350.0,Seafood,Mcdonald,Lagos,2024-01-14,4.0,0.0,15.0,Excellent,True,350.0
+791,Sandwich,300.0,200.0,Grain,Domino's,Abuja,2024-01-22,5.0,10.0,45.0,Average,False,190.0
+792,Pasta,350.0,1200.0,Bakery,Mcdonald,Abuja,2023-08-25,4.0,15.0,30.0,No Notes,True,1185.0
+793,Pizza,200.0,550.0,Seafood,Domino's,Abuja,2024-09-07,5.0,20.0,30.0,Average,True,530.0
+794,Pizza,500.0,550.0,Fast Food,Pizza Hut,Port Harcourt,2023-10-10,4.0,5.0,25.0,Average,True,545.0
+795,Rice,200.0,400.0,Bakery,Domino's,Lagos,2023-01-01,3.0,15.0,25.0,No Notes,True,385.0
+796,Cake,8000.0,450.0,Dessert,Mcdonald,Abuja,2024-04-08,5.0,20.0,60.0,No Notes,False,430.0
+797,Burger,200.0,500.0,Fast Food,Pizza Hut,Lagos,2025-08-24,3.0,0.0,45.0,Late,False,500.0
+798,Sandwich,8000.0,450.0,Dessert,Pizza Hut,Ibadan,2023-06-21,4.0,5.0,45.0,Average,False,445.0
+799,Cake,450.0,1200.0,Bakery,Domino's,Abuja,2025-04-22,2.0,20.0,20.0,Good,True,1180.0
+800,Rice,500.0,300.0,Dessert,Subway,Lagos,2024-11-20,1.0,20.0,15.0,Late,True,280.0
+801,Rice,200.0,300.0,Seafood,Kfc,Abuja,2024-07-28,5.0,10.0,60.0,Poor,False,290.0
+802,Cake,450.0,300.0,Dessert,Subway,Ibadan,2023-06-14,4.0,10.0,25.0,Delayed,True,290.0
+803,Pasta,400.0,400.0,Seafood,Subway,Abuja,2024-01-18,1.0,15.0,60.0,Poor,False,385.0
+804,Sandwich,300.0,300.0,Seafood,Mcdonald,Lagos,2023-07-28,4.0,10.0,45.0,Good,False,290.0
+805,Rice,450.0,1200.0,Seafood,Burger King,Kano,2023-08-12,5.0,5.0,20.0,Late,True,1195.0
+806,Rice,300.0,350.0,Seafood,Subway,Abuja,2023-01-03,3.0,10.0,25.0,Delayed,True,340.0
+807,Salad,200.0,500.0,Seafood,Mcdonald,Port Harcourt,2024-01-07,1.0,20.0,15.0,Late,True,480.0
+808,Rice,350.0,1200.0,Bakery,Subway,Lagos,2024-09-02,4.0,10.0,25.0,No Notes,True,1190.0
+809,Salad,450.0,500.0,Seafood,Subway,Lagos,2023-04-26,2.0,10.0,25.0,Delayed,True,490.0
+810,Sandwich,500.0,1200.0,Bakery,Mcdonald,Port Harcourt,2024-03-22,4.0,15.0,60.0,Average,False,1185.0
+811,Pizza,200.0,300.0,Seafood,Pizza Hut,Kano,2024-02-19,2.0,5.0,25.0,Poor,True,295.0
+812,Rice,350.0,350.0,Dessert,Mcdonald,Abuja,2025-06-10,5.0,0.0,45.0,Delayed,False,350.0
+813,Bread,150.0,550.0,Dessert,Burger King,Ibadan,2025-11-13,4.0,10.0,25.0,Average,True,540.0
+814,Salad,450.0,450.0,Seafood,Subway,Port Harcourt,2024-10-24,1.0,5.0,25.0,Late,True,445.0
+815,Pasta,500.0,400.0,Fast Food,Mcdonald,Kano,2025-12-09,1.0,0.0,20.0,Good,True,400.0
+816,Bread,400.0,350.0,Seafood,Domino's,Abuja,2024-12-18,5.0,10.0,25.0,Delayed,True,340.0
+817,Sushi,350.0,550.0,Seafood,Subway,Abuja,2025-11-16,2.0,5.0,30.0,Average,True,545.0
+818,Sushi,400.0,200.0,Dessert,Domino's,Lagos,2023-09-28,3.0,5.0,20.0,Late,True,195.0
+819,Rice,200.0,1200.0,Fast Food,Burger King,Abuja,2024-07-15,5.0,10.0,60.0,Late,False,1190.0
+820,Pizza,150.0,200.0,Vegetable,Mcdonald,Kano,2025-03-14,4.0,10.0,15.0,Late,True,190.0
+821,Sandwich,450.0,550.0,Dessert,Mcdonald,Abuja,2023-09-04,5.0,5.0,15.0,Good,True,545.0
+822,Rice,450.0,350.0,Fast Food,Burger King,Abuja,2024-01-22,4.0,20.0,45.0,No Notes,False,330.0
+823,Burger,350.0,1200.0,Vegetable,Pizza Hut,Abuja,2024-12-02,5.0,10.0,45.0,Good,False,1190.0
+824,Pasta,350.0,400.0,Grain,Domino's,Lagos,2024-07-12,4.0,5.0,30.0,Good,True,395.0
+825,Salad,200.0,300.0,Grain,Domino's,Port Harcourt,2025-08-30,4.0,10.0,60.0,Poor,False,290.0
+826,Sandwich,200.0,1200.0,Fast Food,Kfc,Lagos,2025-09-10,4.0,0.0,25.0,Late,True,1200.0
+827,Bread,150.0,1200.0,Fast Food,Mcdonald,Abuja,2023-12-18,4.0,0.0,15.0,Average,True,1200.0
+828,Sushi,350.0,350.0,Dessert,Pizza Hut,Lagos,2025-01-22,1.0,20.0,15.0,Delayed,True,330.0
+829,Pasta,500.0,350.0,Bakery,Mcdonald,Kano,2025-02-19,4.0,10.0,15.0,Poor,True,340.0
+830,Burger,500.0,550.0,Fast Food,Domino's,Ibadan,2025-10-21,5.0,10.0,25.0,Late,True,540.0
+831,Rice,150.0,250.0,Dessert,Domino's,Abuja,2024-06-29,5.0,5.0,15.0,Excellent,True,245.0
+832,Rice,500.0,1200.0,Vegetable,Pizza Hut,Ibadan,2023-03-20,2.0,5.0,25.0,Good,True,1195.0
+833,Burger,8000.0,450.0,Vegetable,Burger King,Abuja,2023-11-30,5.0,0.0,60.0,Excellent,False,450.0
+834,Pasta,300.0,1200.0,Seafood,Burger King,Ibadan,2025-06-07,4.0,10.0,20.0,Late,True,1190.0
+835,Burger,150.0,550.0,Grain,Mcdonald,Ibadan,2024-05-16,1.0,20.0,20.0,Poor,True,530.0
+836,Pasta,150.0,500.0,Fast Food,Subway,Lagos,2025-02-03,5.0,0.0,30.0,Average,True,500.0
+837,Pasta,250.0,200.0,Vegetable,Kfc,Ibadan,2025-07-09,3.0,0.0,25.0,Poor,True,200.0
+838,Cake,350.0,300.0,Fast Food,Domino's,Abuja,2024-07-03,1.0,20.0,15.0,Average,True,280.0
+839,Salad,350.0,250.0,Vegetable,Subway,Kano,2023-01-14,1.0,10.0,15.0,Average,True,240.0
+840,Sushi,8000.0,400.0,Fast Food,Subway,Ibadan,2024-01-27,5.0,5.0,45.0,Late,False,395.0
+841,Cake,350.0,400.0,Fast Food,Kfc,Abuja,2023-11-06,3.0,10.0,45.0,No Notes,False,390.0
+842,Rice,200.0,400.0,Fast Food,Subway,Ibadan,2024-01-21,2.0,10.0,30.0,Late,True,390.0
+843,Cake,200.0,350.0,Fast Food,Subway,Ibadan,2025-08-31,5.0,15.0,15.0,Good,True,335.0
+844,Pizza,400.0,400.0,Bakery,Burger King,Lagos,2023-12-06,3.0,15.0,30.0,Poor,True,385.0
+845,Pizza,8000.0,300.0,Seafood,Burger King,Kano,2024-08-19,1.0,15.0,25.0,Average,True,285.0
+846,Sushi,150.0,200.0,Grain,Subway,Abuja,2025-01-26,3.0,20.0,20.0,Late,True,180.0
+847,Burger,8000.0,400.0,Vegetable,Mcdonald,Abuja,2025-11-11,1.0,0.0,15.0,Late,True,400.0
+848,Salad,8000.0,1200.0,Fast Food,Mcdonald,Lagos,2023-10-18,5.0,10.0,60.0,Poor,False,1190.0
+849,Sushi,8000.0,1200.0,Dessert,Subway,Abuja,2023-11-02,5.0,5.0,25.0,Poor,True,1195.0
+850,Pasta,350.0,350.0,Grain,Subway,Port Harcourt,2024-09-25,4.0,15.0,25.0,Average,True,335.0
+851,Bread,8000.0,300.0,Bakery,Mcdonald,Kano,2024-09-16,5.0,10.0,15.0,Delayed,True,290.0
+852,Salad,300.0,200.0,Fast Food,Subway,Abuja,2025-07-27,5.0,15.0,25.0,Excellent,True,185.0
+853,Salad,200.0,250.0,Dessert,Subway,Kano,2025-04-27,4.0,15.0,60.0,Good,False,235.0
+854,Pasta,400.0,550.0,Dessert,Mcdonald,Port Harcourt,2024-03-17,4.0,5.0,45.0,Good,False,545.0
+855,Pasta,300.0,200.0,Seafood,Mcdonald,Port Harcourt,2024-05-17,4.0,10.0,30.0,Delayed,True,190.0
+856,Rice,400.0,550.0,Seafood,Pizza Hut,Port Harcourt,2023-05-10,5.0,10.0,45.0,No Notes,False,540.0
+857,Sushi,250.0,500.0,Bakery,Kfc,Lagos,2024-08-19,2.0,10.0,20.0,Delayed,True,490.0
+858,Pasta,400.0,550.0,Bakery,Kfc,Abuja,2025-05-11,5.0,20.0,45.0,No Notes,False,530.0
+859,Pizza,200.0,450.0,Seafood,Pizza Hut,Ibadan,2024-08-15,5.0,0.0,15.0,No Notes,True,450.0
+860,Rice,200.0,1200.0,Vegetable,Pizza Hut,Kano,2025-09-25,5.0,20.0,60.0,Delayed,False,1180.0
+861,Bread,8000.0,300.0,Vegetable,Burger King,Abuja,2023-11-21,4.0,10.0,45.0,Good,False,290.0
+862,Sushi,450.0,400.0,Fast Food,Mcdonald,Lagos,2025-12-28,3.0,20.0,15.0,Excellent,True,380.0
+863,Sandwich,250.0,350.0,Dessert,Subway,Abuja,2024-03-23,5.0,10.0,20.0,Good,True,340.0
+864,Pizza,150.0,450.0,Fast Food,Subway,Ibadan,2025-03-29,5.0,10.0,25.0,Late,True,440.0
+865,Burger,500.0,550.0,Dessert,Pizza Hut,Ibadan,2024-12-09,1.0,0.0,60.0,Good,False,550.0
+866,Pasta,400.0,400.0,Bakery,Domino's,Abuja,2023-09-22,5.0,5.0,45.0,Good,False,395.0
+867,Sandwich,450.0,300.0,Grain,Kfc,Port Harcourt,2024-09-03,1.0,0.0,30.0,Delayed,True,300.0
+868,Pasta,8000.0,450.0,Fast Food,Pizza Hut,Abuja,2025-04-11,1.0,10.0,30.0,Delayed,True,440.0
+869,Salad,350.0,350.0,Fast Food,Domino's,Abuja,2024-11-04,5.0,10.0,60.0,Late,False,340.0
+870,Pizza,150.0,1200.0,Dessert,Domino's,Lagos,2023-06-06,2.0,20.0,30.0,Late,True,1180.0
+871,Salad,350.0,300.0,Fast Food,Domino's,Lagos,2023-09-08,3.0,10.0,45.0,Delayed,False,290.0
+872,Rice,450.0,350.0,Bakery,Burger King,Lagos,2025-05-27,3.0,15.0,45.0,Good,False,335.0
+873,Salad,350.0,500.0,Bakery,Burger King,Abuja,2024-06-13,5.0,15.0,60.0,Excellent,False,485.0
+874,Rice,250.0,500.0,Dessert,Subway,Ibadan,2023-11-23,4.0,10.0,45.0,No Notes,False,490.0
+875,Rice,8000.0,350.0,Fast Food,Subway,Abuja,2025-08-18,5.0,0.0,25.0,Poor,True,350.0
+876,Sandwich,150.0,450.0,Dessert,Domino's,Lagos,2025-06-13,2.0,5.0,15.0,No Notes,True,445.0
+877,Pasta,150.0,300.0,Bakery,Mcdonald,Abuja,2023-04-07,2.0,0.0,20.0,Late,True,300.0
+878,Burger,150.0,450.0,Fast Food,Burger King,Lagos,2024-05-27,3.0,10.0,25.0,Late,True,440.0
+879,Salad,250.0,250.0,Seafood,Subway,Lagos,2023-08-04,4.0,10.0,25.0,No Notes,True,240.0
+880,Pizza,400.0,550.0,Fast Food,Domino's,Port Harcourt,2023-05-05,1.0,5.0,30.0,Poor,True,545.0
+881,Rice,350.0,250.0,Vegetable,Subway,Lagos,2023-02-28,1.0,20.0,15.0,Good,True,230.0
+882,Pasta,250.0,500.0,Dessert,Subway,Port Harcourt,2023-06-10,3.0,20.0,60.0,Excellent,False,480.0
+883,Bread,500.0,1200.0,Seafood,Domino's,Lagos,2023-10-11,5.0,5.0,30.0,Excellent,True,1195.0
+884,Sushi,350.0,200.0,Grain,Kfc,Lagos,2023-04-16,2.0,20.0,15.0,No Notes,True,180.0
+885,Sandwich,200.0,550.0,Fast Food,Mcdonald,Abuja,2023-08-16,5.0,15.0,45.0,Poor,False,535.0
+886,Burger,8000.0,500.0,Dessert,Domino's,Abuja,2023-11-14,4.0,20.0,60.0,Late,False,480.0
+887,Cake,250.0,450.0,Grain,Subway,Ibadan,2025-03-12,4.0,20.0,60.0,Average,False,430.0
+888,Sandwich,350.0,450.0,Fast Food,Domino's,Lagos,2025-05-23,3.0,20.0,30.0,Good,True,430.0
+889,Bread,350.0,450.0,Vegetable,Burger King,Lagos,2024-04-16,1.0,15.0,45.0,No Notes,False,435.0
+890,Sushi,500.0,1200.0,Fast Food,Domino's,Lagos,2025-12-15,5.0,20.0,30.0,Excellent,True,1180.0
+891,Bread,200.0,250.0,Bakery,Kfc,Lagos,2024-09-16,5.0,10.0,25.0,Late,True,240.0
+892,Salad,400.0,200.0,Seafood,Burger King,Lagos,2023-01-13,2.0,15.0,15.0,Delayed,True,185.0
+893,Rice,350.0,450.0,Dessert,Subway,Abuja,2025-11-07,5.0,5.0,25.0,Delayed,True,445.0
+894,Burger,350.0,400.0,Seafood,Mcdonald,Abuja,2024-11-24,4.0,0.0,15.0,Poor,True,400.0
+895,Rice,8000.0,550.0,Vegetable,Mcdonald,Abuja,2025-08-30,3.0,5.0,20.0,Poor,True,545.0
+896,Rice,350.0,300.0,Grain,Subway,Ibadan,2023-04-23,5.0,0.0,25.0,No Notes,True,300.0
+897,Rice,200.0,400.0,Dessert,Mcdonald,Lagos,2023-08-17,1.0,5.0,60.0,Average,False,395.0
+898,Sushi,350.0,200.0,Bakery,Subway,Lagos,2023-06-20,5.0,10.0,30.0,Excellent,True,190.0
+899,Pasta,300.0,1200.0,Vegetable,Kfc,Abuja,2023-10-22,4.0,0.0,20.0,No Notes,True,1200.0
+900,Cake,450.0,200.0,Dessert,Pizza Hut,Abuja,2023-07-08,5.0,0.0,20.0,Average,True,200.0
+901,Pizza,400.0,300.0,Vegetable,Subway,Kano,2024-03-01,4.0,10.0,60.0,Late,False,290.0
+902,Rice,200.0,550.0,Fast Food,Mcdonald,Ibadan,2025-09-03,4.0,0.0,60.0,Poor,False,550.0
+903,Burger,350.0,300.0,Vegetable,Subway,Abuja,2024-10-19,1.0,0.0,15.0,Delayed,True,300.0
+904,Bread,450.0,350.0,Bakery,Mcdonald,Abuja,2025-07-07,5.0,10.0,25.0,Good,True,340.0
+905,Burger,450.0,550.0,Dessert,Subway,Abuja,2024-05-13,4.0,20.0,45.0,Late,False,530.0
+906,Sushi,350.0,200.0,Fast Food,Subway,Lagos,2025-01-31,4.0,20.0,15.0,Delayed,True,180.0
+907,Rice,8000.0,450.0,Dessert,Mcdonald,Lagos,2025-05-15,4.0,10.0,45.0,Excellent,False,440.0
+908,Bread,300.0,200.0,Fast Food,Kfc,Lagos,2025-04-05,5.0,15.0,20.0,Excellent,True,185.0
+909,Pizza,250.0,200.0,Bakery,Kfc,Abuja,2023-03-12,1.0,0.0,45.0,Delayed,False,200.0
+910,Pizza,300.0,550.0,Vegetable,Pizza Hut,Abuja,2023-09-05,4.0,0.0,25.0,Late,True,550.0
+911,Rice,350.0,350.0,Fast Food,Subway,Ibadan,2023-05-26,3.0,10.0,15.0,Delayed,True,340.0
+912,Sushi,400.0,200.0,Bakery,Pizza Hut,Lagos,2024-08-04,4.0,10.0,60.0,Average,False,190.0
+913,Pasta,250.0,400.0,Dessert,Burger King,Abuja,2024-04-14,5.0,15.0,25.0,No Notes,True,385.0
+914,Sushi,200.0,500.0,Fast Food,Mcdonald,Lagos,2023-07-12,2.0,10.0,25.0,Poor,True,490.0
+915,Rice,300.0,400.0,Fast Food,Subway,Abuja,2025-12-27,2.0,20.0,25.0,Average,True,380.0
+916,Burger,350.0,400.0,Fast Food,Kfc,Abuja,2024-05-08,1.0,5.0,25.0,Good,True,395.0
+917,Pizza,300.0,200.0,Seafood,Subway,Ibadan,2023-02-21,3.0,10.0,15.0,Delayed,True,190.0
+918,Burger,250.0,400.0,Dessert,Mcdonald,Abuja,2025-05-31,4.0,20.0,60.0,Good,False,380.0
+919,Burger,500.0,450.0,Fast Food,Domino's,Kano,2023-12-29,2.0,0.0,25.0,Good,True,450.0
+920,Burger,350.0,1200.0,Grain,Pizza Hut,Abuja,2025-07-05,1.0,10.0,25.0,Average,True,1190.0
+921,Pizza,300.0,1200.0,Dessert,Domino's,Abuja,2024-04-18,4.0,10.0,60.0,Poor,False,1190.0
+922,Sandwich,200.0,550.0,Fast Food,Subway,Lagos,2024-06-04,3.0,15.0,30.0,Late,True,535.0
+923,Salad,200.0,400.0,Vegetable,Subway,Abuja,2024-11-21,3.0,20.0,30.0,Excellent,True,380.0
+924,Rice,150.0,200.0,Dessert,Pizza Hut,Ibadan,2024-06-15,5.0,15.0,30.0,No Notes,True,185.0
+925,Sandwich,300.0,1200.0,Dessert,Domino's,Lagos,2025-04-19,1.0,20.0,45.0,Excellent,False,1180.0
+926,Rice,350.0,200.0,Bakery,Mcdonald,Abuja,2025-12-24,1.0,10.0,25.0,Poor,True,190.0
+927,Bread,8000.0,550.0,Vegetable,Subway,Ibadan,2023-08-29,5.0,0.0,15.0,Excellent,True,550.0
+928,Sushi,450.0,400.0,Grain,Mcdonald,Kano,2024-06-19,4.0,5.0,15.0,Delayed,True,395.0
+929,Sushi,350.0,300.0,Seafood,Mcdonald,Ibadan,2023-03-24,1.0,15.0,45.0,Delayed,False,285.0
+930,Cake,450.0,500.0,Fast Food,Subway,Lagos,2025-09-08,5.0,15.0,15.0,Average,True,485.0
+931,Sushi,450.0,500.0,Dessert,Burger King,Lagos,2025-08-08,4.0,5.0,25.0,Good,True,495.0
+932,Pizza,500.0,1200.0,Fast Food,Pizza Hut,Ibadan,2024-09-02,4.0,15.0,30.0,Poor,True,1185.0
+933,Pasta,150.0,500.0,Bakery,Kfc,Abuja,2024-07-27,5.0,15.0,25.0,Poor,True,485.0
+934,Rice,350.0,300.0,Fast Food,Mcdonald,Kano,2023-10-13,3.0,20.0,15.0,Excellent,True,280.0
+935,Cake,350.0,200.0,Grain,Subway,Port Harcourt,2025-09-15,4.0,20.0,15.0,Average,True,180.0
+936,Rice,500.0,550.0,Fast Food,Mcdonald,Abuja,2024-04-03,3.0,5.0,20.0,Excellent,True,545.0
+937,Rice,300.0,300.0,Grain,Mcdonald,Ibadan,2023-05-06,3.0,0.0,20.0,Excellent,True,300.0
+938,Rice,300.0,550.0,Dessert,Domino's,Abuja,2024-02-29,5.0,10.0,20.0,Poor,True,540.0
+939,Rice,300.0,550.0,Dessert,Pizza Hut,Abuja,2024-07-07,4.0,10.0,25.0,Excellent,True,540.0
+940,Cake,400.0,400.0,Grain,Subway,Lagos,2024-09-01,4.0,15.0,30.0,Good,True,385.0
+941,Bread,450.0,200.0,Fast Food,Kfc,Lagos,2023-04-22,1.0,0.0,60.0,Excellent,False,200.0
+942,Burger,400.0,400.0,Vegetable,Subway,Lagos,2024-02-06,5.0,5.0,30.0,Good,True,395.0
+943,Sushi,150.0,500.0,Vegetable,Kfc,Abuja,2023-05-02,1.0,5.0,30.0,Poor,True,495.0
+944,Sushi,500.0,400.0,Dessert,Pizza Hut,Abuja,2023-09-30,5.0,20.0,25.0,Average,True,380.0
+945,Pizza,350.0,400.0,Seafood,Pizza Hut,Lagos,2024-02-02,1.0,15.0,25.0,Delayed,True,385.0
+946,Cake,450.0,550.0,Fast Food,Burger King,Ibadan,2024-04-15,2.0,10.0,25.0,Good,True,540.0
+947,Pizza,400.0,1200.0,Fast Food,Burger King,Abuja,2025-09-11,5.0,5.0,25.0,Average,True,1195.0
+948,Pasta,400.0,500.0,Grain,Kfc,Port Harcourt,2024-07-22,3.0,15.0,20.0,Average,True,485.0
+949,Pasta,350.0,500.0,Dessert,Subway,Abuja,2025-06-15,3.0,0.0,15.0,Good,True,500.0
+950,Pizza,400.0,200.0,Fast Food,Kfc,Abuja,2025-03-30,4.0,20.0,45.0,Poor,False,180.0
+951,Cake,8000.0,350.0,Bakery,Pizza Hut,Kano,2025-05-02,5.0,10.0,45.0,No Notes,False,340.0
+952,Pizza,350.0,250.0,Seafood,Pizza Hut,Abuja,2024-12-10,4.0,0.0,60.0,Average,False,250.0
+953,Sushi,8000.0,250.0,Grain,Domino's,Abuja,2023-11-17,4.0,5.0,15.0,Average,True,245.0
+954,Sandwich,350.0,250.0,Bakery,Burger King,Abuja,2023-06-28,2.0,5.0,60.0,Poor,False,245.0
+955,Salad,500.0,350.0,Dessert,Subway,Port Harcourt,2025-06-15,4.0,0.0,20.0,Poor,True,350.0
+956,Rice,350.0,200.0,Vegetable,Subway,Lagos,2023-08-07,3.0,5.0,60.0,Excellent,False,195.0
+957,Salad,8000.0,350.0,Dessert,Subway,Lagos,2025-02-27,4.0,15.0,15.0,Poor,True,335.0
+958,Cake,350.0,250.0,Vegetable,Domino's,Abuja,2024-05-06,2.0,5.0,15.0,Average,True,245.0
+959,Salad,500.0,400.0,Dessert,Mcdonald,Abuja,2023-03-02,3.0,20.0,45.0,Good,False,380.0
+960,Pasta,500.0,300.0,Fast Food,Subway,Ibadan,2025-12-13,5.0,15.0,25.0,No Notes,True,285.0
+961,Rice,150.0,550.0,Bakery,Pizza Hut,Lagos,2024-06-21,1.0,10.0,20.0,Late,True,540.0
+962,Rice,350.0,350.0,Vegetable,Domino's,Abuja,2025-04-27,5.0,5.0,25.0,Excellent,True,345.0
+963,Burger,350.0,200.0,Grain,Kfc,Port Harcourt,2025-09-14,2.0,5.0,60.0,Late,False,195.0
+964,Cake,300.0,200.0,Bakery,Burger King,Lagos,2023-03-06,4.0,20.0,45.0,Good,False,180.0
+965,Rice,200.0,400.0,Grain,Burger King,Lagos,2024-08-08,4.0,20.0,60.0,No Notes,False,380.0
+966,Salad,500.0,300.0,Bakery,Subway,Kano,2023-06-20,5.0,10.0,60.0,No Notes,False,290.0
+967,Pasta,250.0,1200.0,Bakery,Kfc,Lagos,2024-06-18,4.0,0.0,25.0,No Notes,True,1200.0
+968,Bread,300.0,500.0,Dessert,Subway,Kano,2024-11-23,2.0,0.0,20.0,Delayed,True,500.0
+969,Sandwich,450.0,250.0,Vegetable,Domino's,Lagos,2023-04-18,5.0,0.0,15.0,Good,True,250.0
+970,Burger,350.0,1200.0,Vegetable,Mcdonald,Port Harcourt,2025-03-24,4.0,20.0,30.0,Excellent,True,1180.0
+971,Sandwich,8000.0,400.0,Dessert,Subway,Kano,2025-10-01,2.0,0.0,60.0,Excellent,False,400.0
+972,Rice,200.0,250.0,Bakery,Mcdonald,Lagos,2024-03-27,4.0,0.0,30.0,No Notes,True,250.0
+973,Pasta,250.0,300.0,Fast Food,Kfc,Kano,2024-08-12,4.0,10.0,20.0,Good,True,290.0
+974,Pasta,300.0,400.0,Fast Food,Kfc,Kano,2025-11-05,3.0,0.0,30.0,Delayed,True,400.0
+975,Salad,350.0,250.0,Grain,Kfc,Port Harcourt,2023-11-23,5.0,5.0,60.0,No Notes,False,245.0
+976,Sushi,150.0,300.0,Grain,Subway,Port Harcourt,2024-08-30,1.0,10.0,25.0,Poor,True,290.0
+977,Salad,450.0,450.0,Dessert,Domino's,Kano,2024-10-20,3.0,20.0,30.0,Late,True,430.0
+978,Sushi,200.0,1200.0,Bakery,Kfc,Abuja,2023-01-02,1.0,15.0,20.0,Excellent,True,1185.0
+979,Sushi,350.0,1200.0,Grain,Mcdonald,Abuja,2025-10-30,4.0,10.0,20.0,Late,True,1190.0
+980,Burger,150.0,500.0,Grain,Kfc,Abuja,2024-03-09,5.0,10.0,25.0,Average,True,490.0
+981,Salad,250.0,300.0,Seafood,Burger King,Port Harcourt,2023-05-05,3.0,20.0,25.0,No Notes,True,280.0
+982,Bread,200.0,350.0,Bakery,Subway,Abuja,2024-04-29,3.0,20.0,25.0,Poor,True,330.0
+983,Pizza,150.0,450.0,Fast Food,Mcdonald,Abuja,2024-10-13,2.0,5.0,30.0,Excellent,True,445.0
+984,Pizza,450.0,400.0,Dessert,Subway,Ibadan,2025-03-10,5.0,10.0,30.0,Late,True,390.0
+985,Salad,350.0,250.0,Grain,Burger King,Ibadan,2025-05-22,4.0,10.0,25.0,Delayed,True,240.0
+986,Salad,150.0,450.0,Dessert,Burger King,Lagos,2023-05-09,4.0,0.0,15.0,Good,True,450.0
+987,Sandwich,400.0,300.0,Vegetable,Mcdonald,Lagos,2024-03-13,4.0,5.0,45.0,Excellent,False,295.0
+988,Burger,350.0,550.0,Dessert,Mcdonald,Kano,2025-01-20,4.0,0.0,20.0,Late,True,550.0
+989,Salad,250.0,250.0,Fast Food,Domino's,Abuja,2024-05-15,5.0,0.0,15.0,Good,True,250.0
+990,Sandwich,450.0,200.0,Fast Food,Burger King,Lagos,2025-12-17,4.0,20.0,20.0,Late,True,180.0
+991,Sushi,350.0,1200.0,Fast Food,Domino's,Kano,2023-07-30,1.0,10.0,15.0,Good,True,1190.0
+992,Pasta,8000.0,300.0,Fast Food,Burger King,Abuja,2025-06-20,4.0,0.0,25.0,Delayed,True,300.0
+993,Pasta,8000.0,200.0,Dessert,Pizza Hut,Port Harcourt,2023-02-14,4.0,10.0,25.0,Delayed,True,190.0
+994,Sushi,8000.0,500.0,Fast Food,Mcdonald,Ibadan,2024-06-18,2.0,10.0,45.0,No Notes,False,490.0
+995,Cake,200.0,400.0,Vegetable,Burger King,Abuja,2024-04-05,3.0,10.0,15.0,No Notes,True,390.0
+996,Sandwich,250.0,400.0,Bakery,Pizza Hut,Abuja,2024-01-26,4.0,10.0,20.0,Excellent,True,390.0
+997,Sandwich,450.0,400.0,Fast Food,Subway,Abuja,2025-12-03,4.0,20.0,30.0,Delayed,True,380.0
+998,Sushi,350.0,200.0,Fast Food,Subway,Abuja,2023-01-27,5.0,5.0,20.0,Poor,True,195.0
+999,Bread,200.0,1200.0,Dessert,Pizza Hut,Ibadan,2025-03-04,5.0,15.0,60.0,Late,False,1185.0
+1000,Rice,250.0,500.0,Vegetable,Kfc,Abuja,2025-09-01,4.0,0.0,25.0,Late,True,500.0

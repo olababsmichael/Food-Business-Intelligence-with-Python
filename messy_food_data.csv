@@ -1,0 +1,1051 @@
+ID,Food,Calories,Price,Category,Restaurant,Location,Date,Rating,Discount,Delivery_Time,Notes
+1,Cake,150,,fast food,,,2024-04-07,4,20,30,Excellent
+2,Salad,500,450,Grain,,Ibadan,2025-03-18,5,,20,Excellent
+3,Sushi,300,500,Seafood,,Kano,2023-07-06,5,15,20,   late   
+4,Burger,300,1200,Vegetable,,Port Harcourt,2025-01-01,3,0,45,Delayed
+5,Cake,350,200,Dessert,KFC,lagos,2024-03-04,1,0,25,Excellent
+6,  sandwich ,500,500,Seafood,   Subway,,2025-05-07,5,0,25,   late   
+7,Pizza,350,550,Fast Food,Pizza Hut,Abuja,2023-08-25,5,15,20,Excellent
+8,Cake,500,300,Bakery,Pizza Hut,lagos,2025-02-09,2,5,45,   late   
+9,Sushi,,350,Vegetable,Burger King,Ibadan,2025-01-27,5,20,45,Poor
+10,Burger,150,,Fast Food,Subway,lagos,2023-05-16,2,15,60,Average
+11,Salad,,450,Dessert,,lagos,2025-03-02,1,5,,Average
+12,Sushi,8000,,,KFC,Port Harcourt,2023-06-20,5,5,15,Good
+13,Sushi,400,500,Grain,Subway, ABUJA,2023-06-08,,,,Delayed
+14,Pizza,250,350,Dessert,,lagos,2023-07-20,5,15,25,   late   
+15,Pasta,500,550,Seafood,KFC,lagos,2025-08-19,,15,20,
+16,Burger,8000,400,Bakery,Subway,,2024-08-05,5,5,60,Good
+17,Bread,400,200,Seafood,Pizza Hut, ABUJA,2025-05-25,2,5,30,Good
+18,Sushi,450,350,Vegetable,Pizza Hut,Port Harcourt,2024-01-06,3,5,25,   late   
+19,Pasta,150,300,Vegetable,   Subway,Abuja,2023-04-13,5,,15,   late   
+20,Bread,350,1200,Bakery,McDonald,Ibadan,2025-09-28,3,15,45,Good
+21,Burger,350,550,fast food,   Subway,Port Harcourt,2025-09-02,5,5,20,Good
+22,Rice,,200,Fast Food,Domino's,Port Harcourt,2025-03-08,5,0,25,Average
+23,  sandwich ,300,450,Fast Food,   Subway,Lagos,2024-10-19,2,15,30,
+24,Pasta,400,1200,Vegetable,,Port Harcourt,2025-05-31,1,,15,Good
+25,,450,500,Vegetable,Burger King, ABUJA,2025-01-02,1,0,15,Average
+26,Rice,8000,350,,Subway,Lagos,2024-02-27,1,10,60,Good
+27,  sandwich ,150,200,Grain,Burger King,Ibadan,2024-07-25,5,15,25,Excellent
+28,Pizza,400,250,,McDonald,lagos,2023-06-20,5,10,30,Good
+29,Cake,450,400,,Domino's,,2023-06-22,3,5,15,   late   
+30,Salad,250,400,fast food,Subway,,2024-10-24,2,,20,Delayed
+31,,500,550,Fast Food,KFC,Ibadan,2024-03-28,5,5,15,Delayed
+32,Pizza,350,450,fast food,,Ibadan,2023-12-16,2,,30,Good
+33,Burger,8000,550,fast food,Domino's, ABUJA,2024-05-08,3,20,45,Poor
+34,Pizza,350,250,Bakery,Pizza Hut,Kano,2024-09-11,5,5,45,Excellent
+35,Cake,8000,300,Fast Food,McDonald,lagos,2025-10-24,1,10,60,
+36,Burger,,450,Grain,Domino's,Ibadan,2025-07-07,1,,25,Good
+37,,300,,Seafood,,Port Harcourt,2023-01-06,5,5,30,
+38,Cake,8000,300,Vegetable,   Subway, ABUJA,2023-10-15,,15,60,Excellent
+39,Bread,350,450,Vegetable,Domino's,,2024-08-30,4,,,Good
+40,Salad,,450,Grain,   Subway,Abuja,2024-04-01,,,15,Poor
+41,,8000,250,fast food,, ABUJA,2025-10-26,5,5,,Average
+42,Bread,250,500,,Pizza Hut,,2024-09-15,2,20,15,Poor
+43,  sandwich ,300,250,Bakery,Subway,Lagos,2024-01-11,5,5,45,   late   
+44,,8000,450,fast food,KFC, ABUJA,2024-03-22,2,10,60,Poor
+45,  sandwich ,,200,Vegetable,Pizza Hut,,2025-04-14,2,10,45,Average
+46,Burger,400,300,Dessert,   Subway,Kano,2025-03-21,,,20,   late   
+47,Bread,200,250,,   Subway, ABUJA,2025-08-16,4,,,Average
+48,Salad,450,500,Vegetable,KFC, ABUJA,2025-04-28,5,5,,Delayed
+49,Cake,200,350,Dessert,Subway,lagos,2025-03-19,,10,45,Average
+50,Sushi,200,550,fast food,Domino's,Ibadan,2025-09-05,4,10,20,Good
+51,Pizza,150,450,Grain,KFC,lagos,2024-02-20,1,20,15,
+52,Rice,250,,Grain,McDonald, ABUJA,2024-12-26,1,15,60,Delayed
+53,Salad,400,350,,McDonald,Ibadan,2024-03-29,2,20,20,Delayed
+54,Bread,500,400,Vegetable,,,2023-05-30,3,0,60,
+55,Sushi,8000,1200,Fast Food,Pizza Hut,Abuja,2025-01-28,5,20,,Delayed
+56,Salad,450,500,Dessert,   Subway,Abuja,2025-02-17,5,5,60,Average
+57,Bread,300,,Bakery,Subway, ABUJA,2025-08-30,2,15,,Poor
+58,Pasta,400,1200,Vegetable,,Kano,2025-02-01,3,5,20,Excellent
+59,Pasta,350,500,Bakery,Pizza Hut,Lagos,2025-09-28,4,0,,Average
+60,  sandwich ,500,200,Vegetable,Pizza Hut,,2023-03-17,1,15,25,   late   
+61,Salad,150,550,Fast Food,,Ibadan,2024-08-21,5,,,   late   
+62,Pasta,150,350,Fast Food,Burger King, ABUJA,2023-08-13,,10,45,Poor
+63,Bread,400,300,,Pizza Hut,,2023-04-23,3,20,20,Poor
+64,  sandwich ,,500,,Burger King, ABUJA,2023-09-08,4,5,15,Delayed
+65,Bread,200,300,Fast Food,McDonald,Kano,2025-04-20,1,0,60,Good
+66,  sandwich ,350,550,Seafood,McDonald,Port Harcourt,2024-12-14,,10,30,Good
+67,Salad,150,450,Fast Food,Pizza Hut,Port Harcourt,2023-05-05,3,20,20,Delayed
+68,Sushi,450,400,Grain,McDonald,Kano,2025-12-28,2,10,45,Delayed
+69,Cake,150,350,Grain,Subway,Ibadan,2025-12-06,2,20,,
+70,,300,550,Seafood,Burger King,lagos,2025-06-02,2,,60,
+71,Sushi,8000,550,fast food,Burger King,Kano,2023-01-30,5,15,25,Excellent
+72,Burger,150,200,Dessert,Pizza Hut, ABUJA,2023-10-08,4,10,15,Excellent
+73,Bread,300,1200,fast food,McDonald,Ibadan,2025-07-12,2,10,25,Excellent
+74,Burger,400,400,Bakery,KFC,Abuja,2024-01-03,5,10,30,Excellent
+75,Sushi,400,350,fast food,   Subway,Kano,2024-05-09,5,15,20,Poor
+76,  sandwich ,500,450,Vegetable,,Ibadan,2025-11-14,5,0,60,Poor
+77,,150,450,fast food,,Kano,2024-12-18,1,20,20,
+78,,450,250,Vegetable,Burger King,Kano,2025-10-13,5,,45,Good
+79,Rice,150,550,Seafood,Pizza Hut,lagos,2024-08-28,4,10,20,Delayed
+80,,450,500,Grain,Pizza Hut,lagos,2024-01-10,,15,15,   late   
+81,Cake,250,200,,Subway, ABUJA,2024-09-30,5,0,30,Good
+82,,500,400,Vegetable,Domino's,Ibadan,2025-11-14,2,20,25,Average
+83,Sushi,250,450,Grain,   Subway,Ibadan,2023-04-26,1,15,30,Poor
+84,Rice,150,350,Dessert,Domino's,Lagos,2023-02-17,3,,60,Excellent
+85,Sushi,500,250,Bakery,Burger King,Kano,2023-04-09,2,,20,Excellent
+86,Sushi,250,350,Dessert,,Port Harcourt,2024-02-09,1,20,60,Average
+87,Pizza,200,200,Seafood,Subway,Kano,2024-11-15,5,10,25,Good
+88,Rice,150,500,fast food,Subway,Kano,2025-06-21,3,,60,Excellent
+89,Sushi,250,250,fast food,Subway,Ibadan,2024-05-17,5,0,45,Good
+90,Pizza,200,250,Fast Food,Burger King,Kano,2025-06-12,,15,30,Delayed
+91,Pizza,200,1200,Fast Food,Domino's,,2023-09-15,1,0,25,Average
+92,Rice,400,400,Fast Food,,Kano,2025-04-23,5,10,25,   late   
+93,Burger,150,250,Dessert,Subway,,2023-05-01,,0,,Good
+94,  sandwich ,200,1200,Vegetable,,lagos,2025-03-20,1,0,25,Delayed
+95,Cake,400,1200,Bakery,McDonald,Port Harcourt,2025-09-04,1,5,,Good
+96,  sandwich ,250,200,Fast Food,Pizza Hut, ABUJA,2023-02-23,5,0,15,Good
+97,,300,300,Seafood,Pizza Hut,Ibadan,2025-10-15,1,20,,Excellent
+98,Cake,150,350,Seafood,,Kano,2025-02-22,2,15,30,
+99,,500,500,Fast Food,KFC,,2023-08-29,1,5,60,Poor
+100,Sushi,450,,fast food,KFC,,2024-04-27,4,15,,Good
+101,Bread,450,350,Fast Food,Burger King,lagos,2025-10-09,,15,25,Good
+102,Rice,250,250,Bakery,Burger King,,2023-07-06,1,10,30,Good
+103,Cake,,500,Fast Food,Pizza Hut, ABUJA,2024-10-17,4,10,,
+104,Cake,,450,Bakery,McDonald,Abuja,2023-09-19,1,5,,Delayed
+105,Sushi,250,300,Seafood,   Subway,Lagos,2025-08-10,1,,25,   late   
+106,Burger,200,450,Fast Food,Domino's, ABUJA,2024-05-05,5,10,45,   late   
+107,Pizza,150,450,Dessert,Domino's,Port Harcourt,2024-03-06,2,10,45,Average
+108,Sushi,450,400,,Burger King, ABUJA,2023-08-27,,10,,Excellent
+109,Pasta,450,350,Dessert,McDonald,lagos,2023-10-31,2,15,45,
+110,Pizza,200,,Seafood,Burger King,lagos,2023-10-25,3,5,20,Delayed
+111,Rice,450,200,Bakery,   Subway, ABUJA,2023-03-17,5,15,25,Good
+112,Pizza,500,,Dessert,Domino's,Kano,2025-09-25,5,20,20,Delayed
+113,Burger,150,450,Bakery,,Abuja,2024-10-03,2,15,30,
+114,Pizza,8000,250,Dessert,Burger King,Kano,2025-04-06,5,20,20,
+115,Rice,450,300,Dessert,Subway,Kano,2023-10-10,5,0,30,
+116,Burger,250,550,Bakery,, ABUJA,2024-08-13,2,0,,Average
+117,  sandwich ,500,,Vegetable,   Subway,Ibadan,2023-03-13,5,20,30,Poor
+118,Cake,450,450,Dessert,   Subway,Ibadan,2024-12-03,1,20,30,Excellent
+119,Cake,500,300,Fast Food,Burger King,Ibadan,2024-07-28,2,15,60,Average
+120,,400,500,,Pizza Hut,Abuja,2025-09-26,2,20,20,Average
+121,  sandwich ,8000,350,Seafood,Burger King,Kano,2025-06-10,4,5,60,Poor
+122,  sandwich ,350,1200,Vegetable,Pizza Hut,Lagos,2023-01-12,5,0,,Average
+123,Pizza,250,400,Bakery,   Subway,Port Harcourt,2023-05-21,5,0,25,
+124,Cake,250,300,Vegetable,McDonald,Ibadan,2023-01-17,2,,20,
+125,Rice,150,250,Grain,   Subway,Ibadan,2025-12-22,1,20,25,Delayed
+126,Salad,500,250,Grain,Domino's,lagos,2023-09-10,1,10,25,Good
+127,Salad,200,300,Dessert,,Kano,2024-04-09,,10,30,Average
+128,Burger,250,250,Dessert,,Kano,2024-01-11,1,20,20,Good
+129,Cake,500,350,Fast Food,KFC,Abuja,2025-09-07,5,5,25,Excellent
+130,Cake,500,250,,KFC,Abuja,2024-06-03,5,10,45,   late   
+131,Salad,300,,Seafood,   Subway,Ibadan,2023-03-31,4,,25,
+132,Cake,300,1200,Vegetable,Domino's,Kano,2024-12-20,2,20,45,Delayed
+133,Pizza,350,250,Grain,KFC,Lagos,2025-03-14,3,5,20,Excellent
+134,Pasta,400,1200,Dessert,,Port Harcourt,2025-03-06,4,5,,Delayed
+135,Bread,350,450,fast food,Burger King, ABUJA,2024-09-21,5,15,60,   late   
+136,  sandwich ,450,200,fast food,McDonald,Kano,2023-03-17,3,5,20,   late   
+137,,200,350,Seafood,McDonald,lagos,2025-07-14,4,10,60,Poor
+138,Burger,450,200,Vegetable,Domino's, ABUJA,2024-02-04,1,10,60,
+139,Pasta,,450,Dessert,   Subway,Kano,2025-08-27,5,20,20,Excellent
+140,Salad,450,350,Dessert,KFC,,2025-12-30,5,20,25,Poor
+141,  sandwich ,150,300,Grain,Burger King,Abuja,2025-03-07,3,5,15,   late   
+142,Cake,450,300,Grain,McDonald,lagos,2023-07-14,5,,25,Excellent
+143,,350,1200,Dessert,McDonald,Port Harcourt,2023-08-16,4,0,25,Delayed
+144,Cake,250,450,Bakery,Subway,Ibadan,2024-04-05,5,15,,Poor
+145,Rice,250,1200,Dessert,   Subway,lagos,2024-09-09,5,0,30,Poor
+146,Rice,300,400,Seafood,Subway,Kano,2025-11-10,3,5,30,
+147,,200,250,Dessert,,Ibadan,2023-03-05,2,5,25,Good
+148,,200,550,Fast Food,McDonald,Kano,2023-06-14,4,0,45,Delayed
+149,Salad,150,400,,Domino's,Ibadan,2023-01-27,2,15,,Delayed
+150,,350,250,Fast Food,Pizza Hut,Port Harcourt,2025-10-08,1,0,60,Poor
+151,Pizza,300,350,Fast Food,Pizza Hut,Abuja,2023-10-12,2,20,30,Poor
+152,Cake,,1200,Bakery,Burger King,Port Harcourt,2023-10-08,2,10,25,
+153,Pasta,200,350,Bakery,McDonald,,2025-04-17,,,,Good
+154,Sushi,250,350,fast food,McDonald,Lagos,2025-04-10,4,20,15,Delayed
+155,,450,250,Dessert,,Abuja,2025-07-06,1,10,45,   late   
+156,Burger,450,450,Fast Food,McDonald,Port Harcourt,2023-08-12,2,,20,Average
+157,Rice,300,250,Bakery,Domino's,,2025-02-22,5,,25,Average
+158,Pizza,350,500,Grain,Subway,Lagos,2025-08-22,3,,,Good
+159,  sandwich ,350,300,Dessert,McDonald,,2025-08-07,2,5,25,Excellent
+160,Sushi,400,300,Seafood,McDonald,Kano,2025-11-19,1,,60,
+161,Pasta,8000,400,,, ABUJA,2023-02-14,2,15,45,Good
+162,Sushi,200,300,Vegetable,   Subway,Kano,2024-04-15,3,0,30,Average
+163,,350,250,Dessert,KFC,Ibadan,2023-02-03,1,15,30,Poor
+164,Salad,250,,Vegetable,   Subway,Abuja,2024-10-14,4,0,30,Average
+165,Rice,300,1200,Fast Food,,Kano,2025-04-09,1,20,20,Poor
+166,Rice,,250,,   Subway,lagos,2023-08-09,4,20,,
+167,  sandwich ,400,250,Vegetable,,,2024-06-17,1,0,45,Poor
+168,Salad,500,550,Fast Food,Domino's,Abuja,2024-11-22,5,15,45,Good
+169,Cake,150,1200,Grain,Burger King, ABUJA,2025-07-20,3,0,30,Poor
+170,Bread,,500,Vegetable,McDonald,lagos,2025-04-20,3,,30,Excellent
+171,Pizza,500,300,,,Kano,2025-10-07,1,5,60,Good
+172,Rice,450,1200,fast food,,Ibadan,2024-08-04,5,20,15,
+173,Burger,150,300,Dessert,KFC,Port Harcourt,2023-08-27,2,5,15,Good
+174,Rice,200,400,Fast Food,,Ibadan,2024-03-16,3,,25,Excellent
+175,Sushi,250,1200,Dessert,Pizza Hut,lagos,2023-05-28,4,,25,
+176,Rice,150,300,,Burger King,Lagos,2025-10-29,4,20,45,Average
+177,Rice,8000,500,Bakery,McDonald,Kano,2024-01-23,5,20,45,Excellent
+178,Bread,500,200,Fast Food,McDonald,lagos,2025-12-09,,,20,
+179,Bread,200,350,Vegetable,KFC,Lagos,2025-07-04,5,10,20,   late   
+180,Pasta,8000,350,Fast Food,Domino's,Lagos,2024-09-29,,5,15,Poor
+181,Cake,450,500,Dessert,McDonald,,2023-10-05,,5,25,Good
+182,Burger,8000,550,Grain,Pizza Hut,Abuja,2025-09-15,4,10,15,
+183,Rice,400,200,Fast Food,McDonald,,2024-08-11,5,15,15,Good
+184,Rice,400,400,Vegetable,Pizza Hut,Kano,2024-10-10,,5,25,Poor
+185,Pizza,300,500,Bakery,Burger King,Lagos,2024-09-09,,0,,
+186,Bread,,350,fast food,Burger King, ABUJA,2023-05-15,1,,20,Average
+187,Burger,,350,Seafood,Subway,lagos,2024-08-02,1,,60,   late   
+188,  sandwich ,200,350,Grain,Subway,Port Harcourt,2024-05-04,1,10,60,   late   
+189,Pasta,450,450,fast food,Pizza Hut,Lagos,2024-04-22,2,5,60,Excellent
+190,Cake,350,500,Bakery,Domino's,lagos,2024-01-19,,15,25,
+191,Salad,400,250,Fast Food,McDonald, ABUJA,2023-06-12,2,5,30,Poor
+192,Cake,200,400,Dessert,,Port Harcourt,2024-03-16,5,,30,
+193,Sushi,350,350,,McDonald,,2024-02-19,5,20,30,Good
+194,Rice,,300,Dessert,Subway,,2023-10-15,4,0,45,Delayed
+195,Pasta,300,500,fast food,   Subway,Abuja,2023-07-06,,10,20,
+196,Sushi,8000,450,Vegetable,,lagos,2023-05-10,4,20,20,   late   
+197,Burger,400,500,Dessert,Pizza Hut,Lagos,2023-07-13,5,15,,   late   
+198,Salad,200,400,Grain,,Ibadan,2023-11-12,1,20,,   late   
+199,Bread,150,450,Dessert,   Subway,,2023-05-24,,20,45,Average
+200,Pasta,350,400,Vegetable,McDonald,,2023-01-16,3,15,15,
+201,Pasta,8000,500,Seafood,McDonald,Abuja,2024-02-27,2,20,,Excellent
+202,Rice,400,250,Fast Food,Domino's,Port Harcourt,2023-09-02,2,10,60,
+203,,,400,,KFC,Abuja,2025-07-15,,,30,Delayed
+204,Pasta,450,450,fast food,, ABUJA,2023-05-09,5,5,60,   late   
+205,Pizza,350,450,Fast Food,Subway,Lagos,2025-06-25,1,20,30,Good
+206,Salad,,400,Dessert,   Subway,lagos,2025-06-05,2,10,60,   late   
+207,Salad,400,,Bakery,   Subway,Kano,2023-12-07,1,5,15,
+208,Pizza,350,500,Fast Food,   Subway,Kano,2023-01-04,5,5,60,Average
+209,  sandwich ,8000,,Seafood,Subway,lagos,2023-11-02,4,20,60,Poor
+210,Pizza,400,550,Dessert,KFC,Port Harcourt,2025-06-26,5,10,25,
+211,Pizza,500,500,,McDonald, ABUJA,2024-08-29,3,,60,
+212,Salad,200,400,Vegetable,Domino's,,2025-09-18,4,20,25,Excellent
+213,Cake,8000,200,Seafood,Domino's,Port Harcourt,2023-11-17,4,15,20,Average
+214,Salad,350,400,Dessert,Subway,,2024-07-12,5,5,45,Delayed
+215,,450,,Seafood,Domino's,,2024-09-09,2,20,60,Poor
+216,Rice,,250,Fast Food,   Subway,Kano,2024-12-11,3,5,20,   late   
+217,Sushi,150,400,,Burger King,Port Harcourt,2024-06-14,2,10,,Good
+218,Cake,,400,Vegetable,KFC, ABUJA,2024-02-14,,0,,
+219,Bread,350,250,Dessert,McDonald,Abuja,2025-03-28,4,20,25,Delayed
+220,Sushi,,400,Grain,Burger King,,2024-05-07,,,60,Poor
+221,Rice,200,350,fast food,KFC,Ibadan,2023-01-12,1,20,60,Good
+222,,400,200,Vegetable,Pizza Hut,Ibadan,2023-07-14,4,5,15,Delayed
+223,,150,300,Grain,,Abuja,2024-05-04,2,10,20,Average
+224,Bread,250,200,Seafood,Subway,Ibadan,2025-03-05,4,15,30,Average
+225,Cake,350,400,Bakery,   Subway,Lagos,2025-05-30,1,,30,Poor
+226,  sandwich ,300,350,Vegetable,Domino's,,2023-07-01,5,10,15,   late   
+227,Pizza,250,500,Seafood,Pizza Hut,Abuja,2025-08-19,,20,25,Good
+228,Cake,,400,Grain,Domino's,Port Harcourt,2024-10-17,,15,30,Average
+229,  sandwich ,350,,Fast Food,Burger King,,2024-11-24,2,10,30,Poor
+230,,500,350,Fast Food,McDonald,Abuja,2023-01-30,4,0,,Average
+231,Salad,300,250,Bakery,McDonald,Kano,2025-02-16,2,,,Average
+232,Rice,150,350,fast food,McDonald, ABUJA,2024-03-19,5,5,45,Delayed
+233,Bread,450,250,Vegetable,   Subway,Port Harcourt,2023-10-25,4,10,20,Delayed
+234,Rice,500,550,Vegetable,Domino's, ABUJA,2025-03-18,4,10,25,Average
+235,Burger,250,300,Vegetable,Pizza Hut,Kano,2025-04-24,2,0,60,Excellent
+236,Burger,400,1200,fast food,McDonald,,2025-10-12,2,20,20,Delayed
+237,Cake,200,350,Seafood,Pizza Hut,Port Harcourt,2024-07-07,1,,25,Good
+238,,450,450,,Domino's, ABUJA,2023-10-30,5,,30,Poor
+239,,500,,,   Subway,Ibadan,2024-02-25,5,5,45,Poor
+240,Pizza,400,400,Bakery,Burger King, ABUJA,2023-07-04,5,10,20,   late   
+241,Pizza,400,,Vegetable,   Subway,Abuja,2024-04-12,5,15,30,Good
+242,Pizza,350,200,Seafood,Pizza Hut,,2025-01-23,1,10,25,Good
+243,Salad,500,1200,Fast Food,   Subway,Lagos,2023-12-29,,5,20,Good
+244,Sushi,150,200,Grain,   Subway, ABUJA,2023-12-02,4,10,60,   late   
+245,Pasta,,550,Seafood,Burger King,Port Harcourt,2023-06-11,2,0,20,Good
+246,Sushi,300,1200,fast food,Domino's,Port Harcourt,2023-01-12,4,10,30,
+247,Rice,300,1200,,Domino's,lagos,2024-08-10,4,10,20,   late   
+248,Sushi,250,200,,Subway, ABUJA,2023-07-20,3,15,60,Poor
+249,Salad,250,250,Fast Food,   Subway,,2024-06-05,,0,45,
+250,Rice,300,200,Fast Food,Domino's,,2024-05-19,3,0,45,   late   
+251,Sushi,150,,fast food,Domino's,Kano,2025-02-26,5,10,30,Average
+252,Salad,200,250,Grain,KFC,lagos,2025-11-28,4,,25,Average
+253,Pasta,8000,,Fast Food,McDonald, ABUJA,2023-03-01,2,15,30,Poor
+254,Sushi,,550,Bakery,Subway,Ibadan,2024-07-31,4,10,45,Average
+255,Salad,200,400,Grain,,Kano,2023-11-17,,10,15,Good
+256,Pizza,350,500,Fast Food,Subway,lagos,2025-07-11,3,5,15,   late   
+257,,8000,250,Dessert,Subway, ABUJA,2024-07-22,2,5,20,
+258,Pizza,8000,550,Seafood,, ABUJA,2024-06-10,4,,60,Good
+259,,500,450,Fast Food,KFC,Kano,2024-06-07,5,15,,Average
+260,Bread,150,550,Bakery,   Subway,Ibadan,2024-09-04,,20,,Delayed
+261,Bread,150,200,Vegetable,Burger King,lagos,2023-05-05,,5,,
+262,Bread,8000,200,Fast Food,Domino's, ABUJA,2025-05-20,5,20,20,Good
+263,Pasta,500,500,,McDonald, ABUJA,2023-10-07,4,0,15,   late   
+264,Pizza,,550,,Pizza Hut,lagos,2025-07-05,,5,45,Poor
+265,,8000,300,,   Subway,Lagos,2024-09-13,2,5,20,Good
+266,Salad,450,400,Vegetable,,Kano,2025-04-25,4,15,,Delayed
+267,Rice,250,200,,Burger King,Kano,2024-11-04,4,,,Average
+268,Salad,250,500,Dessert,   Subway,Port Harcourt,2023-11-10,3,20,30,
+269,Rice,200,400,Fast Food,,Ibadan,2023-11-28,,5,,Poor
+270,Burger,350,550,fast food,Domino's,Abuja,2023-02-05,,5,60,
+271,Salad,250,550,,KFC,Lagos,2025-11-11,5,15,,Poor
+272,Sushi,400,1200,Grain,   Subway,lagos,2023-07-25,3,15,30,   late   
+273,Sushi,200,500,fast food,,lagos,2024-09-30,5,,,
+274,Cake,250,200,Vegetable,Domino's,lagos,2025-04-27,3,20,60,Average
+275,Pizza,350,300,Dessert,Domino's,Lagos,2024-03-15,,0,45,   late   
+276,Rice,150,550,Grain,KFC, ABUJA,2024-12-29,4,,20,   late   
+277,Rice,150,300,Grain,Subway,lagos,2025-07-29,3,0,60,Poor
+278,Pizza,,550,Grain,   Subway,lagos,2023-06-13,5,10,30,Excellent
+279,Pasta,8000,200,Grain,   Subway,Ibadan,2023-05-28,3,5,20,
+280,Cake,450,400,fast food,Subway,,2023-10-21,5,20,20,
+281,Pasta,150,350,fast food,McDonald,,2023-07-14,5,,30,Good
+282,Pasta,500,400,Fast Food,McDonald,Port Harcourt,2024-10-24,3,5,15,Poor
+283,Pasta,250,550,,Subway,Port Harcourt,2024-04-24,5,20,,Delayed
+284,Pizza,500,,Seafood,Burger King,lagos,2023-05-03,3,20,60,Excellent
+285,Pasta,350,350,Fast Food,Pizza Hut,Ibadan,2024-11-29,5,20,30,Average
+286,Sushi,150,350,Fast Food,Domino's,lagos,2025-08-22,3,5,45,Good
+287,Bread,450,300,Dessert,Pizza Hut,Port Harcourt,2024-10-22,2,,25,Excellent
+288,Burger,350,500,Dessert,Domino's,Lagos,2024-12-10,5,15,30,Poor
+289,Rice,400,300,,Subway,Lagos,2024-01-31,5,5,,Excellent
+290,Rice,400,300,Seafood,McDonald, ABUJA,2025-06-30,5,20,,   late   
+291,Burger,500,,Dessert,Burger King,Abuja,2025-10-01,5,,20,
+292,Pizza,8000,400,,McDonald,,2023-11-13,1,10,20,   late   
+293,Salad,200,400,,Pizza Hut,Ibadan,2024-11-11,5,0,30,
+294,Pizza,8000,450,fast food,McDonald,Kano,2024-05-09,3,20,25,Good
+295,Rice,,550,Bakery,Subway,,2024-07-09,5,10,30,Poor
+296,Rice,8000,,fast food,Burger King,Kano,2024-09-01,,15,25,Poor
+297,Burger,,450,Seafood,Pizza Hut,Abuja,2023-04-19,1,20,25,Excellent
+298,Pasta,,200,Dessert,Burger King,Abuja,2024-01-07,2,10,,Good
+299,Pizza,450,550,Seafood,   Subway,lagos,2025-05-04,5,20,,Poor
+300,,150,550,Fast Food,Domino's,Port Harcourt,2024-09-07,5,5,,Delayed
+301,Burger,450,1200,Fast Food,McDonald,Abuja,2025-02-06,1,,45,Delayed
+302,Sushi,,1200,Seafood,Burger King,Abuja,2023-07-25,3,10,,   late   
+303,Rice,350,250,Bakery,KFC,Kano,2025-04-26,,,60,
+304,Burger,400,250,Bakery,   Subway,Port Harcourt,2023-02-12,2,5,20,Excellent
+305,Pizza,,300,fast food,McDonald,Abuja,2025-05-14,5,5,20,Average
+306,Rice,450,200,Seafood,Domino's,,2025-02-23,3,,25,
+307,Salad,350,350,Dessert,Burger King, ABUJA,2024-04-20,5,10,20,Good
+308,Burger,450,350,fast food,Pizza Hut,Abuja,2023-03-24,,,15,Poor
+309,Cake,8000,1200,Vegetable,Domino's, ABUJA,2023-07-09,5,,25,
+310,Rice,250,1200,Bakery,KFC,Port Harcourt,2025-03-10,,0,20,Average
+311,Pizza,500,1200,Grain,Burger King,lagos,2025-07-24,2,10,15,Average
+312,Bread,200,,fast food,,Ibadan,2023-09-08,4,0,45,Delayed
+313,,450,500,Fast Food,,Port Harcourt,2023-10-18,,20,20,Good
+314,  sandwich ,200,250,fast food,Subway,Kano,2023-11-22,4,,15,
+315,Pasta,300,,Seafood,McDonald,Ibadan,2025-04-16,5,20,30,Excellent
+316,  sandwich ,450,400,Grain,Pizza Hut,,2024-05-22,,10,60,
+317,Pizza,250,350,Seafood,Subway,Lagos,2024-12-31,2,,30,Delayed
+318,Sushi,200,550,,Burger King, ABUJA,2023-03-13,1,20,15,   late   
+319,Sushi,,250,Fast Food,, ABUJA,2024-10-02,2,15,25,Average
+320,Bread,450,450,Fast Food,, ABUJA,2025-07-28,2,5,,Good
+321,Pasta,150,400,Bakery,,Port Harcourt,2024-08-30,1,,,Good
+322,Cake,500,250,fast food,Burger King, ABUJA,2024-07-19,1,5,,Excellent
+323,Bread,250,,Bakery,,lagos,2023-02-23,3,0,25,Good
+324,  sandwich ,200,200,Grain,Domino's, ABUJA,2024-06-11,,20,20,Delayed
+325,Bread,250,550,fast food,   Subway,Kano,2024-09-02,5,0,,Delayed
+326,  sandwich ,350,250,,Burger King,,2023-07-12,3,,30,Delayed
+327,Rice,500,500,Seafood,Pizza Hut, ABUJA,2023-02-27,1,5,25,Good
+328,Sushi,,1200,,   Subway, ABUJA,2023-05-09,4,5,25,Good
+329,Rice,450,1200,Fast Food,Subway,Ibadan,2024-12-06,5,20,,Delayed
+330,,450,550,Grain,Pizza Hut,,2025-05-01,4,,30,Good
+331,Pasta,450,,Vegetable,   Subway, ABUJA,2023-01-08,2,15,45,Good
+332,Cake,500,1200,Grain,KFC,Port Harcourt,2023-01-29,5,15,25,Average
+333,  sandwich ,150,250,Dessert,,Abuja,2025-08-04,2,20,,
+334,Cake,300,450,Grain,KFC,lagos,2023-05-11,2,,60,Poor
+335,  sandwich ,400,350,,McDonald,Port Harcourt,2023-07-07,5,20,15,Good
+336,Pizza,8000,350,Dessert,McDonald,Lagos,2024-12-09,,,20,Poor
+337,Bread,200,400,Dessert,   Subway,Port Harcourt,2023-07-31,1,0,25,   late   
+338,,150,300,fast food,KFC,Ibadan,2023-10-03,4,20,60,Poor
+339,Sushi,,200,fast food,Burger King,Ibadan,2023-08-31,2,,60,Average
+340,  sandwich ,200,550,Dessert,Pizza Hut, ABUJA,2025-09-13,5,15,25,Good
+341,Cake,450,400,Vegetable,KFC,Port Harcourt,2024-11-15,3,,45,Delayed
+342,,250,300,fast food,McDonald,Ibadan,2023-06-20,2,,15,Poor
+343,Salad,,,Grain,KFC,Abuja,2024-10-14,4,20,20,Good
+344,Salad,200,500,,Burger King,,2023-07-07,1,0,25,Excellent
+345,Rice,450,500,Grain,KFC,Port Harcourt,2023-02-21,2,0,20,   late   
+346,Sushi,200,200,Vegetable,Pizza Hut,lagos,2023-04-21,2,0,30,Delayed
+347,Pizza,250,1200,Fast Food,Subway,Abuja,2025-05-26,,0,60,Excellent
+348,Cake,450,250,Bakery,Burger King, ABUJA,2025-12-02,5,10,60,Excellent
+349,Bread,300,400,,McDonald,,2023-07-30,3,20,25,Poor
+350,Bread,150,400,fast food,Pizza Hut,lagos,2025-05-07,3,5,25,Excellent
+351,Cake,350,550,,KFC, ABUJA,2024-09-18,5,20,30,Average
+352,Pasta,8000,550,Grain,KFC,lagos,2025-11-15,1,10,45,Average
+353,Pizza,500,500,Bakery,Subway, ABUJA,2023-10-26,5,0,25,Poor
+354,,8000,500,Seafood,McDonald,lagos,2025-07-12,4,10,60,Good
+355,  sandwich ,,450,Seafood,McDonald,,2023-05-17,1,15,20,
+356,Pasta,8000,450,fast food,Domino's,Abuja,2025-11-09,2,15,15,Good
+357,  sandwich ,450,1200,Vegetable,McDonald,lagos,2024-03-15,2,20,,Good
+358,  sandwich ,300,450,Seafood,Subway,lagos,2023-07-30,3,20,20,Good
+359,Pasta,350,250,,,Kano,2025-01-21,4,5,45,Good
+360,Rice,150,250,Seafood,Domino's,Port Harcourt,2024-03-10,5,5,15,Delayed
+361,Salad,150,400,Fast Food,Domino's,,2025-02-18,4,15,20,
+362,  sandwich ,250,350,Fast Food,KFC, ABUJA,2024-03-14,2,0,20,Delayed
+363,Pasta,500,250,fast food,KFC,,2024-10-27,5,10,30,Excellent
+364,Pasta,200,300,Fast Food,McDonald,Ibadan,2025-12-01,4,5,,   late   
+365,Burger,300,500,Seafood,Domino's, ABUJA,2024-02-15,4,,45,Good
+366,Rice,200,550,Vegetable,   Subway,,2025-03-16,5,5,60,   late   
+367,Sushi,350,450,Dessert,KFC,Abuja,2024-09-01,2,0,30,Average
+368,Burger,8000,400,Dessert,Subway, ABUJA,2024-03-02,4,0,15,Poor
+369,Burger,150,200,fast food,   Subway, ABUJA,2025-06-20,5,20,,Poor
+370,Cake,350,550,Bakery,KFC,,2025-07-30,,10,60,Delayed
+371,Salad,8000,300,Dessert,Burger King, ABUJA,2025-01-11,,0,30,Delayed
+372,Pasta,150,450,Dessert,Burger King,Kano,2023-11-24,2,5,,Average
+373,Salad,8000,300,Fast Food,KFC,Port Harcourt,2023-02-21,5,5,45,Good
+374,Pizza,500,500,Fast Food,Domino's, ABUJA,2024-01-11,,15,25,   late   
+375,Cake,300,500,Seafood,,Port Harcourt,2023-09-20,5,0,25,   late   
+376,Sushi,,1200,fast food,,,2023-09-24,4,,15,
+377,Salad,350,400,Bakery,Domino's,lagos,2023-12-25,2,20,25,Excellent
+378,Bread,350,550,fast food,Pizza Hut,Lagos,2024-10-13,,10,30,Poor
+379,  sandwich ,400,,Grain,,Lagos,2023-02-15,5,,15,Excellent
+380,Pizza,450,,,Burger King,lagos,2024-08-22,4,20,60,
+381,Rice,500,550,Bakery,Subway,lagos,2024-12-20,5,5,45,Delayed
+382,Sushi,500,200,Bakery,Domino's,lagos,2024-08-23,5,,15,   late   
+383,Pizza,200,400,Vegetable,McDonald,Abuja,2024-01-16,1,20,60,Poor
+384,  sandwich ,8000,300,fast food,Burger King,Lagos,2023-04-28,1,5,15,Excellent
+385,Cake,450,200,Seafood,Subway,lagos,2023-04-26,2,5,20,Delayed
+386,  sandwich ,300,350,Vegetable,Subway,Abuja,2023-09-17,,5,20,
+387,Burger,300,550,Bakery,Domino's,Ibadan,2023-11-01,,5,15,Excellent
+388,  sandwich ,500,300,Bakery,Subway, ABUJA,2023-01-07,,5,,   late   
+389,Burger,300,,Bakery,Domino's,Abuja,2024-01-01,5,15,25,Good
+390,Cake,400,250,Dessert,,Lagos,2024-06-06,4,,20,Delayed
+391,,350,1200,fast food,KFC,,2024-03-04,,20,,
+392,Burger,250,,,Burger King,Ibadan,2025-03-01,4,15,,Excellent
+393,Rice,,400,,Pizza Hut,Lagos,2025-01-16,2,15,45,   late   
+394,  sandwich ,200,500,Vegetable,KFC, ABUJA,2024-01-02,5,0,60,Good
+395,  sandwich ,8000,250,Bakery,Burger King,Abuja,2023-11-09,,0,30,Good
+396,Rice,,1200,,Domino's,Kano,2024-06-21,2,0,20,
+397,Bread,8000,1200,Fast Food,Burger King,Port Harcourt,2025-07-09,,10,15,Average
+398,Pasta,150,350,fast food,, ABUJA,2025-12-13,1,0,25,   late   
+399,,,350,,Domino's,Lagos,2025-05-14,3,20,30,   late   
+400,Sushi,250,450,Seafood,KFC,lagos,2025-02-20,2,15,60,Poor
+401,Burger,500,,fast food,McDonald,Abuja,2023-11-30,,20,,
+402,Rice,400,,Seafood,McDonald,lagos,2025-03-08,3,,60,Good
+403,Cake,350,,,   Subway,lagos,2023-12-14,2,0,20,Good
+404,Burger,350,450,Fast Food,   Subway,lagos,2023-09-30,5,10,60,
+405,Pasta,400,200,Seafood,Burger King,lagos,2025-08-20,,,60,Average
+406,Cake,450,1200,Dessert,McDonald,lagos,2024-12-20,5,10,25,Poor
+407,Pizza,150,250,,Domino's,Ibadan,2024-05-14,1,,,Excellent
+408,  sandwich ,8000,400,Dessert,Subway,Lagos,2024-11-15,,15,25,
+409,Pizza,250,1200,,Domino's, ABUJA,2023-03-20,5,20,25,Poor
+410,Burger,300,350,Grain,Subway,Lagos,2024-09-13,1,5,15,   late   
+411,Pasta,,300,Grain,KFC, ABUJA,2025-08-04,3,20,60,Poor
+412,,150,500,Grain,Pizza Hut,Port Harcourt,2023-12-24,2,0,60,Delayed
+413,Burger,,450,Seafood,Subway,Abuja,2024-09-09,4,5,60,Good
+414,Rice,250,550,Dessert,McDonald,Kano,2024-05-21,1,10,45,Excellent
+415,Salad,200,300,Dessert,Domino's,Ibadan,2024-07-29,4,15,25,
+416,Burger,200,400,Dessert,KFC,Abuja,2023-09-01,4,15,30,Good
+417,  sandwich ,150,,Fast Food,McDonald,Ibadan,2024-05-20,2,10,20,Delayed
+418,  sandwich ,500,350,Dessert,KFC, ABUJA,2024-02-26,3,0,,Delayed
+419,Burger,250,350,Fast Food,Pizza Hut,Lagos,2023-08-05,2,10,30,Good
+420,Cake,250,350,Grain,,lagos,2025-10-05,,,,Average
+421,Salad,400,,Grain,Domino's,Port Harcourt,2023-11-26,1,0,15,Poor
+422,Rice,500,550,Seafood,Burger King,Port Harcourt,2024-10-11,4,5,15,
+423,Burger,8000,450,,Domino's,,2024-01-26,2,10,,
+424,Cake,8000,300,Grain,   Subway,Kano,2024-01-16,2,0,60,
+425,  sandwich ,300,,,Pizza Hut,Port Harcourt,2025-01-11,2,5,30,Good
+426,  sandwich ,350,400,,Domino's,lagos,2025-03-30,1,10,60,   late   
+427,Pasta,200,450,fast food,   Subway,Lagos,2024-11-03,3,15,45,Average
+428,Burger,8000,400,Seafood,Burger King,Kano,2024-05-27,5,10,15,Excellent
+429,Salad,500,450,Bakery,Subway, ABUJA,2025-08-06,2,20,15,Delayed
+430,Bread,250,550,Bakery,KFC,Abuja,2025-07-18,1,10,30,Good
+431,Salad,8000,500,Vegetable,Burger King, ABUJA,2025-07-01,4,20,15,   late   
+432,  sandwich ,250,400,fast food,McDonald,lagos,2024-10-05,,5,45,Excellent
+433,  sandwich ,8000,,Seafood,Pizza Hut,lagos,2024-03-02,5,10,45,Delayed
+434,Pizza,200,450,Vegetable,Subway,Port Harcourt,2024-05-16,5,5,45,Delayed
+435,  sandwich ,,350,Vegetable,McDonald,Kano,2024-12-30,5,5,20,Average
+436,Rice,8000,1200,fast food,McDonald,Lagos,2023-03-12,5,0,45,Poor
+437,Sushi,500,350,Bakery,Pizza Hut, ABUJA,2024-04-22,1,5,45,
+438,Burger,8000,200,Seafood,Subway,,2024-04-01,5,5,20,Excellent
+439,Salad,350,500,Bakery,, ABUJA,2023-07-08,2,10,60,Good
+440,Sushi,200,500,Vegetable,McDonald,Ibadan,2023-10-18,2,10,25,Excellent
+441,Cake,500,350,Seafood,McDonald,Ibadan,2025-07-08,5,15,15,Poor
+442,Bread,400,300,Vegetable,Subway,Lagos,2023-10-19,1,0,45,
+443,Rice,500,550,Dessert,Domino's,Lagos,2025-01-25,5,5,15,Excellent
+444,Salad,350,400,fast food,McDonald,Ibadan,2024-01-12,2,0,30,Poor
+445,Sushi,,,,KFC,,2024-05-22,4,20,15,Good
+446,Bread,200,500,Seafood,Subway,Kano,2024-06-11,3,5,,Average
+447,Pizza,400,350,Seafood,McDonald,Ibadan,2024-07-12,3,0,60,   late   
+448,Rice,350,350,,Pizza Hut,Lagos,2025-11-20,2,15,20,Delayed
+449,Rice,350,550,Vegetable,Burger King,Port Harcourt,2023-09-17,5,15,15,Good
+450,Pizza,150,550,Dessert,KFC,Abuja,2024-02-25,,5,15,
+451,Burger,200,250,Fast Food,   Subway,,2023-10-31,2,20,15,Delayed
+452,Pizza,500,250,,   Subway,lagos,2025-07-30,,15,25,   late   
+453,Rice,250,300,fast food,Burger King,,2025-11-28,,15,25,Good
+454,Rice,,300,Bakery,   Subway,Port Harcourt,2024-06-25,5,20,30,Good
+455,Sushi,250,200,Vegetable,Burger King,Port Harcourt,2025-12-25,,0,20,Good
+456,  sandwich ,500,300,,McDonald,lagos,2023-04-18,4,15,15,Good
+457,Bread,500,450,,KFC, ABUJA,2023-09-25,5,10,15,Delayed
+458,Pizza,200,550,Seafood,KFC,Lagos,2023-08-10,2,,15,
+459,Bread,500,,Bakery,Domino's,Ibadan,2024-11-23,5,,15,   late   
+460,Pizza,150,450,Bakery,Burger King, ABUJA,2023-09-12,4,15,25,Poor
+461,Cake,400,400,fast food,KFC,Kano,2023-09-10,1,0,60,Excellent
+462,Rice,500,350,Bakery,Domino's,,2023-09-14,3,0,60,Average
+463,  sandwich ,250,300,,Subway,lagos,2024-01-18,2,5,30,   late   
+464,Sushi,500,350,Fast Food,Domino's,,2024-03-17,2,10,,Excellent
+465,  sandwich ,150,500,Grain,Pizza Hut, ABUJA,2024-08-21,2,0,45,Excellent
+466,  sandwich ,8000,200,Vegetable,,Port Harcourt,2024-01-25,4,20,20,Average
+467,  sandwich ,8000,500,Grain,McDonald,Ibadan,2024-08-04,1,10,60,   late   
+468,Bread,350,200,,Subway,,2025-12-03,5,,,Delayed
+469,Pizza,,250,Grain,,Kano,2024-08-20,5,10,15,
+470,,300,350,,,Port Harcourt,2023-01-19,1,20,60,Average
+471,Cake,400,200,Grain,Subway,Kano,2024-08-29,4,15,30,
+472,Salad,450,1200,Bakery,Pizza Hut,Ibadan,2023-02-02,2,20,45,Delayed
+473,  sandwich ,350,450,Dessert,Domino's,,2025-05-11,3,20,60,Excellent
+474,Burger,,200,Bakery,McDonald,Abuja,2023-06-04,2,15,30,
+475,Bread,8000,200,Bakery,Domino's, ABUJA,2025-06-23,5,15,25,Delayed
+476,Sushi,250,450,fast food,KFC,,2024-02-09,,15,45,Delayed
+477,Salad,450,350,Seafood,Domino's, ABUJA,2025-04-23,3,15,30,Poor
+478,,,350,Seafood,   Subway,Ibadan,2025-01-16,2,15,,Average
+479,Burger,,450,Grain,Subway,,2023-09-28,5,20,60,Poor
+480,,350,500,,McDonald, ABUJA,2025-02-08,3,5,25,Excellent
+481,Salad,450,1200,fast food,Domino's,lagos,2023-06-21,,5,,Average
+482,  sandwich ,200,,Bakery,McDonald, ABUJA,2023-10-01,1,0,30,Excellent
+483,Burger,300,400,fast food,McDonald,,2023-09-16,4,5,30,Poor
+484,,200,1200,Grain,KFC,Lagos,2024-02-26,2,,,   late   
+485,Sushi,450,350,Seafood,KFC,,2023-12-30,5,5,60,Delayed
+486,Pizza,200,,Dessert,Subway,,2024-01-13,1,20,45,Excellent
+487,Rice,150,250,Vegetable,Pizza Hut, ABUJA,2024-08-02,2,15,25,Average
+488,Pizza,8000,300,Grain,   Subway,Kano,2025-06-09,1,15,15,Average
+489,Salad,150,200,fast food,,Abuja,2024-12-22,5,20,20,Excellent
+490,Bread,500,450,Dessert,McDonald,Kano,2025-05-30,2,,45,Average
+491,Rice,200,450,Vegetable,Pizza Hut, ABUJA,2024-08-27,,5,25,Delayed
+492,Cake,500,200,Fast Food,,Kano,2023-01-22,,20,,   late   
+493,Sushi,250,300,Grain,,Port Harcourt,2024-01-18,5,0,30,Delayed
+494,Cake,400,400,Grain,   Subway,Lagos,2023-05-14,3,15,,Average
+495,Burger,250,300,Fast Food,Subway,Kano,2025-11-14,5,10,25,Excellent
+496,Rice,450,,Fast Food,,lagos,2024-05-17,3,0,,Poor
+497,Cake,,300,Grain,   Subway,Ibadan,2023-05-24,2,,,Average
+498,Cake,8000,,Fast Food,,lagos,2023-08-12,3,0,20,Average
+499,,200,300,Bakery,McDonald,Ibadan,2023-08-08,2,20,60,Average
+500,Pizza,350,400,Vegetable,McDonald,,2023-06-28,2,5,20,Average
+501,,400,400,Vegetable,Burger King,Port Harcourt,2024-03-08,5,15,15,Excellent
+502,Rice,300,350,Vegetable,Pizza Hut,Lagos,2023-09-22,4,,15,Poor
+503,Rice,300,200,Bakery,Domino's,lagos,2025-08-11,2,,20,Poor
+504,Salad,300,400,,   Subway,Lagos,2024-03-04,3,10,45,
+505,,200,,Fast Food,KFC,lagos,2024-02-20,4,0,45,Average
+506,Pasta,300,400,Dessert,   Subway,,2024-12-27,4,10,,Average
+507,Pizza,150,350,Fast Food,Domino's,Ibadan,2023-07-16,2,5,,
+508,Rice,400,450,Grain,Pizza Hut,Abuja,2025-12-12,5,5,30,Poor
+509,Salad,150,,Seafood,KFC,Port Harcourt,2024-04-24,5,10,15,Good
+510,,,350,fast food,Domino's,lagos,2025-06-08,,15,30,Delayed
+511,Pizza,400,500,fast food,Burger King,lagos,2025-07-13,4,5,15,Good
+512,,150,500,Vegetable,KFC,,2023-05-03,2,10,20,Poor
+513,Cake,400,250,Fast Food,McDonald,Port Harcourt,2025-02-16,5,0,45,   late   
+514,Salad,,300,Dessert,Domino's,Ibadan,2023-12-14,5,10,,Average
+515,Pizza,500,200,Grain,   Subway,Ibadan,2023-01-29,5,10,45,Good
+516,  sandwich ,200,550,Bakery,KFC,lagos,2025-09-01,2,20,20,Excellent
+517,Burger,200,1200,,Burger King,Abuja,2023-02-04,2,5,30,Excellent
+518,Burger,300,350,Bakery,   Subway,Abuja,2024-09-14,4,15,30,
+519,Pizza,250,450,Dessert,,Lagos,2024-08-11,5,15,25,Poor
+520,,300,1200,Grain,KFC,Port Harcourt,2025-12-26,,20,,Poor
+521,Salad,450,450,Vegetable,KFC,Port Harcourt,2025-06-22,4,,,Good
+522,Burger,150,1200,Fast Food,Burger King,Ibadan,2024-06-03,1,15,,Average
+523,Salad,400,350,Grain,,Lagos,2023-05-02,5,10,15,Poor
+524,Burger,250,550,fast food,Domino's,,2023-12-06,5,20,30,Good
+525,Cake,,1200,,Subway,Port Harcourt,2023-06-24,5,0,20,Good
+526,,450,350,Bakery,Domino's,Lagos,2024-08-19,5,5,30,Delayed
+527,Cake,,400,,,Lagos,2024-03-26,3,5,45,Delayed
+528,Burger,200,550,,Pizza Hut,lagos,2024-07-10,2,5,15,Poor
+529,  sandwich ,200,,Dessert,   Subway,Ibadan,2025-11-05,4,10,,Good
+530,  sandwich ,300,450,Dessert,Burger King,Lagos,2023-01-09,5,0,60,
+531,Cake,150,500,Fast Food,Domino's, ABUJA,2023-11-30,1,20,25,
+532,  sandwich ,250,300,Dessert,KFC,Abuja,2025-10-13,5,20,15,Delayed
+533,Burger,8000,500,Dessert,Burger King, ABUJA,2023-11-23,,5,45,Poor
+534,Pizza,450,550,Grain,McDonald,Abuja,2023-01-15,2,0,,Average
+535,Cake,450,,fast food,,Kano,2025-04-18,5,0,45,   late   
+536,Bread,300,450,Vegetable,   Subway,Ibadan,2023-08-14,2,0,45,
+537,,200,,Fast Food,Domino's,lagos,2023-04-23,5,15,,
+538,  sandwich ,300,1200,Grain,Burger King,,2023-01-01,5,15,45,Delayed
+539,  sandwich ,400,450,Vegetable,   Subway, ABUJA,2023-09-23,4,5,20,Delayed
+540,Rice,250,1200,,Domino's, ABUJA,2025-08-09,3,0,25,Poor
+541,Pasta,150,350,Grain,Burger King,Kano,2023-11-02,5,,60,Delayed
+542,Cake,500,550,Seafood,KFC,Abuja,2023-01-12,5,0,45,Excellent
+543,Sushi,350,350,Grain,McDonald,lagos,2025-07-25,4,20,45,   late   
+544,  sandwich ,350,250,Dessert,McDonald,Kano,2024-02-24,5,20,30,Good
+545,,300,,Vegetable,Pizza Hut,Ibadan,2025-06-07,,5,25,
+546,Bread,400,1200,Fast Food,Burger King,lagos,2023-06-20,1,,15,Excellent
+547,  sandwich ,250,400,Fast Food,Domino's,Ibadan,2023-05-14,4,0,25,Average
+548,Bread,8000,350,Vegetable,McDonald,Lagos,2025-08-22,3,,25,Excellent
+549,Burger,350,250,Dessert,,Port Harcourt,2025-11-14,4,5,,Poor
+550,Burger,250,200,Bakery,McDonald,Lagos,2024-10-19,2,20,,Average
+551,Pasta,150,500,Grain,Subway,Ibadan,2023-06-28,5,20,,Average
+552,Pizza,,450,Dessert,Subway, ABUJA,2025-12-15,5,15,60,Delayed
+553,Sushi,400,250,Seafood,McDonald,lagos,2023-04-21,5,5,25,Excellent
+554,Rice,200,550,fast food,Burger King,Abuja,2023-05-17,5,5,60,Poor
+555,Pasta,250,350,,Pizza Hut,,2023-08-20,5,0,45,
+556,Salad,150,550,Vegetable,McDonald,Abuja,2025-09-18,5,0,,   late   
+557,Rice,8000,500,fast food,KFC,lagos,2024-04-12,5,15,45,Delayed
+558,Cake,500,400,Grain,   Subway,Lagos,2025-01-01,1,10,,Excellent
+559,,200,,Fast Food,Domino's,,2024-04-25,3,,20,
+560,Salad,500,,,Pizza Hut,lagos,2025-12-27,5,10,60,Excellent
+561,Salad,8000,550,fast food,KFC,Ibadan,2025-03-24,5,10,60,Delayed
+562,Pasta,150,1200,Bakery,Pizza Hut, ABUJA,2025-09-20,5,5,15,
+563,Pizza,350,400,fast food,KFC,Abuja,2023-11-19,3,,30,Delayed
+564,Pasta,500,,Seafood,Domino's,Ibadan,2025-07-10,,5,25,Excellent
+565,Cake,200,400,Fast Food,Domino's,,2025-06-22,5,,15,Average
+566,  sandwich ,300,250,Vegetable,Subway,,2024-08-28,5,20,60,   late   
+567,  sandwich ,450,400,Grain,Burger King,Abuja,2024-03-04,4,5,15,Good
+568,Pizza,250,300,Vegetable,KFC,Ibadan,2023-05-28,5,5,20,   late   
+569,Cake,350,500,,   Subway,Kano,2025-04-29,5,5,30,Average
+570,Pizza,500,,Grain,Subway,Ibadan,2024-01-02,2,15,60,Delayed
+571,Bread,,400,Dessert,KFC,,2025-04-29,1,5,60,   late   
+572,  sandwich ,250,550,Bakery,Subway,Ibadan,2025-12-25,4,0,25,Delayed
+573,Salad,300,200,Dessert,Domino's, ABUJA,2025-03-23,4,0,,Delayed
+574,Sushi,8000,300,Dessert,Pizza Hut,lagos,2023-06-24,2,,30,
+575,,450,300,Vegetable,,Lagos,2024-08-10,5,20,20,Poor
+576,Cake,150,1200,,Subway, ABUJA,2024-05-09,1,15,45,Delayed
+577,Rice,300,400,Bakery,KFC,Kano,2025-08-30,4,,15,   late   
+578,Pizza,300,1200,fast food,KFC,Port Harcourt,2023-02-04,1,0,25,   late   
+579,,8000,1200,Grain,,lagos,2025-09-25,4,15,60,   late   
+580,Rice,400,200,Grain,Burger King,Lagos,2024-06-21,5,15,45,Average
+581,,8000,250,Seafood,   Subway,Port Harcourt,2025-01-19,,20,20,Good
+582,Sushi,400,400,Fast Food,Domino's,Abuja,2025-11-03,4,15,30,Delayed
+583,Rice,400,350,Seafood,KFC,Port Harcourt,2024-01-09,,5,15,Delayed
+584,Pasta,350,,fast food,McDonald,lagos,2024-07-10,4,15,25,Delayed
+585,Burger,350,1200,Seafood,Pizza Hut,Ibadan,2023-08-21,3,20,60,
+586,Pasta,200,500,Grain,Subway,lagos,2024-12-05,5,,60,Delayed
+587,  sandwich ,500,450,Vegetable,Burger King, ABUJA,2024-07-16,2,20,45,Average
+588,Burger,500,500,Dessert,   Subway,Port Harcourt,2025-07-27,,20,45,Excellent
+589,Pasta,150,200,,,,2025-06-05,2,0,15,Poor
+590,Burger,500,200,Dessert,Pizza Hut,Lagos,2024-12-26,5,5,30,   late   
+591,Burger,350,550,Dessert,Domino's,Lagos,2023-03-17,5,0,20,Delayed
+592,Salad,200,250,Bakery,Burger King,Port Harcourt,2024-03-14,2,,,
+593,Pizza,200,,Grain,   Subway,Lagos,2024-11-29,5,10,30,Average
+594,Pizza,400,1200,fast food,Subway,,2025-07-03,2,,30,Delayed
+595,Salad,8000,500,fast food,Subway,lagos,2025-06-09,,5,30,
+596,,150,450,,,Lagos,2024-11-22,3,15,,Excellent
+597,Bread,400,200,Vegetable,McDonald,Port Harcourt,2023-09-10,2,20,15,Good
+598,,8000,200,Bakery,,Kano,2025-11-26,,10,,Delayed
+599,Rice,500,250,Fast Food,Domino's,Kano,2024-02-14,4,5,15,Average
+600,Rice,400,450,Vegetable,Burger King,Abuja,2023-05-07,5,0,,
+601,Burger,250,450,Seafood,Burger King, ABUJA,2024-08-14,1,20,20,
+602,Pasta,500,250,Vegetable,KFC,Lagos,2023-10-21,5,,30,Delayed
+603,Pasta,8000,200,Vegetable,McDonald, ABUJA,2025-10-16,1,0,15,
+604,Pizza,150,,Dessert,McDonald,lagos,2023-11-06,5,5,,Good
+605,Cake,8000,400,Vegetable,Burger King,Port Harcourt,2024-10-23,3,5,20,
+606,,400,400,fast food,Burger King,Lagos,2024-06-11,2,,,   late   
+607,  sandwich ,400,250,Seafood,Pizza Hut,Ibadan,2024-06-23,3,10,60,Poor
+608,Sushi,300,450,Seafood,   Subway,,2024-02-23,1,,20,   late   
+609,Pasta,150,1200,Grain,Pizza Hut,Lagos,2024-03-19,5,15,30,Poor
+610,Sushi,,250,Vegetable,Pizza Hut,Lagos,2024-11-15,,0,25,
+611,Burger,500,,Dessert,McDonald, ABUJA,2025-04-19,5,10,30,Delayed
+612,Sushi,200,250,Vegetable,KFC, ABUJA,2023-08-24,5,20,25,Poor
+613,  sandwich ,150,300,Fast Food,Subway,Kano,2023-08-02,5,15,20,Average
+614,Salad,200,500,Fast Food,Pizza Hut,,2023-03-26,3,10,60,Poor
+615,  sandwich ,150,450,Dessert,KFC,Port Harcourt,2025-03-04,,0,60,   late   
+616,Sushi,150,550,Grain,,Lagos,2023-03-26,3,5,15,
+617,  sandwich ,8000,550,Grain,Domino's,Kano,2023-03-06,2,20,60,Delayed
+618,Bread,150,450,Seafood,Pizza Hut, ABUJA,2024-10-24,4,,45,Excellent
+619,Burger,300,,Seafood,,Abuja,2024-09-18,,0,20,Delayed
+620,,,300,Bakery,Subway,,2023-03-05,4,15,15,Delayed
+621,Salad,400,300,Dessert,Domino's,Kano,2025-07-27,5,15,60,Delayed
+622,Pasta,450,200,Vegetable,Domino's,Kano,2025-07-07,2,5,20,Average
+623,Rice,200,500,,Subway,lagos,2024-05-05,4,5,30,Good
+624,,400,400,Dessert,Pizza Hut,Kano,2023-11-09,1,20,60,   late   
+625,Rice,450,350,Bakery,McDonald,lagos,2024-09-06,5,,,
+626,Burger,,,Seafood,Subway,Lagos,2025-07-07,4,20,25,Good
+627,Salad,,350,Dessert,Subway,Lagos,2025-03-23,2,5,20,Excellent
+628,Pizza,200,350,Dessert,Subway, ABUJA,2025-07-28,4,5,15,Good
+629,Pasta,200,450,Seafood,Domino's,Abuja,2024-11-10,5,15,30,
+630,Bread,,550,fast food,   Subway,Ibadan,2024-03-10,3,5,45,   late   
+631,Pizza,450,550,Bakery,KFC,Ibadan,2024-11-12,1,10,30,   late   
+632,Burger,150,400,Seafood,,Ibadan,2025-12-09,5,0,60,
+633,,500,450,Grain,McDonald, ABUJA,2023-12-06,5,5,25,Excellent
+634,Bread,250,350,Vegetable,Pizza Hut,lagos,2023-12-13,2,20,30,
+635,  sandwich ,400,1200,Seafood,Pizza Hut, ABUJA,2024-10-07,3,,45,Excellent
+636,Sushi,8000,550,Bakery,,,2024-10-10,3,,,Excellent
+637,Bread,400,,Fast Food,KFC,,2023-09-02,,,15,
+638,Burger,8000,,Grain,Subway,Abuja,2023-04-19,5,10,20,Poor
+639,Cake,450,200,Fast Food,   Subway,,2024-06-16,1,20,25,   late   
+640,Sushi,8000,250,,McDonald,Ibadan,2023-10-23,5,10,45,Excellent
+641,Rice,200,1200,Seafood,Pizza Hut,Ibadan,2023-04-22,2,5,60,
+642,Pasta,500,550,Grain,, ABUJA,2023-12-09,1,0,60,Poor
+643,Rice,500,300,Vegetable,Burger King,Kano,2023-04-11,,,60,   late   
+644,Bread,200,550,Seafood,   Subway,,2024-09-20,4,20,25,Excellent
+645,Rice,300,200,Vegetable,, ABUJA,2023-01-28,5,,30,   late   
+646,Burger,450,,fast food,   Subway,Lagos,2025-07-25,1,10,25,Poor
+647,  sandwich ,300,350,Dessert,Pizza Hut,Lagos,2023-02-27,5,15,60,   late   
+648,,300,300,Fast Food,Subway,Kano,2023-10-24,5,5,,Average
+649,Pasta,400,450,Grain,Burger King,Kano,2023-05-14,2,0,45,Delayed
+650,Rice,,500,Vegetable,KFC,Kano,2023-09-06,5,5,20,Average
+651,Rice,400,350,Bakery,McDonald, ABUJA,2025-10-17,4,15,20,Poor
+652,Bread,,500,Vegetable,KFC,Lagos,2024-07-03,2,0,25,Excellent
+653,,250,1200,Bakery,KFC,Ibadan,2025-06-20,4,15,60,
+654,Pizza,8000,250,Seafood,,Kano,2025-04-13,4,5,15,Good
+655,Rice,,300,Grain,   Subway,Abuja,2025-02-09,5,10,,
+656,Burger,200,400,Vegetable,McDonald,lagos,2023-05-26,2,5,25,   late   
+657,Cake,400,300,,McDonald, ABUJA,2025-06-11,2,5,60,Good
+658,Pasta,450,550,Vegetable,Pizza Hut,Kano,2023-12-10,1,5,30,Good
+659,Rice,8000,,fast food,Pizza Hut,lagos,2025-11-24,5,20,20,   late   
+660,Burger,250,550,,McDonald,Port Harcourt,2024-12-02,2,15,20,   late   
+661,Burger,,550,Grain,Burger King,Kano,2023-01-01,1,15,,Excellent
+662,Pasta,250,1200,fast food,Domino's,Lagos,2023-06-02,3,,20,Poor
+663,Pizza,450,350,Vegetable,Pizza Hut,,2024-03-04,3,15,15,
+664,Burger,300,400,Bakery,Domino's,Kano,2024-05-22,3,,60,Poor
+665,Cake,500,400,Vegetable,, ABUJA,2024-05-05,,20,60,Average
+666,Burger,450,550,Fast Food,Burger King,,2023-12-11,2,10,,Excellent
+667,Burger,350,500,Seafood,McDonald,Port Harcourt,2023-08-09,,,60,Excellent
+668,Burger,450,1200,Dessert,Burger King,Abuja,2024-12-23,5,5,,Average
+669,  sandwich ,250,550,Bakery,Pizza Hut,,2025-11-14,2,10,60,
+670,  sandwich ,200,250,Fast Food,KFC,lagos,2024-06-11,1,20,15,Delayed
+671,Pizza,400,,,,Ibadan,2025-04-20,,15,45,Average
+672,Rice,200,350,Seafood,McDonald,Kano,2025-12-01,,,25,
+673,Burger,250,450,Grain,Subway,Port Harcourt,2024-04-25,5,5,25,Good
+674,,400,250,Bakery,,Port Harcourt,2025-07-18,,0,60,   late   
+675,Rice,350,500,Dessert,   Subway,,2025-05-21,4,0,30,Excellent
+676,Pizza,500,300,Seafood,Domino's,Abuja,2023-12-11,1,10,20,
+677,Salad,8000,300,,Burger King,Lagos,2023-02-14,3,15,15,Poor
+678,Rice,250,250,fast food,McDonald,Kano,2023-01-21,1,0,30,   late   
+679,Rice,,550,fast food,,Port Harcourt,2025-12-29,4,10,30,Poor
+680,Sushi,250,450,Dessert,Burger King,Abuja,2025-05-22,5,20,60,   late   
+681,Bread,250,200,Grain,McDonald,Ibadan,2023-02-17,5,10,15,Excellent
+682,Sushi,400,200,Grain,Pizza Hut,Port Harcourt,2024-07-04,2,10,25,Average
+683,Cake,150,500,,,Abuja,2023-10-14,1,10,20,Delayed
+684,  sandwich ,450,550,Bakery,Pizza Hut, ABUJA,2025-09-28,5,5,25,Average
+685,  sandwich ,150,400,,,Lagos,2025-10-30,,10,30,
+686,Bread,350,400,Vegetable,Pizza Hut,Lagos,2024-06-25,5,,20,Average
+687,Pasta,,350,Grain,   Subway,Port Harcourt,2025-01-25,5,10,45,Excellent
+688,Pasta,500,450,Seafood,Burger King,lagos,2023-10-01,5,5,30,
+689,Pizza,300,450,Vegetable,Subway,Port Harcourt,2025-08-13,5,5,25,Good
+690,Bread,350,300,fast food,,,2024-08-22,3,20,25,Average
+691,Rice,300,1200,fast food,   Subway,Kano,2024-01-16,3,15,60,Average
+692,Pasta,300,500,Fast Food,,Abuja,2024-04-23,2,0,25,Delayed
+693,Burger,500,200,Dessert,Pizza Hut,Port Harcourt,2023-01-15,5,0,15,
+694,,200,500,Vegetable,McDonald,Kano,2024-05-30,1,10,30,Poor
+695,Rice,150,400,Dessert,,,2023-07-10,4,20,,Average
+696,Cake,250,400,,   Subway, ABUJA,2024-09-12,2,10,,Excellent
+697,Burger,8000,250,Vegetable,Pizza Hut, ABUJA,2023-06-03,1,0,20,Average
+698,Burger,300,350,,KFC,Kano,2023-09-29,5,5,25,Delayed
+699,Bread,,450,Fast Food,Pizza Hut,Port Harcourt,2023-05-23,5,15,60,Good
+700,Pizza,350,,Grain,Burger King,Lagos,2025-12-28,5,20,60,Delayed
+701,Cake,200,500,fast food,Subway,Abuja,2023-09-04,3,5,25,Average
+702,Pasta,300,400,Fast Food,KFC,Abuja,2025-02-26,4,15,15,Poor
+703,Bread,200,1200,fast food,Burger King, ABUJA,2023-03-20,,20,60,   late   
+704,Pasta,200,300,Grain,Burger King, ABUJA,2024-09-14,4,20,,Average
+705,Bread,300,200,,Burger King,Lagos,2024-06-08,,0,20,
+706,Bread,400,350,Grain,McDonald,lagos,2025-02-10,4,5,30,Average
+707,Bread,450,1200,fast food,Burger King,Port Harcourt,2025-07-26,3,20,45,Poor
+708,Pizza,,350,fast food,McDonald, ABUJA,2024-09-08,,,15,
+709,Bread,250,250,Dessert,Burger King, ABUJA,2025-10-28,1,20,60,Excellent
+710,Salad,250,,Seafood,Domino's, ABUJA,2023-03-08,,15,30,
+711,,,400,Fast Food,   Subway,Abuja,2023-07-10,2,0,45,Delayed
+712,Pasta,400,300,Vegetable,KFC,Port Harcourt,2025-02-06,1,10,25,Good
+713,Rice,250,1200,fast food,Domino's,,2024-06-04,2,0,25,Delayed
+714,Sushi,200,350,Fast Food,Burger King,Port Harcourt,2025-09-16,5,10,20,   late   
+715,Cake,500,450,Dessert,KFC,Kano,2023-09-24,4,5,45,
+716,  sandwich ,350,250,Grain,KFC,Lagos,2024-04-29,1,5,25,Excellent
+717,Pizza,150,450,Dessert,,lagos,2024-01-11,4,20,25,Average
+718,Rice,250,300,Bakery,Subway, ABUJA,2024-10-14,5,,,
+719,Burger,,1200,Bakery,Domino's, ABUJA,2024-07-02,5,5,60,Delayed
+720,Salad,500,250,Vegetable,Subway,Port Harcourt,2023-03-14,4,20,20,
+721,  sandwich ,300,1200,Dessert,KFC,lagos,2023-11-04,5,0,30,
+722,Sushi,450,400,,McDonald, ABUJA,2023-07-18,4,5,25,
+723,Rice,,550,Vegetable,KFC,lagos,2024-07-25,5,0,,Excellent
+724,  sandwich ,200,250,,Subway,,2025-03-01,2,0,15,Poor
+725,Rice,450,450,Vegetable,Domino's,Ibadan,2023-06-28,5,,15,Poor
+726,Salad,350,300,Bakery,Burger King,Lagos,2023-07-16,,5,30,
+727,Sushi,350,,Vegetable,,lagos,2025-01-04,5,0,45,Excellent
+728,Burger,400,400,Bakery,,Abuja,2023-03-30,4,,20,Excellent
+729,Bread,8000,550,fast food,,Kano,2025-03-09,5,,,   late   
+730,Pasta,400,,Grain,Burger King,Abuja,2025-02-26,5,5,60,
+731,Burger,500,200,,, ABUJA,2025-01-17,4,,,Delayed
+732,Bread,450,400,Dessert,Domino's,,2023-07-28,5,5,15,Delayed
+733,Pizza,8000,300,fast food,Burger King,,2024-05-07,5,5,15,Good
+734,,300,350,fast food,,Abuja,2024-10-26,5,10,30,
+735,Cake,200,250,Vegetable,Burger King,Lagos,2025-11-02,1,0,45,Good
+736,Cake,450,1200,Bakery,Subway,Abuja,2025-05-20,2,15,45,Delayed
+737,Pasta,400,300,Fast Food,   Subway,Port Harcourt,2025-01-01,5,5,30,Delayed
+738,Sushi,150,250,,   Subway, ABUJA,2024-11-28,5,0,,
+739,Salad,8000,,fast food,Domino's, ABUJA,2024-08-16,3,,15,Good
+740,Sushi,8000,1200,Vegetable,Pizza Hut,Abuja,2025-06-04,,20,,Good
+741,Salad,200,500,Seafood,McDonald,Kano,2025-05-01,5,5,,
+742,Sushi,250,450,Grain,,Kano,2023-11-21,2,,20,   late   
+743,,350,200,Grain,McDonald, ABUJA,2025-09-05,,,15,Good
+744,Pizza,350,400,Fast Food,Burger King,Ibadan,2025-08-13,,,45,   late   
+745,Pizza,150,300,Bakery,McDonald,Kano,2025-06-12,4,,60,Average
+746,Bread,500,200,Vegetable,Domino's,Abuja,2023-05-24,4,,,Delayed
+747,  sandwich ,500,350,,Domino's,Kano,2024-01-19,4,5,15,Poor
+748,Pizza,300,250,Bakery,KFC, ABUJA,2023-08-04,4,15,,   late   
+749,Pizza,450,250,Grain,   Subway,Lagos,2023-11-20,3,10,20,   late   
+750,Burger,,300,Bakery,,lagos,2025-11-04,5,,25,   late   
+751,Burger,250,550,Grain,KFC,Kano,2023-08-05,4,,15,Excellent
+752,Bread,400,550,Bakery,McDonald,Port Harcourt,2025-08-08,5,10,30,Good
+753,  sandwich ,,500,Fast Food,Pizza Hut,Lagos,2023-07-02,1,5,25,Good
+754,Pasta,,450,Dessert,KFC,Ibadan,2023-09-27,4,0,,Excellent
+755,Burger,8000,1200,Fast Food,KFC,Port Harcourt,2025-08-02,5,20,30,Good
+756,Pasta,150,350,Fast Food,Domino's,Abuja,2025-05-19,4,20,30,Excellent
+757,Rice,350,200,Dessert,Pizza Hut,lagos,2024-04-11,3,0,30,   late   
+758,Burger,300,550,Dessert,Burger King,Abuja,2023-11-01,2,5,15,
+759,,500,500,fast food,McDonald,lagos,2023-04-21,2,20,45,Average
+760,  sandwich ,150,500,fast food,KFC,lagos,2025-10-10,5,10,,   late   
+761,Bread,8000,300,Vegetable,Pizza Hut,Abuja,2023-08-20,5,0,25,Average
+762,Rice,400,350,,   Subway,Port Harcourt,2024-08-17,2,15,20,Delayed
+763,  sandwich ,300,,,,Port Harcourt,2023-06-22,2,5,45,   late   
+764,,8000,1200,Vegetable,Pizza Hut,lagos,2025-08-30,1,0,,Poor
+765,  sandwich ,350,450,Fast Food,   Subway,Port Harcourt,2025-10-27,5,20,15,Good
+766,,350,400,Fast Food,McDonald,lagos,2024-06-29,5,5,30,Poor
+767,,350,300,Grain,Pizza Hut, ABUJA,2024-07-01,5,10,20,
+768,Pasta,150,1200,Grain,   Subway,lagos,2024-06-01,2,5,,Average
+769,Sushi,150,400,,Pizza Hut, ABUJA,2025-07-02,2,5,25,   late   
+770,Rice,500,400,Vegetable,Pizza Hut,Lagos,2023-08-03,2,10,,
+771,  sandwich ,500,350,Seafood,,,2023-05-14,,,45,
+772,Salad,400,350,fast food,   Subway,Lagos,2023-10-12,3,10,60,Good
+773,Rice,300,200,Seafood,   Subway,Abuja,2024-11-16,4,5,45,
+774,Sushi,200,500,Vegetable,KFC,,2023-11-27,3,10,,   late   
+775,Rice,200,1200,Grain,McDonald,Kano,2025-06-12,5,,20,   late   
+776,Pizza,8000,300,,,Abuja,2025-06-17,1,0,,Average
+777,Salad,350,250,,Pizza Hut,Ibadan,2023-03-19,4,10,,   late   
+778,Sushi,300,300,Grain,Pizza Hut,Lagos,2025-08-04,1,10,15,Poor
+779,Pasta,,200,Seafood,KFC,Port Harcourt,2024-11-18,5,5,25,Average
+780,  sandwich ,150,450,Bakery,McDonald,Lagos,2023-01-21,,0,20,Good
+781,Cake,450,500,Bakery,Domino's,Port Harcourt,2024-07-19,5,15,,Average
+782,Sushi,250,250,Grain,,,2025-04-06,,15,30,Excellent
+783,Bread,400,550,Bakery,KFC,Ibadan,2023-06-28,5,20,25,Poor
+784,  sandwich ,350,450,Dessert,McDonald,,2025-12-18,1,10,45,Excellent
+785,Sushi,350,350,Vegetable,,Ibadan,2025-06-23,1,10,20,Excellent
+786,Pizza,350,400,Vegetable,Pizza Hut,Lagos,2024-10-30,1,0,45,Delayed
+787,Cake,150,550,Grain,McDonald,Port Harcourt,2023-07-10,5,,,   late   
+788,Pizza,150,300,Fast Food,McDonald,,2024-12-08,2,15,45,Good
+789,Cake,250,300,fast food,Burger King,Ibadan,2025-11-24,1,20,45,
+790,Bread,,350,Seafood,McDonald,lagos,2024-01-14,,0,15,Excellent
+791,  sandwich ,300,200,Grain,Domino's,Abuja,2024-01-22,5,10,45,Average
+792,Pasta,350,1200,Bakery,McDonald,Abuja,2023-08-25,4,15,30,
+793,Pizza,200,550,Seafood,Domino's,,2024-09-07,5,20,30,Average
+794,Pizza,500,550,Fast Food,Pizza Hut,Port Harcourt,2023-10-10,,5,25,Average
+795,,200,,Bakery,Domino's,lagos,2023-01-01,3,15,,
+796,Cake,8000,450,,,,2024-04-08,5,20,60,
+797,Burger,200,500,fast food,Pizza Hut,Lagos,2025-08-24,3,0,45,   late   
+798,  sandwich ,8000,450,Dessert,Pizza Hut,Ibadan,2023-06-21,4,5,45,Average
+799,Cake,450,1200,Bakery,Domino's, ABUJA,2025-04-22,2,20,20,Good
+800,,500,300,Dessert,   Subway,Lagos,2024-11-20,1,20,15,   late   
+801,Rice,200,300,Seafood,KFC,Abuja,2024-07-28,5,10,60,Poor
+802,Cake,450,300,Dessert,Subway,Ibadan,2023-06-14,,,25,Delayed
+803,Pasta,400,,Seafood,   Subway,,2024-01-18,1,15,60,Poor
+804,  sandwich ,300,300,Seafood,McDonald,Lagos,2023-07-28,,10,45,Good
+805,,450,1200,Seafood,Burger King,Kano,2023-08-12,5,5,20,   late   
+806,Rice,300,350,Seafood,Subway, ABUJA,2023-01-03,3,,,Delayed
+807,Salad,200,500,Seafood,McDonald,Port Harcourt,2024-01-07,1,20,15,   late   
+808,,,1200,Bakery,   Subway,lagos,2024-09-02,4,10,,
+809,Salad,450,500,Seafood,   Subway,lagos,2023-04-26,2,,25,Delayed
+810,  sandwich ,500,1200,Bakery,McDonald,Port Harcourt,2024-03-22,4,15,60,Average
+811,Pizza,200,300,Seafood,Pizza Hut,Kano,2024-02-19,2,5,25,Poor
+812,,350,350,Dessert,McDonald,Abuja,2025-06-10,5,0,45,Delayed
+813,Bread,150,550,,Burger King,Ibadan,2025-11-13,,10,25,Average
+814,Salad,450,450,Seafood,   Subway,Port Harcourt,2024-10-24,1,5,,   late   
+815,Pasta,500,400,Fast Food,McDonald,Kano,2025-12-09,1,0,20,Good
+816,Bread,400,350,Seafood,Domino's,,2024-12-18,5,10,25,Delayed
+817,Sushi,350,550,Seafood,Subway, ABUJA,2025-11-16,2,5,30,Average
+818,Sushi,400,200,Dessert,Domino's,lagos,2023-09-28,3,5,20,   late   
+819,Rice,200,1200,fast food,Burger King, ABUJA,2024-07-15,5,,60,   late   
+820,Pizza,150,200,Vegetable,McDonald,Kano,2025-03-14,4,10,15,   late   
+821,  sandwich ,450,550,Dessert,, ABUJA,2023-09-04,5,5,15,Good
+822,,450,350,Fast Food,Burger King,Abuja,2024-01-22,,20,45,
+823,Burger,,1200,Vegetable,Pizza Hut,Abuja,2024-12-02,5,10,45,Good
+824,Pasta,,400,Grain,Domino's,Lagos,2024-07-12,4,5,30,Good
+825,Salad,200,300,Grain,Domino's,Port Harcourt,2025-08-30,4,,60,Poor
+826,  sandwich ,200,1200,fast food,KFC,Lagos,2025-09-10,,0,,   late   
+827,Bread,150,1200,Fast Food,McDonald, ABUJA,2023-12-18,,0,15,Average
+828,Sushi,,350,Dessert,Pizza Hut,lagos,2025-01-22,1,20,15,Delayed
+829,Pasta,500,350,Bakery,,Kano,2025-02-19,4,10,15,Poor
+830,Burger,500,550,Fast Food,Domino's,Ibadan,2025-10-21,5,,,   late   
+831,,150,250,,Domino's, ABUJA,2024-06-29,5,5,15,Excellent
+832,Rice,500,1200,Vegetable,Pizza Hut,Ibadan,2023-03-20,2,5,25,Good
+833,Burger,8000,450,Vegetable,Burger King,Abuja,2023-11-30,5,0,60,Excellent
+834,Pasta,300,1200,Seafood,Burger King,Ibadan,2025-06-07,,,20,   late   
+835,Burger,150,550,Grain,McDonald,Ibadan,2024-05-16,1,20,20,Poor
+836,Pasta,150,500,fast food,   Subway,lagos,2025-02-03,5,0,30,Average
+837,Pasta,250,200,Vegetable,KFC,Ibadan,2025-07-09,3,0,25,Poor
+838,Cake,350,300,Fast Food,Domino's, ABUJA,2024-07-03,1,20,15,Average
+839,Salad,350,250,Vegetable,   Subway,Kano,2023-01-14,1,10,15,Average
+840,Sushi,8000,400,fast food,   Subway,Ibadan,2024-01-27,5,5,45,   late   
+841,Cake,,400,fast food,KFC,,2023-11-06,3,10,45,
+842,,200,400,fast food,   Subway,Ibadan,2024-01-21,2,,30,   late   
+843,Cake,200,350,Fast Food,   Subway,Ibadan,2025-08-31,5,15,15,Good
+844,Pizza,400,400,Bakery,Burger King,Lagos,2023-12-06,3,15,30,Poor
+845,Pizza,8000,300,Seafood,Burger King,Kano,2024-08-19,1,15,25,Average
+846,Sushi,150,200,Grain,Subway, ABUJA,2025-01-26,3,20,20,   late   
+847,Burger,8000,400,Vegetable,,Abuja,2025-11-11,1,0,15,   late   
+848,Salad,8000,1200,Fast Food,McDonald,Lagos,2023-10-18,5,10,60,Poor
+849,Sushi,8000,1200,Dessert,   Subway, ABUJA,2023-11-02,5,5,,Poor
+850,Pasta,350,350,Grain,Subway,Port Harcourt,2024-09-25,,15,25,Average
+851,Bread,8000,300,Bakery,,Kano,2024-09-16,5,10,15,Delayed
+852,Salad,300,200,Fast Food,Subway,,2025-07-27,5,15,,Excellent
+853,Salad,200,250,,Subway,Kano,2025-04-27,4,15,60,Good
+854,Pasta,400,550,,McDonald,Port Harcourt,2024-03-17,4,5,45,Good
+855,Pasta,300,200,Seafood,McDonald,Port Harcourt,2024-05-17,4,,30,Delayed
+856,Rice,400,550,Seafood,Pizza Hut,Port Harcourt,2023-05-10,5,,45,
+857,Sushi,250,500,Bakery,KFC,lagos,2024-08-19,2,,20,Delayed
+858,Pasta,400,550,Bakery,KFC,Abuja,2025-05-11,5,20,45,
+859,Pizza,200,450,Seafood,Pizza Hut,Ibadan,2024-08-15,5,0,15,
+860,,200,1200,Vegetable,Pizza Hut,Kano,2025-09-25,5,20,60,Delayed
+861,Bread,8000,300,Vegetable,Burger King, ABUJA,2023-11-21,,10,45,Good
+862,Sushi,450,,Fast Food,,lagos,2025-12-28,3,20,15,Excellent
+863,  sandwich ,250,350,Dessert,Subway, ABUJA,2024-03-23,5,10,20,Good
+864,Pizza,150,450,Fast Food,   Subway,Ibadan,2025-03-29,5,10,,   late   
+865,Burger,500,550,Dessert,Pizza Hut,Ibadan,2024-12-09,1,0,60,Good
+866,Pasta,400,400,Bakery,Domino's,,2023-09-22,5,5,45,Good
+867,  sandwich ,450,300,Grain,KFC,Port Harcourt,2024-09-03,1,0,30,Delayed
+868,Pasta,8000,450,Fast Food,Pizza Hut,Abuja,2025-04-11,1,,30,Delayed
+869,Salad,350,350,Fast Food,Domino's,,2024-11-04,5,,60,   late   
+870,Pizza,150,1200,Dessert,Domino's,Lagos,2023-06-06,2,20,30,   late   
+871,Salad,,300,fast food,Domino's,lagos,2023-09-08,3,10,45,Delayed
+872,Rice,450,350,Bakery,Burger King,lagos,2025-05-27,3,15,45,Good
+873,Salad,350,500,Bakery,Burger King,Abuja,2024-06-13,5,15,60,Excellent
+874,Rice,250,500,,   Subway,Ibadan,2023-11-23,,10,45,
+875,Rice,8000,350,fast food,   Subway, ABUJA,2025-08-18,5,0,,Poor
+876,  sandwich ,150,450,Dessert,Domino's,lagos,2025-06-13,2,5,15,
+877,Pasta,150,300,Bakery,,Abuja,2023-04-07,2,0,20,   late   
+878,Burger,150,450,fast food,Burger King,lagos,2024-05-27,3,10,,   late   
+879,Salad,250,250,Seafood,Subway,lagos,2023-08-04,4,10,,
+880,Pizza,400,550,fast food,Domino's,Port Harcourt,2023-05-05,1,5,30,Poor
+881,Rice,,250,Vegetable,Subway,Lagos,2023-02-28,1,20,15,Good
+882,Pasta,250,500,,Subway,Port Harcourt,2023-06-10,3,20,60,Excellent
+883,Bread,500,1200,Seafood,Domino's,Lagos,2023-10-11,5,5,30,Excellent
+884,Sushi,,200,Grain,KFC,lagos,2023-04-16,2,20,15,
+885,  sandwich ,200,550,Fast Food,,,2023-08-16,5,15,45,Poor
+886,Burger,8000,500,,Domino's, ABUJA,2023-11-14,,20,60,   late   
+887,Cake,250,450,Grain,   Subway,Ibadan,2025-03-12,4,20,60,Average
+888,  sandwich ,350,450,Fast Food,Domino's,lagos,2025-05-23,3,20,30,Good
+889,Bread,,450,Vegetable,Burger King,Lagos,2024-04-16,1,15,45,
+890,Sushi,500,1200,fast food,Domino's,Lagos,2025-12-15,5,20,30,Excellent
+891,Bread,200,250,Bakery,KFC,Lagos,2024-09-16,5,,25,   late   
+892,Salad,400,200,Seafood,Burger King,lagos,2023-01-13,2,15,15,Delayed
+893,Rice,350,450,Dessert,   Subway,Abuja,2025-11-07,5,5,25,Delayed
+894,Burger,,,Seafood,McDonald,,2024-11-24,,0,15,Poor
+895,,8000,550,Vegetable,McDonald,Abuja,2025-08-30,3,5,20,Poor
+896,Rice,350,300,Grain,Subway,Ibadan,2023-04-23,5,0,,
+897,,200,,Dessert,,lagos,2023-08-17,1,5,60,Average
+898,Sushi,350,200,Bakery,Subway,Lagos,2023-06-20,5,,30,Excellent
+899,Pasta,300,1200,Vegetable,KFC,,2023-10-22,4,0,20,
+900,Cake,450,200,Dessert,Pizza Hut,,2023-07-08,5,0,20,Average
+901,Pizza,400,300,Vegetable,   Subway,Kano,2024-03-01,4,10,60,   late   
+902,Rice,200,550,fast food,,Ibadan,2025-09-03,,0,60,Poor
+903,Burger,350,300,Vegetable,   Subway, ABUJA,2024-10-19,1,0,15,Delayed
+904,Bread,450,350,Bakery,McDonald, ABUJA,2025-07-07,5,10,25,Good
+905,Burger,450,550,,Subway,,2024-05-13,,20,45,   late   
+906,Sushi,350,200,Fast Food,   Subway,lagos,2025-01-31,4,20,15,Delayed
+907,,8000,450,Dessert,McDonald,Lagos,2025-05-15,4,10,45,Excellent
+908,Bread,300,200,fast food,KFC,Lagos,2025-04-05,5,15,20,Excellent
+909,Pizza,250,200,Bakery,KFC,,2023-03-12,1,0,45,Delayed
+910,Pizza,300,550,Vegetable,Pizza Hut,Abuja,2023-09-05,4,0,25,   late   
+911,Rice,350,350,fast food,   Subway,Ibadan,2023-05-26,3,10,15,Delayed
+912,Sushi,400,200,Bakery,Pizza Hut,Lagos,2024-08-04,,10,60,Average
+913,Pasta,250,,,Burger King,,2024-04-14,5,15,25,
+914,Sushi,200,500,fast food,,Lagos,2023-07-12,2,,,Poor
+915,,300,400,fast food,   Subway, ABUJA,2025-12-27,2,20,25,Average
+916,Burger,350,400,Fast Food,KFC,,2024-05-08,1,5,,Good
+917,Pizza,300,200,Seafood,Subway,Ibadan,2023-02-21,3,,15,Delayed
+918,Burger,250,,Dessert,McDonald,,2025-05-31,4,20,60,Good
+919,Burger,500,450,Fast Food,Domino's,Kano,2023-12-29,2,0,25,Good
+920,Burger,,1200,Grain,Pizza Hut,,2025-07-05,1,,,Average
+921,Pizza,300,1200,Dessert,Domino's,,2024-04-18,,10,60,Poor
+922,  sandwich ,200,550,Fast Food,   Subway,lagos,2024-06-04,3,15,30,   late   
+923,Salad,200,400,Vegetable,Subway, ABUJA,2024-11-21,3,20,30,Excellent
+924,,150,200,Dessert,Pizza Hut,Ibadan,2024-06-15,5,15,30,
+925,  sandwich ,300,1200,Dessert,Domino's,lagos,2025-04-19,1,20,45,Excellent
+926,,,200,Bakery,,,2025-12-24,1,,25,Poor
+927,Bread,8000,550,Vegetable,Subway,Ibadan,2023-08-29,5,0,15,Excellent
+928,Sushi,450,400,Grain,McDonald,Kano,2024-06-19,4,5,15,Delayed
+929,Sushi,,300,Seafood,,Ibadan,2023-03-24,1,15,45,Delayed
+930,Cake,450,500,fast food,Subway,Lagos,2025-09-08,5,15,15,Average
+931,Sushi,450,500,,Burger King,lagos,2025-08-08,4,5,,Good
+932,Pizza,500,1200,Fast Food,Pizza Hut,Ibadan,2024-09-02,4,15,30,Poor
+933,Pasta,150,500,Bakery,KFC, ABUJA,2024-07-27,5,15,25,Poor
+934,Rice,,300,Fast Food,McDonald,Kano,2023-10-13,3,20,15,Excellent
+935,Cake,,200,Grain,   Subway,Port Harcourt,2025-09-15,,20,15,Average
+936,Rice,500,550,fast food,,,2024-04-03,3,5,20,Excellent
+937,,300,300,Grain,,Ibadan,2023-05-06,3,0,20,Excellent
+938,Rice,300,550,Dessert,Domino's,,2024-02-29,5,,20,Poor
+939,Rice,300,550,,Pizza Hut,Abuja,2024-07-07,4,,25,Excellent
+940,Cake,400,400,Grain,   Subway,Lagos,2024-09-01,4,15,30,Good
+941,Bread,450,200,Fast Food,KFC,lagos,2023-04-22,1,0,60,Excellent
+942,Burger,400,,Vegetable,Subway,Lagos,2024-02-06,5,5,30,Good
+943,Sushi,150,500,Vegetable,KFC,Abuja,2023-05-02,1,5,30,Poor
+944,Sushi,500,,Dessert,Pizza Hut,Abuja,2023-09-30,5,20,25,Average
+945,Pizza,,400,Seafood,Pizza Hut,lagos,2024-02-02,1,15,,Delayed
+946,Cake,450,550,Fast Food,Burger King,Ibadan,2024-04-15,2,10,,Good
+947,Pizza,400,1200,Fast Food,Burger King,Abuja,2025-09-11,5,5,25,Average
+948,Pasta,400,500,Grain,KFC,Port Harcourt,2024-07-22,3,15,20,Average
+949,Pasta,350,500,,Subway,,2025-06-15,3,0,15,Good
+950,Pizza,400,200,Fast Food,KFC,,2025-03-30,,20,45,Poor
+951,Cake,8000,350,Bakery,Pizza Hut,Kano,2025-05-02,5,,45,
+952,Pizza,,250,Seafood,Pizza Hut, ABUJA,2024-12-10,4,0,60,Average
+953,Sushi,8000,250,Grain,Domino's,Abuja,2023-11-17,,5,15,Average
+954,  sandwich ,,250,Bakery,Burger King,Abuja,2023-06-28,2,5,60,Poor
+955,Salad,500,350,Dessert,   Subway,Port Harcourt,2025-06-15,,0,20,Poor
+956,Rice,,200,Vegetable,   Subway,Lagos,2023-08-07,3,5,60,Excellent
+957,Salad,8000,350,Dessert,   Subway,Lagos,2025-02-27,4,15,15,Poor
+958,Cake,,250,Vegetable,Domino's,,2024-05-06,2,5,15,Average
+959,Salad,500,400,Dessert,McDonald,,2023-03-02,3,20,45,Good
+960,Pasta,500,300,Fast Food,   Subway,Ibadan,2025-12-13,5,15,,
+961,,150,550,Bakery,Pizza Hut,lagos,2024-06-21,1,10,20,   late   
+962,Rice,,350,Vegetable,Domino's, ABUJA,2025-04-27,5,5,25,Excellent
+963,Burger,350,200,Grain,KFC,Port Harcourt,2025-09-14,2,5,60,   late   
+964,Cake,300,200,Bakery,Burger King,lagos,2023-03-06,4,20,45,Good
+965,Rice,200,,Grain,Burger King,lagos,2024-08-08,,20,60,
+966,Salad,500,300,Bakery,Subway,Kano,2023-06-20,5,,60,
+967,Pasta,250,1200,Bakery,KFC,lagos,2024-06-18,,0,25,
+968,Bread,300,500,Dessert,Subway,Kano,2024-11-23,2,0,20,Delayed
+969,  sandwich ,450,250,Vegetable,Domino's,lagos,2023-04-18,5,0,15,Good
+970,Burger,,1200,Vegetable,,Port Harcourt,2025-03-24,4,20,30,Excellent
+971,  sandwich ,8000,,,   Subway,Kano,2025-10-01,2,0,60,Excellent
+972,Rice,200,250,Bakery,McDonald,Lagos,2024-03-27,4,0,30,
+973,Pasta,250,300,Fast Food,KFC,Kano,2024-08-12,,10,20,Good
+974,Pasta,300,,Fast Food,KFC,Kano,2025-11-05,3,0,30,Delayed
+975,Salad,,250,Grain,KFC,Port Harcourt,2023-11-23,5,5,60,
+976,Sushi,150,300,Grain,Subway,Port Harcourt,2024-08-30,1,,25,Poor
+977,Salad,450,450,Dessert,Domino's,Kano,2024-10-20,3,20,30,   late   
+978,Sushi,200,1200,Bakery,KFC, ABUJA,2023-01-02,1,15,20,Excellent
+979,Sushi,350,1200,Grain,,Abuja,2025-10-30,,,20,   late   
+980,Burger,150,500,Grain,KFC, ABUJA,2024-03-09,5,10,,Average
+981,Salad,250,300,Seafood,Burger King,Port Harcourt,2023-05-05,3,20,,
+982,Bread,200,350,Bakery,   Subway, ABUJA,2024-04-29,3,20,25,Poor
+983,Pizza,150,450,fast food,McDonald, ABUJA,2024-10-13,2,5,30,Excellent
+984,Pizza,450,400,Dessert,   Subway,Ibadan,2025-03-10,5,,30,   late   
+985,Salad,350,250,Grain,Burger King,Ibadan,2025-05-22,,,,Delayed
+986,Salad,150,450,Dessert,Burger King,Lagos,2023-05-09,4,0,15,Good
+987,  sandwich ,400,300,Vegetable,McDonald,lagos,2024-03-13,,5,45,Excellent
+988,Burger,350,550,Dessert,,Kano,2025-01-20,4,0,20,   late   
+989,Salad,250,250,fast food,Domino's,Abuja,2024-05-15,5,0,15,Good
+990,  sandwich ,450,200,Fast Food,Burger King,Lagos,2025-12-17,4,20,20,   late   
+991,Sushi,,1200,fast food,Domino's,Kano,2023-07-30,1,,15,Good
+992,Pasta,8000,300,Fast Food,Burger King, ABUJA,2025-06-20,4,0,,Delayed
+993,Pasta,8000,200,Dessert,Pizza Hut,Port Harcourt,2023-02-14,4,10,,Delayed
+994,Sushi,8000,500,Fast Food,McDonald,Ibadan,2024-06-18,2,10,45,
+995,Cake,200,,Vegetable,Burger King,,2024-04-05,3,,15,
+996,  sandwich ,250,400,Bakery,Pizza Hut,Abuja,2024-01-26,,10,20,Excellent
+997,  sandwich ,450,400,Fast Food,   Subway, ABUJA,2025-12-03,,20,30,Delayed
+998,Sushi,350,200,Fast Food,Subway,,2023-01-27,5,5,20,Poor
+999,Bread,200,1200,Dessert,Pizza Hut,Ibadan,2025-03-04,5,15,60,   late   
+1000,,250,500,Vegetable,KFC, ABUJA,2025-09-01,4,0,,   late   
+522,Burger,150,1200,Fast Food,Burger King,Ibadan,2024-06-03,1,15,,Average
+738,Sushi,150,250,,   Subway, ABUJA,2024-11-28,5,0,,
+741,Salad,200,500,Seafood,McDonald,Kano,2025-05-01,5,5,,
+661,Burger,,550,Grain,Burger King,Kano,2023-01-01,1,15,,Excellent
+412,,150,500,Grain,Pizza Hut,Port Harcourt,2023-12-24,2,0,60,Delayed
+679,Rice,,550,fast food,,Port Harcourt,2025-12-29,4,10,30,Poor
+627,Salad,,350,Dessert,Subway,Lagos,2025-03-23,2,5,20,Excellent
+514,Salad,,300,Dessert,Domino's,Ibadan,2023-12-14,5,10,,Average
+860,,200,1200,Vegetable,Pizza Hut,Kano,2025-09-25,5,20,60,Delayed
+137,,200,350,Seafood,McDonald,lagos,2025-07-14,4,10,60,Poor
+812,,350,350,Dessert,McDonald,Abuja,2025-06-10,5,0,45,Delayed
+77,,150,450,fast food,,Kano,2024-12-18,1,20,20,
+637,Bread,400,,Fast Food,KFC,,2023-09-02,,,15,
+974,Pasta,300,,Fast Food,KFC,Kano,2025-11-05,3,0,30,Delayed
+939,Rice,300,550,,Pizza Hut,Abuja,2024-07-07,4,,25,Excellent
+900,Cake,450,200,Dessert,Pizza Hut,,2023-07-08,5,0,20,Average
+281,Pasta,150,350,fast food,McDonald,,2023-07-14,5,,30,Good
+884,Sushi,,200,Grain,KFC,lagos,2023-04-16,2,20,15,
+762,Rice,400,350,,   Subway,Port Harcourt,2024-08-17,2,15,20,Delayed
+320,Bread,450,450,Fast Food,, ABUJA,2025-07-28,2,5,,Good
+550,Burger,250,200,Bakery,McDonald,Lagos,2024-10-19,2,20,,Average
+175,Sushi,250,1200,Dessert,Pizza Hut,lagos,2023-05-28,4,,25,
+372,Pasta,150,450,Dessert,Burger King,Kano,2023-11-24,2,5,,Average
+528,Burger,200,550,,Pizza Hut,lagos,2024-07-10,2,5,15,Poor
+211,Pizza,500,500,,McDonald, ABUJA,2024-08-29,3,,60,
+236,Burger,400,1200,fast food,McDonald,,2025-10-12,2,20,20,Delayed
+102,Rice,250,250,Bakery,Burger King,,2023-07-06,1,10,30,Good
+987,  sandwich ,400,300,Vegetable,McDonald,lagos,2024-03-13,,5,45,Excellent
+903,Burger,350,300,Vegetable,   Subway, ABUJA,2024-10-19,1,0,15,Delayed
+948,Pasta,400,500,Grain,KFC,Port Harcourt,2024-07-22,3,15,20,Average
+347,Pizza,250,1200,Fast Food,Subway,Abuja,2025-05-26,,0,60,Excellent
+140,Salad,450,350,Dessert,KFC,,2025-12-30,5,20,25,Poor
+622,Pasta,450,200,Vegetable,Domino's,Kano,2025-07-07,2,5,20,Average
+500,Pizza,350,400,Vegetable,McDonald,,2023-06-28,2,5,20,Average
+371,Salad,8000,300,Dessert,Burger King, ABUJA,2025-01-11,,0,30,Delayed
+199,Bread,150,450,Dessert,   Subway,,2023-05-24,,20,45,Average
+688,Pasta,500,450,Seafood,Burger King,lagos,2023-10-01,5,5,30,
+585,Burger,350,1200,Seafood,Pizza Hut,Ibadan,2023-08-21,3,20,60,
+902,Rice,200,550,fast food,,Ibadan,2025-09-03,,0,60,Poor
+60,  sandwich ,500,200,Vegetable,Pizza Hut,,2023-03-17,1,15,25,   late   
+329,Rice,450,1200,Fast Food,Subway,Ibadan,2024-12-06,5,20,,Delayed
+97,,300,300,Seafood,Pizza Hut,Ibadan,2025-10-15,1,20,,Excellent
+313,,450,500,Fast Food,,Port Harcourt,2023-10-18,,20,20,Good
+975,Salad,,250,Grain,KFC,Port Harcourt,2023-11-23,5,5,60,
+300,,150,550,Fast Food,Domino's,Port Harcourt,2024-09-07,5,5,,Delayed
+278,Pizza,,550,Grain,   Subway,lagos,2023-06-13,5,10,30,Excellent
+925,  sandwich ,300,1200,Dessert,Domino's,lagos,2025-04-19,1,20,45,Excellent
+602,Pasta,500,250,Vegetable,KFC,Lagos,2023-10-21,5,,30,Delayed
+440,Sushi,200,500,Vegetable,McDonald,Ibadan,2023-10-18,2,10,25,Excellent
+838,Cake,350,300,Fast Food,Domino's, ABUJA,2024-07-03,1,20,15,Average
