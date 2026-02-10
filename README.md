@@ -34,8 +34,7 @@ The objectives of this project were to:
 
 ## 🛠 Tools & Technologies
 - **Python**
-- **Pandas** – data manipulation and cleaning  
-- **Matplotlib** – visual exploration  
+- **Pandas** – data manipulation and cleaning   
 - **Jupyter Notebook**
 
 ---
@@ -123,8 +122,8 @@ This project demonstrates how raw operational data can be transformed into valua
 ## 📁 Project Structure
 ```text
 ├── data/
-│   ├── raw_food_data.csv
+│   ├── messy_food_data.csv
 │   └── cleaned_food_data.csv
 ├── notebook/
-│   └── food_business_intelligence.ipynb
+│   └── python_cleaning.ipynb
 ├── README.md
